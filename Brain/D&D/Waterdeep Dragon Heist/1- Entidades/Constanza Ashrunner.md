@@ -1,3 +1,4 @@
+![Imagen de Constanza](ConstanzaAshrunner.jpg)
 
 ### Entrada
 **Constanza Ashrunner** es la tercer hija de [[Lord Fourier Ashrunner]], heredera de su fortaleza en Waterdeep. También es la hermana menor de [[Rust]] y [[Lucas Ashrunner]].
@@ -18,3 +19,8 @@ Ambos hermanos mayores repudian esta relación, argumentando que una mujer de la
 | [[Oro]] | Mejor Amigo   | -      |
 
 ## Organizaciones
+
+
+
+
+#Entidad #NPC

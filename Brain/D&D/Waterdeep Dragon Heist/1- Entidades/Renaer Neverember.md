@@ -1,0 +1,6 @@
+
+
+
+
+
+#Entidad #NPC

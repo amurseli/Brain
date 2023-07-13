@@ -9,3 +9,9 @@ Floon Blagmaar es un emprendedor de bastante renombre, muy amigo tanto de [[Volo
 | [[Renaer Neverember]] | Amigo   | 50      |
 | [[Volothamp Geddarm]] | Amigo   | 80      |
 ## Organizaciones
+
+
+
+
+
+#Entidad #NPC

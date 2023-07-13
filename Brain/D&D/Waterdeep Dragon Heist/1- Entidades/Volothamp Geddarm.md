@@ -15,4 +15,6 @@ Cuando el grupo logró rescatar exitosamente a [[Floon Blagmaar]], Volo se vió
 | ------ | -------- | ----------- |
 | [[Floon Blagmaar]] | Amigo   | 80      |
 
-## Organizaciones
+
+
+#Entidad #NPC

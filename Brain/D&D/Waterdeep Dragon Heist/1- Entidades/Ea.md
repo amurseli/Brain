@@ -40,3 +40,8 @@ Ambos sabían a que se refería. Debía dejar atrás a [[Nemeia]]. Ea era todo 
 -Porque eres la clave de todo. Y es mejor tener a la clave de todo de mi lado- Sonrió de oreja a oreja.
 
 Ahora tenía muchas mas preguntas
+
+
+
+
+#Entidad #NPC

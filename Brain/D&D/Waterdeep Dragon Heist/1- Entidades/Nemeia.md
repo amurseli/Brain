@@ -8,3 +8,9 @@ Lo cierto es que a Nem no le gustaba tanto el vino, las armas por otro lado sí.
 Pero Nemeia no era una asesina, Gorrión había sido su compañero mas fiel desde que ingreso a [[Los Ruiseñores]], junto con su hermana, hace 5 años.
 
 “Voy a matar a ese elfo inútil”
+
+
+
+
+
+#Entidad #PC

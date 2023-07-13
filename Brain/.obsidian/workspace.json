@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md",
+                "file": "Lander Severian.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Organización",
+                "query": "constanza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md",
+                "file": "Lander Severian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md",
+                "file": "Lander Severian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md"
+                "file": "Lander Severian.md"
               }
             }
           },
@@ -145,11 +145,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,41 +171,42 @@
   },
   "active": "18daef21caea0147",
   "lastOpenFiles": [
+    "z_attachments/LanderSeverian.png",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
+    "Lander Severian.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "z_attachments/ConstanzaAshrunner.jpg",
+    "z_attachments",
+    "ConstanzaAshrunner.jpg.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Sarrai.md",
+    "Raemo.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Volothamp Geddarm.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Floon Blagmaar.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Tienda del Viejo Xoblob.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Dock Ward.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
-    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Kenkus.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Departamenteo de Oro.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Peabody's Ale.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/North Ward.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md",
+    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Kenkus.md",
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales",
     "z_templates/Location Template.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Departamenteo de Oro.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
     "D&D/Waterdeep Dragon Heist/6- Sesiones/0 - Timeline.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
-    "z_templates/Session Notes Template.md",
     "D&D/Waterdeep Dragon Heist/7- Narrativa",
-    "D&D/Waterdeep Dragon Heist/0 - Overview.md",
-    "Southern.md",
-    "z_templates/Organizations Template.md",
-    "z_templates/Entity Template.md",
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md",
-    "z_templates/Relations Template.md",
-    "z_templates/Article Template.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
     "D&D/Waterdeep Dragon Heist/3- Organizaciones",
     "D&D/Waterdeep Dragon Heist/2- Lugares",
-    "Place.md",
-    "D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Sarrai en el balcon Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
-    "z_templates/Fast Ideas Template.md",
-    "D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Prueba.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
     "D&D/Waterdeep Dragon Heist/z_templates/Character",
     "z_templates",
     "D&D/Waterdeep Dragon Heist/4- Notas Rápidas",
     "D&D/Waterdeep Dragon Heist/6- Sesiones",
-    "D&D/Waterdeep Dragon Heist/5- Ideas",
-    "D&D/Waterdeep Dragon Heist/1- Entidades"
+    "D&D/Waterdeep Dragon Heist/5- Ideas"
   ]
 }

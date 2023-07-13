@@ -25,3 +25,8 @@ Deraxie es el líder y co-fundador de la organización [[Garvan D'Luth]]. Esta o
 | Nombre            | Rol    |
 | ----------------- | ------ |
 | [[Garvan D'Luth]] | Líder |
+
+
+
+
+#Entidad #NPC

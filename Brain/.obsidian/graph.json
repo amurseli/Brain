@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "#PC",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "#lugar",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 6479954
+      }
+    },
+    {
+      "query": "#Entidad",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.50364583333333,
-  "lineSizeMultiplier": 1.171875,
-  "collapse-forces": true,
-  "centerStrength": 0.734375,
-  "repelStrength": 15,
-  "linkStrength": 0.421875,
-  "linkDistance": 351,
-  "scale": 0.713275462622452,
+  "nodeSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 1.478125,
+  "collapse-forces": false,
+  "centerStrength": 0.557291666666667,
+  "repelStrength": 11.0416666666667,
+  "linkStrength": 0.583333333333333,
+  "linkDistance": 500,
+  "scale": 0.3628873693012184,
   "close": false
 }

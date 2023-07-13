@@ -14,3 +14,5 @@ Para mas Info, Leer [Aquí](https://forgottenrealms.fandom.com/wiki/Waterdeep).
 - [[Trade Ward]]
 - [[Field Ward]]
 - [[Alcantarillas de Waterdeep]]
+
+#Lugar 
