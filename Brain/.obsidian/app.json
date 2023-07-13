@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "es",
+    "en"
+  ],
+  "spellcheck": false,
+  "attachmentFolderPath": "./"
+}
