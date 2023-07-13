@@ -23,8 +23,12 @@
             "id": "ce1d5a689e0a1cd5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md"
+              }
             }
           },
           {
