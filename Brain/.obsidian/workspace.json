@@ -11,15 +11,68 @@
             "id": "18daef21caea0147",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6f66b9f79f5f747",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+                "file": "Videos/Mageseeker Video/Narrativa.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fe441c38683c9d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Videos/Mageseeker Video/Gameplay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f125a716984dc8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Videos/Mageseeker Video/Conclusión.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10ddca8d37bd8bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Videos/Mageseeker Video/Bugs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b413a02d5c3ebda5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,14 +218,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18daef21caea0147",
+  "active": "b413a02d5c3ebda5",
   "lastOpenFiles": [
+    "Durnan.md",
+    "El Portal Bostezante.md",
+    "Castle Ward.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Dock Ward.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "Videos/Mageseeker Video/Musica y Visual.md",
+    "Videos/Mageseeker Video/Bugs.md",
+    "Videos/Mageseeker Video/Narrativa.md",
+    "Videos/Mageseeker Video/Gameplay.md",
+    "Videos/Mageseeker Video/Conclusión.md",
+    "Videos/Mageseeker Video",
+    "Videos",
     "D&D/Waterdeep Dragon Heist/7- Narrativa/I - Un Amigo en Apuros.md",
     "D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Sarrai en el balcon Ashrunner.md",
     "D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Departamenteo de Oro.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Dock Ward.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Fortaleza Ashrunner.md",
@@ -185,32 +247,19 @@
     "D&D/Waterdeep Dragon Heist/2- Lugares/Peabody's Ale.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Tienda del Viejo Xoblob.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
     "z_templates/Location Template.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Sarrai.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
     "z_attachments/FortAshrunnerLight.jpg",
     "z_attachments/FortAshrunnerDark.jpg",
     "z_attachments/FortAshrunnerDMNotes.jpg",
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md",
     "z_attachments/LanderSeverian.png",
     "z_attachments/ConstanzaAshrunner.jpg",
     "z_attachments",
-    "ConstanzaAshrunner.jpg.md",
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales",
     "D&D/Waterdeep Dragon Heist/7- Narrativa",
     "D&D/Waterdeep Dragon Heist/3- Organizaciones",
     "D&D/Waterdeep Dragon Heist/2- Lugares",
     "D&D/Waterdeep Dragon Heist/z_templates/Character",
     "z_templates",
-    "D&D/Waterdeep Dragon Heist/4- Notas Rápidas",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones",
-    "D&D/Waterdeep Dragon Heist/5- Ideas"
+    "D&D/Waterdeep Dragon Heist/4- Notas Rápidas"
   ]
 }
