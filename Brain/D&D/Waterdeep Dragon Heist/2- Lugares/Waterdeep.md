@@ -5,7 +5,7 @@
 
 Para mas Info, Leer [Aquí](https://forgottenrealms.fandom.com/wiki/Waterdeep).
 
-###Lugares Inferiores
+### Lugares Inferiores
 - [[Dock Ward]]
 - [[Southern Ward]]
 - [[Sea Ward]]

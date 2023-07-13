@@ -5,7 +5,7 @@ El Dock Ward fue considerado durante mucho tiempo el distrito más peligroso de 
 
 Excepto en las inmediaciones de los muelles, los letreros de las tiendas y la publicidad de cualquier tipo son raros, y los almacenes y otros negocios a menudo no tienen señal en absoluto. O sabes adónde vas y tienes razón para estar allí, o estás perdido, y marcado probablemente para carteristas... o algo peor.
 
-###Lugares Inferiores
+### Lugares Inferiores
 - [[Departamenteo de Oro]]
 - [[El Dragón Ensartado]]
 - [[Escondite Zentharim]]

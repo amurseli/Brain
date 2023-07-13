@@ -3,7 +3,7 @@
 ### Entrada
 descripcion
 
-###Lugares Inferiores
+### Lugares Inferiores
 - Lugar1
 - Lugar2
 - Lugar3
