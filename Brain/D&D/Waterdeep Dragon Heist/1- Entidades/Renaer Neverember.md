@@ -1,6 +1,12 @@
 
+### Artículo 1
 
 
 
+## Relaciones
 
-#Entidad #NPC
+## Organizaciones
+
+
+
+#Entidad #NPC 
