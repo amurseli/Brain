@@ -1,3 +1,3 @@
 ### Titulo
-**[[Place]]**
+**Place**
 descripcion

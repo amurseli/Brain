@@ -11,5 +11,7 @@
   "obsidian-languagetool-plugin",
   "buttons",
   "initiative-tracker",
-  "templater-obsidian"
+  "templater-obsidian",
+  "heatmap-calendar",
+  "obsidian-timelines"
 ]
