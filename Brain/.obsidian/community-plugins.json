@@ -14,5 +14,8 @@
   "templater-obsidian",
   "heatmap-calendar",
   "obsidian-timelines",
-  "obsidian-extract-pdf-highlights"
+  "obsidian-extract-pdf-highlights",
+  "obsidian-pandoc",
+  "excalibrain",
+  "tag-wrangler"
 ]

@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "966324d2614119d4",
+        "id": "b2a00a51ae1d28d9",
         "type": "tabs",
         "children": [
           {
-            "id": "5dc79402145662c5",
+            "id": "8cdcb99b701266ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceb058a0e1174554",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md"
+              }
             }
           },
           {
@@ -147,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -158,58 +175,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "initiative-tracker:Intiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5dc79402145662c5",
+  "active": "8cdcb99b701266ba",
   "lastOpenFiles": [
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Floon Blagmaar.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Volothamp Geddarm.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Sarrai.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
-    "z_templates/Relations Template.md",
-    "z_templates/Location Template.md",
-    "z_templates/Article Template.md",
-    "z_templates/Entity Template.md",
-    "Zentharim.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md",
-    "D&D/Waterdeep Dragon Heist/9- Objetos/Objeto Mágicos/Ojo Caza-Magia.md",
-    "z_attachments/RenaerNeverember.png",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
-    "z_attachments/MansiónTrollskullAfuera.png",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+    "Programación/Laburo/Twillio/Upgradear.md",
+    "Programación/Laburo/Twillio/Conexión inicial.md",
+    "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Whatsapp Sender.md",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Código Legal.md",
-    "Untitled.canvas",
-    "z_attachments/WyrmListaLibros.png",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
-    "z_attachments/Durnan.png",
+    "D&D/Waterdeep Dragon Heist/9- Objetos/Objeto Mágicos/Ojo Caza-Magia.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+    "Programación/Laburo/Twillio/Conexión inicial.pdf",
+    "Programación/Laburo/Twillio/Conexión inicial_tmp.html",
+    "Untitled.md",
+    "z_templates/Entity Template.md",
+    "Untitled",
+    "z_templates/Organizations Template.md",
     "D&D/Waterdeep Dragon Heist/Waterdeep Dragon Heist Book.pdf",
-    "D&D/Waterdeep Dragon Heist/9- Objetos/Objeto Mágicos",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
+    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Zentharim.md",
+    "Programación/Laburo/Twillio",
+    "Programación/Laburo",
+    "Programación",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
+    "z_attachments/RenaerNeverember.png",
     "z_attachments/SímbolosAlcantarillas.png",
-    "z_attachments/ElOjoCazaMagia.jpg",
-    "z_excalidraw",
-    "Videos/Mageseeker Video",
-    "Videos",
+    "D&D/Waterdeep Dragon Heist/9- Objetos/Objeto Mágicos",
     "D&D/Waterdeep Dragon Heist/9- Objetos",
+    "z_excalidraw/Drawing 2023-07-13 22.33.28.excalidraw.md",
+    "z_excalidraw",
+    "z_attachments/WyrmListaLibros.png",
+    "z_attachments/MansiónTrollskullAfuera.png",
+    "z_attachments/ElOjoCazaMagia.jpg",
+    "z_attachments/Durnan.png",
+    "Durnan.md",
+    "El Portal Bostezante.md",
+    "Castle Ward.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Dock Ward.md",
     "z_attachments/FortAshrunnerLight.jpg",
     "z_attachments/FortAshrunnerDark.jpg",
     "z_attachments/FortAshrunnerDMNotes.jpg",
-    "z_attachments/LanderSeverian.png",
-    "z_attachments",
-    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales",
-    "D&D/Waterdeep Dragon Heist/7- Narrativa",
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones"
+    "z_attachments/LanderSeverian.png"
   ]
 }

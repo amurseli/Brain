@@ -11,6 +11,7 @@ En la víspera de su septagésimot tercer cumpleños, un tragedia sacudió su ma
 Este evento marcó un antes y un despues en la vida de kruwen. Desde entonces, abandonó su casa, y entre la bebida y los vicios, su fé flaquea y su misión es cada vez más borrosa.
 
 ## Relaciones
+
 | Nombre            | Relacion            | Importancia |
 | ----------------- | ------------------- | ----------- |
 | [[Embric]]        | Compañero de Gremio |             |
