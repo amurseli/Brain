@@ -13,12 +13,12 @@ Al llevarse mas de 8 años con su hermano más cercano, Const se crió junto con
 Ambos hermanos mayores repudian esta relación, argumentando que una mujer de la casa Ashrunner no debería juntarse con la "servidumbre".
 
 ## Relaciones
+
 | Nombre | Relacion | Importancia |
 | ------ | -------- | ----------- |
 | [[Lord Fourier Ashrunner]] | Padre   | -     |
 | [[Oro]] | Mejor Amigo   | -      |
 
-## Organizaciones
 
 
 

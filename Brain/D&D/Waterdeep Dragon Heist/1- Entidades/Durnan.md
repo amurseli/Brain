@@ -2,6 +2,8 @@
 ### Entrada
 Durnan es un conocido bartender y dueño de [[El Portal Bostezante]], un bar gigante y una de las entradas a [[Bajomontaña]].
 
+
+![[Durnan.png]]
 ### El Sabueso de Bajomontaña
 *[[El Portal Bostezante]]*
 Durnan es un aventurero retirado, infame en todo Waterdeep por haber sido de las pocas personas en explorar [[Bajomontaña]] y regresar con vida, además de rico. Se comenta que es posible que sea uno de los [[Lords Enmascarados]].
@@ -14,6 +16,8 @@ Durnan es un aventurero retirado, infame en todo Waterdeep por haber sido de las
 
 ## Organizaciones
 
+| Organizacion           | Rol    |
+| ---------------------- | ------ |
+| [[Lords Enmascarados]] | Miembro |
 
-
-#Entidad
+#Entidad #NPC 

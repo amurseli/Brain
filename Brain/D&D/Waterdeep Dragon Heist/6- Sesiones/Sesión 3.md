@@ -4,7 +4,7 @@ Caminando en un río de desechos y caca, toda la party sigue a [[Sarrai]], que d
 
 Investigan las extrañas señas en las paredes, intentando encontrar el camino correcto en las laberínticas alcantarillas.
 
-![[Pasted image 20230713223441.png]]
+![[SímbolosAlcantarillas.png]]
 
 En su visión, Lander se encuentra en un entorno neblinoso, un ambiente familiar pero desconocido al mismo tiempo, con todo su entorno creado a partir de una grisácea bruma. Luego, las paredes se derriban y su cuerpo desaparece,convirtiendose en uan consciencia flotante. Un colosal ojo verde gigante se muestra delante de el, sin decir una sola palabra.
 

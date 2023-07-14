@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "#ObjetoMágico",
+      "color": {
+        "a": 1,
+        "rgb": 34047
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1.7,
   "nodeSizeMultiplier": 1.42708333333333,
   "lineSizeMultiplier": 1.478125,
-  "collapse-forces": false,
-  "centerStrength": 0.557291666666667,
-  "repelStrength": 11.0416666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.34375,
+  "repelStrength": 20,
   "linkStrength": 0.75,
   "linkDistance": 500,
-  "scale": 0.36288736930122445,
+  "scale": 0.0631174027402596,
   "close": true
 }

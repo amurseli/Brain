@@ -1,7 +1,7 @@
 
 ### Entrada
 Renaer Neverember es un humano espadchín y es el hijo de [[Lord Dagult Neverember]].
-
+![[RenaerNeverember.png]]
 ### Amistad con Floon
 **[[Waterdeep]]**
 Gracias a las constantes fiestas y bailes que celebra la alta corte de Waterdeep, Renaer entabló una amistad muy profunda con [[Floon Blagmaar]].
