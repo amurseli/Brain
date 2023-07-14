@@ -19,3 +19,5 @@ Dentro del dragón ensartado, hablan con unos borrachos para descubrir que Floon
 Uno de los borrachos les recomineda ir a Candle lane, donde está una de los [[Escondite Zentharim]]
 
 La sesión termina con la Salida a la puerta de El Dragón ensartado.
+
+#Sesion 

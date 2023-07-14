@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2a00a51ae1d28d9",
+        "id": "5f8efdfa6b847ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "18daef21caea0147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5eeadb57a1073b46",
+            "id": "3326d3b663b145ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db6b0085d4bba2f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-13 22.33.28.excalidraw.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,15 +175,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "initiative-tracker:Intiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "5eeadb57a1073b46",
+  "active": "3326d3b663b145ee",
   "lastOpenFiles": [
+    "z_attachments/Pasted image 20230713223441.png",
+    "Excalidraw/Drawing 2023-07-13 22.33.28.excalidraw.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
+    "Excalidraw",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+    "D&D/Waterdeep Dragon Heist/Waterdeep Dragon Heist Book.pdf",
+    "Waterdeep Dragon Heist Book.pdf.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Peabody's Ale.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/El Portal Bostezante.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Floon Blagmaar.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
+    "Identificar.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Departamento de Oro.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Dock Ward.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Sarrai.md",
     "Videos/Mageseeker Video/Narrativa.md",
     "Videos/Mageseeker Video/Musica y Visual.md",
     "Videos/Mageseeker Video/Gameplay.md",
@@ -195,24 +210,8 @@
     "Videos/Mageseeker Video/Bugs.md",
     "Videos/Mageseeker Video",
     "Videos",
-    "El Portal Bostezante.md",
-    "Durnan.md",
-    "Castle Ward.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Departamenteo de Oro.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Sarrai.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/0 - Timeline.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Castle Ward.md",
     "D&D/Waterdeep Dragon Heist/9- Objetos Mágicos",
-    "D&D/Waterdeep Dragon Heist/7- Narrativa/I - Un Amigo en Apuros.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Fortaleza Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Floon Blagmaar.md",
     "z_attachments/FortAshrunnerLight.jpg",
     "z_attachments/FortAshrunnerDark.jpg",
     "z_attachments/FortAshrunnerDMNotes.jpg",
@@ -222,8 +221,6 @@
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales",
     "D&D/Waterdeep Dragon Heist/7- Narrativa",
     "D&D/Waterdeep Dragon Heist/3- Organizaciones",
-    "D&D/Waterdeep Dragon Heist/2- Lugares",
-    "D&D/Waterdeep Dragon Heist/z_templates/Character",
-    "z_templates"
+    "D&D/Waterdeep Dragon Heist/2- Lugares"
   ]
 }

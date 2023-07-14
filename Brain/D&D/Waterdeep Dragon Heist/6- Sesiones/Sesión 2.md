@@ -15,3 +15,5 @@ Por último, la party se separa para descansar y recuperarse, con [[Oro]], [[Lan
 Al día siguiente, Oro, impactado por los cadáveres y la muerte de el kenku en sus manos, decide dejar la misión. Lander lo convence de seguir y no dejar la misión. 
 
 La sesión acaba con el grupo yendo a desayunar. Descubren que [[Renaer Neverember|Renaer]] los estuvo siguiendo y se les une en la búsqueda de su amigo.
+
+#Sesion 
