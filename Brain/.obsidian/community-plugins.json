@@ -17,5 +17,9 @@
   "obsidian-extract-pdf-highlights",
   "obsidian-pandoc",
   "excalibrain",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-5e-statblocks",
+  "obsidian-reading-time",
+  "obsidian-vault-statistics-plugin",
+  "novel-word-count"
 ]

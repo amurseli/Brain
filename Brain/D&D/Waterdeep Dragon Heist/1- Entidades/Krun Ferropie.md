@@ -4,7 +4,8 @@ Conocido por todo [[Waterdeep]], Krun Ferropie fue uno de los mejores herreros d
 
 ### Difunto
 **[[Waterdeep]]**
-Krun murió hace un par de años. Fue sucedido como líder de miembro por uno de sus tatara yernos, [[Démocles Ferropie]]
+Krun murió hace un par de años. Fue sucedido como líder de miembro por uno de sus tatara yernos, [[Démocles Ferropie]].
+
 ## Organizaciones
 
 | Organizacion                                                   | Rol |
