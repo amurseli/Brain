@@ -23,13 +23,13 @@ El [[Capitan Hyustus Staget]] llega a donde Nemeia calló, pero ella logra escap
 
 Una vez la party llega, a la [[Mansión Trollskull]], la investigan de arriba a abajo. El estado es deplorable, sobre todo el de la planta baja. Casi no hay ningú mueble usable y toda la madera de pisos y paredes están rotas.
 
-[[Oro]] va al techo y mira el barrio. [[Nemeia]] y [[Lander Severian|Lander]] investigan los cuartos y sótano.
+[[Oro Sammah]] va al techo y mira el barrio. [[Nemeia]] y [[Lander Severian|Lander]] investigan los cuartos y sótano.
 
 Lander intenta percibir si alguna presencia extraña habita la mansión, que parece embrujada. En vez de lograrlo, tiene una visión. Devuelta en la casa neblinosa, pero esta vez, personas neblinosas entran al cuarto, jóvenes y adultos. luego es interrumpido por el [[Ojo Caza-Magia]] denuevo. Tienen una charla en la que se menciona su creación, la cual no recuerda bien, y menciona a su segundo amo.
 
 Luego de pensarlo bastante, todo el grupo firma la propiedad y se convierten en lso dueños de la [[Mansión Trollskull]]
 
-[[Sarrai]] se vá a dormir a otra parte.
+[[Zarrai]] se vá a dormir a otra parte.
 
 ---
 

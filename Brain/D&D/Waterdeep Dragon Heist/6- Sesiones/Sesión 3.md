@@ -1,6 +1,6 @@
 La sesión inicia con la party bajando por las [[Alcantarillas de Waterdeep]], [[Lacky]] se queda cuidando la entrada.
 
-Caminando en un río de desechos y caca, toda la party sigue a [[Sarrai]], que dice conocer el camino. [[Lander Severian]] castea el hechizo [[Detectar Magia]] en forma ritual donde entra a una visión.
+Caminando en un río de desechos y caca, toda la party sigue a [[Zarrai]], que dice conocer el camino. [[Lander Severian]] castea el hechizo [[Detectar Magia]] en forma ritual donde entra a una visión.
 
 Investigan las extrañas señas en las paredes, intentando encontrar el camino correcto en las laberínticas alcantarillas.
 
@@ -14,7 +14,7 @@ Todo el gurpo encuentra luego de bastante tiempo la entrada a la guarida, pero s
 
 En la propia [[Guarida Xanathar en las Alcantarillas|Guarida]], la party encuentra a un [[Goblin]] y a dos [[Rufianes Xanathar]], pero los matan fácilmente. Una vez llegados a la sala principal, encuentran a [[Floon Blagmaar]] siendo torturado por un semi orco llamado [[Grum' Shar]]. Grum' Shar esta intentando demostrar su utiidad a [[Nihiloor]], que mira desde un palco.
 
-Comienza el combate, y Lander intenta atacar a Nihiloor, pero este fácilmente rechaza los ataques. Luego toma el control de [[Kruwen Ferropie|Kruwen]] y lo hace atacar a sus compañeros. [[Nemeia]] lo despierta del trance con un olor mientras que [[Oro]], [[Lander Severian|Lander]], [[Renaer Neverember|Renaer]] y [[Sarrai]] vencen tanto a Grum'Shar, como luego al [[Devorador de Intelectos]] que tomó el control de su cuerpo.
+Comienza el combate, y Lander intenta atacar a Nihiloor, pero este fácilmente rechaza los ataques. Luego toma el control de [[Kruwen Ferropie|Kruwen]] y lo hace atacar a sus compañeros. [[Nemeia]] lo despierta del trance con un olor mientras que [[Oro Sammah]], [[Lander Severian|Lander]], [[Renaer Neverember|Renaer]] y [[Zarrai]] vencen tanto a Grum'Shar, como luego al [[Devorador de Intelectos]] que tomó el control de su cuerpo.
 
 Logran rescatar con vida a Floon e investigan el lugar.
 

@@ -1,3 +1,5 @@
+*Dusksword*
+
 ### Entrada
 Deraxie Goneare es un pícaro drow. Trabaja como jefe de la orden de joyeros, participando de varias reuniones de la alta sociedad. Es conocido en todo Waterdeep por tener una presencia increíblemente imponente y por ser el mejor amigo de [[Luslec Fiboreas]].
 
