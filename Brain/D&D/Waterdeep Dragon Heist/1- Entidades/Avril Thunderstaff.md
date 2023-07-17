@@ -2,7 +2,7 @@
 
 
 ### Entrada
-Avril es una [[Bladesinger]], miembro de [[Garvan D'Luth]] y alumna de [[Deraxie Goneare]]
+Avril es una [[Half-Elf|medio elfa]] [[Bladesinger]], miembro de [[Garvan D'Luth]] y alumna de [[Deraxie Goneare]]
 
 ### Escoria
 **[[Waterdeep]]**
@@ -55,6 +55,56 @@ Recordó a sus hermanos, o medios hermanos ahora, practicando con la espada. Ell
 | Organizacion      | Rol     | 
 | ----------------- | ------- | 
 | [[Garvan D'Luth]] | Miembro | 
+
+
+```statblock
+image: [[Wikilink To Image]]
+name: Avril Thunderstaff
+size: medium
+type: humanoid
+subtype: half-elf
+alignment: CN
+ac: 14 (19 during Bladesong)
+hp: 78
+hit_dice: 12d8+24
+speed: 30ft (40ft during Bladsong)
+stats: [8, 14, 14, 20, 14, 12]
+saves:
+  - Intelligence: +8
+  - Wisdom: +5
+skillsaves:
+  - Arcana: +8
+  - Performance: +8
+  - History: +8
+  - Perception: +5
+senses: darkvision 60ft, passive Peception 15
+languages: Common, Elvish, Undercommon 
+cr: 6
+traits:
+  - name: Fey Ancestry
+    desc: The elf has [advantage](https://www.dandwiki.com/wiki/5e_SRD:Advantage) on [saving throws](https://www.dandwiki.com/wiki/5e_SRD:Saving_Throws "5e SRD:Saving Throws") against being [charmed](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Charmed "5e SRD:Conditions"), and magic can't put the elf to sleep.
+  - name: Spellcasting stats
+    desc: Avril is a 12th-level spellcaster. Its spellcasting ability is [Intelligence](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") (spell save DC 16, +8 to hit with spell attacks).
+
+spells: 
+  - Cantrips: Booming Blade, Green-flame Blade, light, Prestidigitation, Toll the Dead
+  - 1st Level (4 slots): Absorb Elements, Magic Missile, Shield
+  - 2nd Level (3 slots): Mirror Image, Scorching Ray, Shadow Blade
+  - 3rd Level (3 slots): Counterspell, Dispel Magic, Fireball, Haste
+  - 4th Level (3 slots): Fire Shield, Greater Invisibility, Stoneskin
+  - 5th Level (2 slots): Cone of Cold, Wall of Force
+  - 6th Level (1 slot): Tenser's transformation
+actions:
+  - name: Multiattack
+    desc: Avril makes two weapon attacks. It can cast a cantrip in place of one of these attacks.
+  - name: Shortsword
+    desc: Melee Weapon Attack +5 to hit, reach5ft, one target. 1d6 + 2 piercing damage, or 1d6 + 2 + 5 during Bladesong
+bonus_actions:
+  - name: Bladesong
+    desc: Avril invokes an ancient magic, which grants her supernatural speed, agility, and focus. The bladesong lasts for 1 minute. It ends early if she is incapacitated, uses two hands to make an attack with a weapon, dons medium or heavy armor or a shield, or chooses to end it early (no action required). During the bladesong, Avril gains the following benefits
+```
+
+
 
 #Entidad #NPC
 

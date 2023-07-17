@@ -17,6 +17,22 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "z_templates/Character Sheet Template.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 266,
+      "pageCount": 0.8866666666666667,
+      "characterCount": 1485,
+      "nonWhitespaceCharacterCount": 1165,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": [
+        "<% tp.file.title %>"
+      ],
+      "createdDate": 1689608411741,
+      "modifiedDate": 1689608417749,
+      "sizeInBytes": 1623
+    },
     "z_templates/Location Template.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -202,16 +218,16 @@
     "Programación/Laburo/Twillio/Whatsapp Sender.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "wordCount": 26,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 233,
+      "nonWhitespaceCharacterCount": 205,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689600334428,
-      "modifiedDate": 1689600334428,
-      "sizeInBytes": 0
+      "modifiedDate": 1689600423946,
+      "sizeInBytes": 237
     },
     "Programación/Laburo/Twillio/Upgradear.md": {
       "isDirectory": false,
@@ -230,16 +246,16 @@
     "Programación/Laburo/Twillio/Inicio de sesión Guiado.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 52,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 698,
-      "nonWhitespaceCharacterCount": 624,
+      "wordCount": 85,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 874,
+      "nonWhitespaceCharacterCount": 773,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689346766414,
-      "modifiedDate": 1689348848664,
-      "sizeInBytes": 702
+      "modifiedDate": 1689600684447,
+      "sizeInBytes": 880
     },
     "Programación/Laburo/Twillio/Conexión inicial.md": {
       "isDirectory": false,
@@ -692,44 +708,44 @@
     "D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 465,
-      "pageCount": 1.55,
-      "characterCount": 2767,
-      "nonWhitespaceCharacterCount": 2266,
+      "wordCount": 471,
+      "pageCount": 1.57,
+      "characterCount": 2856,
+      "nonWhitespaceCharacterCount": 2370,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689523474077,
-      "modifiedDate": 1689523474077,
-      "sizeInBytes": 2813
+      "modifiedDate": 1689607803828,
+      "sizeInBytes": 2902
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Yvyn Sammah.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 320,
-      "pageCount": 1.0666666666666667,
-      "characterCount": 2004,
-      "nonWhitespaceCharacterCount": 1508,
+      "wordCount": 317,
+      "pageCount": 1.0566666666666666,
+      "characterCount": 1989,
+      "nonWhitespaceCharacterCount": 1496,
       "linkCount": 17,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689523474076,
-      "modifiedDate": 1689528708048,
-      "sizeInBytes": 2040
+      "modifiedDate": 1689602880328,
+      "sizeInBytes": 2024
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Volothamp Geddarm.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 204,
       "pageCount": 0.68,
-      "characterCount": 1303,
+      "characterCount": 1283,
       "nonWhitespaceCharacterCount": 1065,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689268448937,
-      "modifiedDate": 1689338915638,
-      "sizeInBytes": 1329
+      "modifiedDate": 1689608190909,
+      "sizeInBytes": 1309
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md": {
       "isDirectory": false,
@@ -748,30 +764,30 @@
     "D&D/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 46,
-      "pageCount": 0.15333333333333332,
-      "characterCount": 329,
-      "nonWhitespaceCharacterCount": 199,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 438,
+      "nonWhitespaceCharacterCount": 303,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689523474069,
-      "modifiedDate": 1689527064065,
-      "sizeInBytes": 329
+      "modifiedDate": 1689608014282,
+      "sizeInBytes": 438
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 262,
-      "pageCount": 0.8733333333333333,
-      "characterCount": 1501,
-      "nonWhitespaceCharacterCount": 1231,
+      "wordCount": 268,
+      "pageCount": 0.8933333333333333,
+      "characterCount": 1609,
+      "nonWhitespaceCharacterCount": 1334,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689268448935,
-      "modifiedDate": 1689270823627,
-      "sizeInBytes": 1550
+      "modifiedDate": 1689607960646,
+      "sizeInBytes": 1658
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md": {
       "isDirectory": false,
@@ -790,44 +806,44 @@
     "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 688,
-      "pageCount": 2.2933333333333334,
-      "characterCount": 3890,
-      "nonWhitespaceCharacterCount": 3195,
+      "wordCount": 694,
+      "pageCount": 2.3133333333333335,
+      "characterCount": 4001,
+      "nonWhitespaceCharacterCount": 3299,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1689268448935,
-      "modifiedDate": 1689525039058,
-      "sizeInBytes": 3972
+      "modifiedDate": 1689608113932,
+      "sizeInBytes": 4083
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 283,
-      "pageCount": 0.9433333333333334,
-      "characterCount": 1785,
-      "nonWhitespaceCharacterCount": 1350,
+      "wordCount": 289,
+      "pageCount": 0.9633333333333334,
+      "characterCount": 1896,
+      "nonWhitespaceCharacterCount": 1454,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689338915580,
-      "modifiedDate": 1689351956677,
-      "sizeInBytes": 1818
+      "modifiedDate": 1689607867956,
+      "sizeInBytes": 1929
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 83,
       "pageCount": 0.27666666666666667,
-      "characterCount": 644,
+      "characterCount": 627,
       "nonWhitespaceCharacterCount": 485,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689338915541,
-      "modifiedDate": 1689523474060,
-      "sizeInBytes": 653
+      "modifiedDate": 1689607880737,
+      "sizeInBytes": 636
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Floon Blagmaar.md": {
       "isDirectory": false,
@@ -846,16 +862,16 @@
     "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 130,
-      "pageCount": 0.43333333333333335,
-      "characterCount": 1032,
-      "nonWhitespaceCharacterCount": 693,
+      "wordCount": 131,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 1014,
+      "nonWhitespaceCharacterCount": 697,
       "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689338915481,
-      "modifiedDate": 1689338915481,
-      "sizeInBytes": 1041
+      "modifiedDate": 1689607359891,
+      "sizeInBytes": 1023
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md": {
       "isDirectory": false,
