@@ -9,5 +9,10 @@ un cartel de "Se busca ayuda" que quizá lo llevaría más cerca de su objetivo.
 
 ![Retrato de Lander](LanderSeverian.png)
 
+### Themes
+```spotify
+url: 'https://open.spotify.com/playlist/7mWgxaUbjTxMOJCE0GzKmw?si=1fe81b1801a24ac2'
+```
+
 
 #Entidad #PC

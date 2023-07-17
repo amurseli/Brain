@@ -13,5 +13,4 @@ Krun murió hace un par de años. Fue sucedido como líder de miembro por uno de
 | [[Más Cuidadosa Orden de Habilidosos herreros y Metalúrgicos]] | Líder    |
 
 
-
 #Entidad #NPC 

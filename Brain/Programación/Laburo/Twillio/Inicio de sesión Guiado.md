@@ -8,6 +8,9 @@ Básicamente, se enecesita tener una cuenta aceptada en [Meta Buisness Manager](
 ### [[Whatsapp Sender]]
 Los [[Whatsapp Sender]], deben subirse desde [Aquí](https://www.twilio.com/console/sms/whatsapp/senders), pero para eso necesitamos [[Upgradear]] la cuenta.
  
+Una vez enviada la información del sender, Whatsapp debe confirmarla (Esto va a tardar un rato).
+
+Luego de enviar la solicitud con nombre y número de presentacion a Whatsapp, Se debe aceptar a Twilio desde Meta Buisness Manager, desde [este](https://business.facebook.com/settings/requests/received_requests) enlace.
 
 
 
@@ -15,8 +18,4 @@ Los [[Whatsapp Sender]], deben subirse desde [Aquí](https://www.twilio.com/cons
 
 
 
-<iframe 
-		height = 800
-		width = 100%
-		src="https://www.twilio.com/es-mx/docs/whatsapp/tutorial/connect-number-business-profile"></iframe>
 

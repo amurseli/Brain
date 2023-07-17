@@ -10,15 +10,21 @@ Hace un año estoy ya en [[Waterdeep]], y en el ultimo medio año ya me volví e
 ### ¿Qué pasó esa noche?
 Una noche como cualquier otra, Sarrai descansaba tranquilamente luego de un día común de trabajo. Nunca había sido el mas fuerte, ni el mas indispensable de su grupo familiar al menos en comparación con su hermano mayor, [[Raemo]], como su padre, [[Von]].
 
-Sarrai se despertó de su sueño profundo por los gritos de un hombre provenientes del comedor. Preocupado, bajó para encontrarse con, lo que en primer instancia reconoció como su tío, degollando a su padre, con tanto él como sus dos hermanos, como testigos. 
+Zarrai se despertó de su sueño profundo por los gritos de un hombre provenientes del comedor. Preocupado, bajó para encontrarse con, lo que en primer instancia reconoció como su tío, degollando a su padre, con tanto él como sus dos hermanos, como testigos. 
 
-La bestia, al a los observadores, cambió de forma, tomando la apariencia del ahora difunto padre de Sarrai. Horrorizados, los tres salieron corriendo, saltando por las ventanas en direcciones diferentes. Fue entonces cuando pudo ver la segunda escena macabra de la noche. La aldea en la que se había criado, **su** aldea, completamente envuelta en llamas. Las personas corrian de sus casas, pavorosas, buscando escapar del nocturno ataque. Justo cuando pensaba en volver, en retroceder para ayudar a alguien o buscar a sus hermanos, Sarrai, escondido entre escombros, vió a su hermano mayor, [[Raemo]], siendo decapitado sin ningún tipo de compasion, después de rogar por su vida entre llantos. 
+La bestia, al a los observadores, cambió de forma, tomando la apariencia del ahora difunto padre de Zarrai. Horrorizados, los tres salieron corriendo, saltando por las ventanas en direcciones diferentes. Fue entonces cuando pudo ver la segunda escena macabra de la noche. La aldea en la que se había criado, **su** aldea, completamente envuelta en llamas. Las personas corrian de sus casas, pavorosas, buscando escapar del nocturno ataque. Justo cuando pensaba en volver, en retroceder para ayudar a alguien o buscar a sus hermanos, Zarrai, escondido entre escombros, vió a su hermano mayor, [[Raemo]], siendo decapitado sin ningún tipo de compasion, después de rogar por su vida entre llantos. 
 
 El ser tomó una forma extraña, piel azulada y cabello blanco, con rasgos completamente andróginos. Un [[Doppelganger]].
 
-Sarrai corrió sin mirar atrás, abandonando todo lo que había creído una vez suyo por derecho de nacimiento mientras era arrebatado por una criatura desconocida y poderosa.
+Zarrai corrió sin mirar atrás, abandonando todo lo que había creído una vez suyo por derecho de nacimiento mientras era arrebatado por una criatura desconocida y poderosa.
 
-Sarrai no fue el más fuerte esa noche tampoco, pero juró, por lo menos, no volver a correr.
+Zarrai no fue el más fuerte esa noche tampoco, pero juró, por lo menos, no volver a correr.
 
+
+### Themes
+
+```spotify
+url: 'https://open.spotify.com/playlist/021ZnJpQRFTLCy2w5beXzL?si=c171c00428394f59'
+```
 
 #Entidad #PC 

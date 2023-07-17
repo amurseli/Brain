@@ -22,4 +22,4 @@ Embric dice ser heredero de los [[Genasi]] exiliados de [[Calimshan]]
 | [[Más Cuidadosa Orden de Habilidosos herreros y Metalúrgicos]] | Alto Miembro    |
 
 
-#Entidad
+#Entidad #NPC 

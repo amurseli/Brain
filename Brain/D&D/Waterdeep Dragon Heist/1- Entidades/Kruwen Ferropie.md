@@ -25,4 +25,9 @@ Este evento marcó un antes y un despues en la vida de kruwen. Desde entonces, a
 | [[Más Cuidadosa Orden de Habilidosos herreros y Metalúrgicos]] | Miembro |
 
 
+### Themes
+```spotify
+url: 'https://open.spotify.com/playlist/4Fa9gfWh7VhMuSGJLVTYJH?si=bbe1f6db61b84bd5'
+```
+
 #Entidad #PC

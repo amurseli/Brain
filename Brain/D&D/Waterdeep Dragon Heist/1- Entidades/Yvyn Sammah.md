@@ -1,12 +1,12 @@
 
 ### Entrada
-Yvyn es un [[Tiefling]] de tez púrpura, padre de [[Oro Sammah]], sirviente de la familia [[Ashrunner]].
+Yvyn es un [[Halfling]], padre de [[Oro Sammah]], sirviente de la familia [[Ashrunner]].
 
 ### Hijo
 *[[Fortaleza Ashrunner]]*
 Yvyn se sorpredió bastante cuando [[Oro V Sammah|Oro]], su esposa, aceptó a cuidar al niño. Siempre había tenido un lado sensible con estas cosas, y verlo acostado en las escaleras de la [[Fortaleza Ashrunner|fortaleza]] le tocaba el corazón. Solo tenía dos años, y todos sus compañeros, lo habían ignorado completamente. 
 
-Era extraño, una pareja de tieflings criando a un [[Semi-Orco|semi-orco]], viviendo en un palacio de alguien más. Aunque sabía que Lord Fourier no tendría problema ¿Se estaba pasando? ¿Que diría su esposa, o el señorito [[Rust Ashrunner |Rust]], que con solo diez años ya estaba formando unas actitudes bastante clasistas, en contraposición con su padre?
+Era extraño, una pareja de halflings criando a un [[Semi-Orco|semi-orco]], viviendo en un palacio de alguien más. Aunque sabía que Lord Fourier no tendría problema ¿Se estaba pasando? ¿Que diría su esposa, o el señorito [[Rust Ashrunner |Rust]], que con solo diez años ya estaba formando unas actitudes bastante clasistas, en contraposición con su padre?
 
 Solo sabía una cosa, no podía abandonar al chico. Así que mañana a primera hora le pediría permiso a el señor, y a esperar lo mejor.
 

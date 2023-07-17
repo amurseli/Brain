@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2a00a51ae1d28d9",
+        "id": "03506838e962e192",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb058a0e1174554",
+            "id": "0a10a6e4a07f22b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
-                "mode": "preview",
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md"
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md"
               }
             }
           },
@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,38 +169,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ceb058a0e1174554",
+  "active": "6816e75aee07d7f4",
   "lastOpenFiles": [
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
-    "D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Sarrai en el balcon Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
-    "D&D/Waterdeep Dragon Heist/5- Ideas/Ataque a la fortaleza Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Yvyn Sammah.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md",
+    "Programación/Laburo/Twillio/Whatsapp Sender.md",
     "Programación/Laburo/Twillio/Upgradear.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Yvyn Sammah.md",
     "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
     "Programación/Laburo/Twillio/Conexión inicial.md",
-    "z_templates/Session Notes Template.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
-    "Whatsapp Sender.md",
+    "D&D/Waterdeep Dragon Heist/Waterdeep Dragon Heist Book.pdf",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
+    "D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 5 Notas.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Código Legal.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
+    "z_attachments/Pasted image 20230716134344.png",
+    "D&D/Waterdeep Dragon Heist/9- Objetos/Objeto Mágicos/Ojo Caza-Magia.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
     "Programación/Laburo/Twillio/Conexión inicial.pdf",
     "Programación/Laburo/Twillio/Conexión inicial_tmp.html",
     "Untitled",
-    "D&D/Waterdeep Dragon Heist/Waterdeep Dragon Heist Book.pdf",
     "Programación/Laburo/Twillio",
     "Programación/Laburo",
     "Programación",
@@ -216,7 +216,6 @@
     "z_attachments/Durnan.png",
     "z_attachments/FortAshrunnerLight.jpg",
     "z_attachments/FortAshrunnerDark.jpg",
-    "z_attachments/FortAshrunnerDMNotes.jpg",
-    "z_attachments/LanderSeverian.png"
+    "z_attachments/FortAshrunnerDMNotes.jpg"
   ]
 }

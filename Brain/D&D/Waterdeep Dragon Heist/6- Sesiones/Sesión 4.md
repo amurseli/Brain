@@ -17,7 +17,7 @@ Luego, la mujer se da cuenta de que confundió a Nemeia con otra persona. Así q
 
 La mujer luego usa un extraño poder para escalar un edificio y Nemeia intenta seguirla, pero ella utiliza un ataque para derribarla denuevo al piso.
 
-Segundos antes del alboroto que causa Nemeia al caer al piso, el resto del grupo vé que esta causando tanto tráfico de personas en The High Road. Resulta que la [[Guardia de la Ciudad]] está investigando una escena del crimer horrenda, doce cuerpos decapitados están tirados en el medio de la calle, todos bestidos como gente adinerada.
+Segundos antes del alboroto que causa Nemeia al caer al piso, el resto del grupo vé que esta causando tanto tráfico de personas en The High Road. Resulta que la [[Guardia de la Ciudad]] está investigando una escena del crimer horrenda, doce cuerpos decapitados están tirados en el medio de la calle, todos vestidos como gente adinerada.
 
 El [[Capitan Hyustus Staget]] llega a donde Nemeia calló, pero ella logra escapar. [[Kruwen Ferropie|Kruwen]] habla unas palabras con el capitán y este le da el [[Código Legal]] de [[Waterdeep]] para que lo lea. 
 

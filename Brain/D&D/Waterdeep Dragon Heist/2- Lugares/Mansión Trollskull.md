@@ -1,4 +1,4 @@
-*Lugar Superior*
+	*Lugar Superior*
 
 ### Entrada
 Con cuatro pisos de altura, un torreón, cinco chimieneas y una taberna, la Mansión es uno de los mas grandes edificios del [[Callejón Trollskull]].
