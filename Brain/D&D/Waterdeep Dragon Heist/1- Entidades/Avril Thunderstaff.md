@@ -40,7 +40,12 @@ Recordó a sus hermanos, o medios hermanos ahora, practicando con la espada. Ell
 
 -N... No, nada en particular- Dijo, mirando al suelo.
 
--Mejor, un receptáculo vacío es más interesante de llenar que uno ligeramente usado. Sucede que a veces, uno tiende a elegir un camino en la vida desde jóven, perdiendo su potencial 
+-Mejor, un receptáculo vacío es más interesante de llenar que uno ligeramente usado. Sucede que a veces, uno tiende a elegir un camino en la vida desde jóven, perdiendo su potencial- Suspiró mientras hacía un gesto extraño con la mano- ¿Te interesaría aprender a sobrevivir por tu cuenta, sin necesitar de nadie más?
+
+Los ojos púrpura de Avril brillaron con la idea.
+
+### Ea
+Nunca, ni por un segundo, Avril pensó que se enamoraría. Nunca, hasta que conoció a [[Ea]].
 
 ## Relaciones
 
@@ -48,7 +53,7 @@ Recordó a sus hermanos, o medios hermanos ahora, practicando con la espada. Ell
 | ------------------- | --------- | ----------- |
 | [[Deraxie Goneare]] | Maestro   | 80          |
 | [[Luslec Fiboreas]] | Líder     | 50          |
-| [[Ea]]              | Compañera | 57            |
+| [[Ea]]              | Compañera | 67            |
 
 ## Organizaciones
 
@@ -82,9 +87,11 @@ languages: Common, Elvish, Undercommon
 cr: 6
 traits:
   - name: Fey Ancestry
-    desc: The elf has [advantage](https://www.dandwiki.com/wiki/5e_SRD:Advantage) on [saving throws](https://www.dandwiki.com/wiki/5e_SRD:Saving_Throws "5e SRD:Saving Throws") against being [charmed](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Charmed "5e SRD:Conditions"), and magic can't put the elf to sleep.
+    desc: The elf has advantage on saving throws against being charmed, and magic can't put the elf to sleep.
   - name: Spellcasting stats
-    desc: Avril is a 12th-level spellcaster. Its spellcasting ability is [Intelligence](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") (spell save DC 16, +8 to hit with spell attacks).
+    desc: Avril is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks).
+  - name: Honest Wind
+    desc: Avril powers hugely her insight against another creature, being able to almost instantly know if it's lying. She needs to stab the creature to gain this ability, the closer to death she takes the creature, the better she gets at telling lies from truthes.
 
 spells: 
   - Cantrips: Booming Blade, Green-flame Blade, light, Prestidigitation, Toll the Dead
@@ -101,7 +108,7 @@ actions:
     desc: Melee Weapon Attack +5 to hit, reach5ft, one target. 1d6 + 2 piercing damage, or 1d6 + 2 + 5 during Bladesong
 bonus_actions:
   - name: Bladesong
-    desc: Avril invokes an ancient magic, which grants her supernatural speed, agility, and focus. The bladesong lasts for 1 minute. It ends early if she is incapacitated, uses two hands to make an attack with a weapon, dons medium or heavy armor or a shield, or chooses to end it early (no action required). During the bladesong, Avril gains the following benefits
+    desc: Avril invokes an ancient magic, which grants her supernatural speed, agility, and focus. The bladesong lasts for 1 minute. It ends early if she is incapacitated, uses two hands to make an attack with a weapon, dons medium or heavy armor or a shield, or chooses to end it early (no action required). During the bladesong, Avril gains the following benefits. \\n asd
 ```
 
 

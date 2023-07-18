@@ -11,8 +11,30 @@
             "id": "3072cc125227f20e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "05c80c8f2ba523c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a701ff79746d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md"
+              }
             }
           },
           {
@@ -161,15 +187,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3072cc125227f20e",
+  "active": "f1a701ff79746d2e",
   "lastOpenFiles": [
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
-    "D&D/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md",
     "D&D/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
     "D&D/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md",
+    "D&D/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md",
+    "D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 5 Notas.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
     "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md",
     "Programación/Laburo/Twillio/Whatsapp Sender.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
@@ -190,7 +217,6 @@
     "D&D/Waterdeep Dragon Heist/1- Entidades/Yvyn Sammah.md",
     "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
     "Programación/Laburo/Twillio/Conexión inicial.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
     "z_attachments/Pasted image 20230716134344.png",
     "Programación/Laburo/Twillio/Conexión inicial.pdf",
     "Programación/Laburo/Twillio/Conexión inicial_tmp.html",
