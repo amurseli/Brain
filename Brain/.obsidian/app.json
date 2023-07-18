@@ -6,5 +6,6 @@
   ],
   "spellcheck": false,
   "attachmentFolderPath": "z_attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }

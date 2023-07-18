@@ -48,18 +48,25 @@
         "a": 1,
         "rgb": 34047
       }
+    },
+    {
+      "query": "#Narrativa",
+      "color": {
+        "a": 1,
+        "rgb": 12450815
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 1.42708333333333,
-  "lineSizeMultiplier": 1.478125,
-  "collapse-forces": true,
-  "centerStrength": 0.34375,
-  "repelStrength": 20,
-  "linkStrength": 0.75,
-  "linkDistance": 500,
-  "scale": 0.09985038852053063,
-  "close": true
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 2.06510416666667,
+  "lineSizeMultiplier": 0.814583333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.00520833333333333,
+  "repelStrength": 8.85416666666667,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.01843470446644759,
+  "close": false
 }

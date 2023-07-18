@@ -33,6 +33,6 @@ Luego de pensarlo bastante, todo el grupo firma la propiedad y se convierten en 
 
 ---
 
-Esto concluye la primera parte de la aventura, [[I - Un Amigo en Apuros|Un Amigo en Apuros]] y da inicio al primer interludio, [[I - Arte|Arte]]. En cuanto al pdf original, esto llegaría a [[Waterdeep Dragon Heist Book.pdf#page=32]]
+Esto concluye la primera parte de la aventura, [[1 - Un Amigo en Apuros|Un Amigo en Apuros]] y da inicio al primer interludio, [[1B - Arte|Arte]]. En cuanto al pdf original, esto llegaría a [[Waterdeep Dragon Heist Book.pdf#page=32]]
 
 #Sesion 

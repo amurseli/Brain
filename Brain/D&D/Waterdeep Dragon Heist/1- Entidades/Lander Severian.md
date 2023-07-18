@@ -8,6 +8,9 @@ un cartel de "Se busca ayuda" que quizá lo llevaría más cerca de su objetivo.
 
 
 ![Retrato de Lander](LanderSeverian.png)
+### El Objetivo
+Lander, al revisar las pertenencias de su último objetivo,
+
 
 ### Themes
 ```spotify
