@@ -45,7 +45,24 @@ Recordó a sus hermanos, o medios hermanos ahora, practicando con la espada. Ell
 Los ojos púrpura de Avril brillaron con la idea.
 
 ### Ea
-Nunca, ni por un segundo, Avril pensó que se enamoraría. Nunca, hasta que conoció a [[Ea]].
+Nunca, ni por un segundo, Avril pensó que se enamoraría. Nunca, hasta que conoció a [[Ea]]. Si bien, todavía no es correspondido, o eso cree, fue amor a primera vista. La madurez mezclada con la habilidad de la Tiefling hicieron que no pueda dejar de verla.
+A día de hoy, ya habiendose conocido por un año, Avril todavía la sigue todas las mañanas, al lugar donde Ea entrena, solo para verla escondida.
+
+### Mini Ea
+**[[Sesión 4]]**
+Después de completar de forma dudosa el encargo que Deraxie le había pedido, Avril se cruza con una cara familiar en el camino. Ea, su amiga e interés amoroso estaba justo acá, caminando tranquilamente por la calle principal del [[Trade Ward]].
+
+Se volvió para tomarla del hombro.
+
+-¿Ea? ¿Que hacés acá? Se supone que estabas con Deraxie.- Solita se dió cuenta del error que había cometido. Sin decir una palabra más echó a correr.
+
+Ea le había hablado solamente una vez de su hermana, de como había tenído que dejarla atrás.
+
+Cuando notó que “mini Ea” seguía persiguiendola, empezó a desesperar; Si su amiga se enterase que le dió una pista importantísima a su hermana para seguirla. Pensó en matarla, pero claramente no era una opción, Ea la mataría a ella después, además, ya había matado bastante gente por le día ¿Hasta que punto ella seguía siendo de los buenos?
+
+Intentó un corte al suelo, derribandola y rezando para que no muera.
+
+Su conejo parece 
 
 ## Relaciones
 
@@ -105,10 +122,17 @@ actions:
   - name: Multiattack
     desc: Avril makes two weapon attacks. It can cast a cantrip in place of one of these attacks.
   - name: Shortsword
-    desc: Melee Weapon Attack +5 to hit, reach5ft, one target. 1d6 + 2 piercing damage, or 1d6 + 2 + 5 during Bladesong
+    desc: Melee Weapon Attack +5 to hit, reach 5ft, one target. 1d6 + 2 piercing damage, or 1d6 + 2 + 5 during Bladesong
 bonus_actions:
   - name: Bladesong
-    desc: Avril invokes an ancient magic, which grants her supernatural speed, agility, and focus. The bladesong lasts for 1 minute. It ends early if she is incapacitated, uses two hands to make an attack with a weapon, dons medium or heavy armor or a shield, or chooses to end it early (no action required). During the bladesong, Avril gains the following benefits. \\n asd
+    desc: Avril invokes an ancient magic, which grants her supernatural speed, agility, and focus. The bladesong lasts for 1 minute. It ends early if she is incapacitated, uses two hands to make an attack with a weapon, dons medium or heavy armor or a shield, or chooses to end it early (no action required). During the bladesong, Avril gains the following benefits.
+  - name: AC +5
+  - name: Speed +10ft
+  - name: Advantage on Acrobatics checks
+  - name: +5 to saving throws to maintain concentration
+  - name: +5 bonus damage rolls made with melee attacks
+     
+
 ```
 
 

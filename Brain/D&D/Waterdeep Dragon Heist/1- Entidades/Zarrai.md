@@ -3,7 +3,7 @@
 *[[La Costa Espada]]*
 Nacido en una familia Tieflin en las afueras de la ciudad, padre se ganaba la vida haciendo encargos (nunca supe de que tipo), me enseñaron desde chico a cuidarme pero al ser el menor de 3 hermanos nunca fui la primaria fuente de defensa (por ende no se tanto de en que estaba metida mi familia ni soy experto en armas avanzadas).
 
-Una noche a mis 14 años escuche gritos entresueños, me desperté y salí de mi habitación, al escuchar la voz de mi hermana gritando mire en dirección a su habitación, en ese momento, mi tío la asesina y veo como se transforma todo su cuerpo en mi hermano mayor, para dirigirse hacia el posteriormente, inmediatamente bajo las escaleras corriendo y me encuentro un cuerpo el el comedor, el cual doy vuelta y es mi tío muerto, a esto sale mi padre de su habitación y con su ultimo aliento me dice que corra. Yo salgo disparado de la casa y he pasado el ultimo año y medio robando para vivir.
+Una noche a mis 14 años escuche gritos entresueños, me desperté y salí de mi habitación, al escuchar la voz de mi hermana gritando mire en dirección a su habitación, en ese momento, mi tío la apuñala y veo como se transforma todo su cuerpo en mi hermano mayor, para dirigirse hacia el posteriormente, inmediatamente bajo las escaleras corriendo y me encuentro un cuerpo el el comedor, el cual doy vuelta y es mi tío muerto, a esto sale mi padre de su habitación y con su ultimo aliento me dice que corra. Yo salgo disparado de la casa y he pasado el ultimo año y medio robando para vivir.
 
 Hace un año estoy ya en [[Waterdeep]], y en el ultimo medio año ya me volví experto del bajo mundo, incluso con algunos contactos [[Zentharim]].
 

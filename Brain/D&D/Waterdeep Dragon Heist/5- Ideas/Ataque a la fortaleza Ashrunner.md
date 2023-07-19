@@ -6,7 +6,7 @@ Mientras [[Lord Fourier Ashrunner]] esta hablando con [[Rust Ashrunner]] y [[Oro
 
 ### Charla Deraxie-Zarrai
 
-Mientras pasa esto, Deraxie enmascarado se acerca a Zarrai y Deraxie le pide su opinión sobre la gente con dinero, preguntándole si no le parece injusto, que la gente con poder solo quiera más y más poder. Pregunta si esto es causa de la naturaleza humana o de alguna otra razón. La conversación termina con un aplauso.
+Mientras pasa esto, Deraxie enmascarado se acerca a Zarrai y le pide su opinión sobre la gente con dinero, preguntándole si no le parece injusto, que la gente con poder solo quiera más y más poder. Pregunta si esto es causa de la naturaleza humana o de alguna otra razón. La conversación termina con un aplauso.
 
 ### Charla Nemeia-Luslec
 
@@ -27,4 +27,4 @@ De a poco voy a ir revelando la reacción de la gente, los gritos y el pánico. 
 Oro mira para adelante, y ve a Lord Fourier, con cientos de puñaladas recorriendo su cadaver arrodillado. [[Constanza Ashrunner|Constanza]] y Rust en shock a su lado.
 
 
-De acá seguiría [[Avril - Sarrai en el balcon Ashrunner]].
+De acá seguiría [[Avril - Zarrai en el balcon Ashrunner]].
