@@ -15,6 +15,7 @@ Carisma: 7
 El Ojo puede transmitir sus pensamientos al usuario.
 
 ### Monstruos
-El Ojo, es una reliquia antigua, pero no recuerda su nacimiento. Sus primeros recuerdos inician en el momento en el que fue cedido a su segundo dueño, del que no puede revelar nada de información. Luego fue cedido, robado y vendido por varios amos diferentes, aprendiendo y creciendo en el camino, hasta llegar a manos de [[Lander Severian]]
+El Ojo, es una reliquia antigua, pero no recuerda su nacimiento. Sus primeros recuerdos inician en el momento en el que fue cedido a su segundo dueño, del que no puede revelar nada de información. Luego fue cedido, robado y vendido por varios amos diferentes, aprendiendo y creciendo en el camino, hasta llegar a manos de [[Lander Severian]].
+
 
 #ObjetoMágico #Hombrew 

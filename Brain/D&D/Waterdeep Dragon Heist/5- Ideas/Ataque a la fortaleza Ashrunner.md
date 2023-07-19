@@ -14,7 +14,7 @@ Luslec no se muestra ante Nemeia, habla desde las sombras, apoyandole un cuchill
 
 ### Mundo interno del Ojo
 
-En el mismo momento que ocurren las otras dos conversaciones. El ojo lleva a Lander a su espacio compartido, y le dice.
+En el mismo momento que ocurren las otras dos conversaciones. El [[Ojo Caza-Magia|ojo]] lleva a Lander a su espacio compartido, y le dice.
 
 "Cucha, dejá todo, y corré. Para donde quieras, si querés salí por la puerta, por el balcon, solo corré. Uno de los alumnos de uno de mi segundo amo está acá. Es un tipo peligroso."
 
