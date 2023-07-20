@@ -11,8 +11,12 @@
             "id": "d7823f50da4fc8d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md"
+              }
             }
           },
           {
@@ -163,6 +171,13 @@
   },
   "active": "d7823f50da4fc8d5",
   "lastOpenFiles": [
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
+    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Alianza de Lores.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Objeto Mágicos/Ojo Caza-Magia.md",
     "D&D/Waterdeep Dragon Heist/5- Ideas/Ataque a la fortaleza Ashrunner.md",
     "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md",
@@ -172,7 +187,6 @@
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Kamaitachi.md",
     "z_attachments/Kamaitachi.pdf",
     "D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Alianza de Lores.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
     "z_templates/Session Article Template.md",
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew",
@@ -185,14 +199,8 @@
     "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
-    "Programación/Laburo/Twillio/Whatsapp Sender.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
     "D&D/Waterdeep Dragon Heist/Waterdeep Dragon Heist Book.pdf",
     "D&D/Waterdeep Dragon Heist/Alexandrian Remix Dragon Heist.pdf",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
-    "z_templates/Character Sheet Template.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Volothamp Geddarm.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md",
     "z_attachments/Pasted image 20230716134344.png",
     "Programación/Laburo/Twillio/Conexión inicial.pdf",
     "Programación/Laburo/Twillio/Conexión inicial_tmp.html",

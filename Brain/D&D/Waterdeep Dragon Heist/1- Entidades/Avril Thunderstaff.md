@@ -38,11 +38,21 @@ Avril pensó un momento. Odiaba estudiar en la casa, al leer, las letras se mezc
 
 Recordó a sus hermanos, o medios hermanos ahora, practicando con la espada. Ella lo había intentado una vez, le pareció interesante en el momento, pero descubrió que no tenía la fuerza suficiente para sostener una de las espadas sin filo, además de sus tutores la habían castigado por intentarlo. Su mente fue luego a la clase de magia que había presenciado escondida en uno de sus viajes escondida por la villa donde se encontraba su mansión. Había intentado imitar a los profesores, sin éxito, al no poder escuchar lo que decían, había algo que no le permitía lograrlo.
 
+Había algo en lo que era buena… o al menos mediocre. Rimar. Desde que sus tutores le habían explicado lo que era, le salía naturalmente, y a veces se divertía mirando el techo durante horas pensando palabras que rimen con otras, y componiendo líricas de canciones. Pero dudó que Deraxie se estuviera refiriendo a un talento (si así podía llamarlo) como ese.
+
 -N... No, nada en particular- Dijo, mirando al suelo.
 
 -Mejor, un receptáculo vacío es más interesante de llenar que uno ligeramente usado. Sucede que a veces, uno tiende a elegir un camino en la vida desde jóven, perdiendo su potencial- Suspiró mientras hacía un gesto extraño con la mano- ¿Te interesaría aprender a sobrevivir por tu cuenta, sin necesitar de nadie más?
 
 Los ojos púrpura de Avril brillaron con la idea.
+
+### Bladesong
+Para poder invocar [[Bladesong]], si habilidad como [[Bladesinger]], Avril debe recitar un fragmento de poema o cancion escrito por ella. Estos son algunos de los que puede recitar.
+
+*“Un latido sin armonía, 
+es luz de luna sin oscuridad.
+El corazón anhela equilibro,
+con balance tus problemas partirán”*
 
 ### Ea
 Nunca, ni por un segundo, Avril pensó que se enamoraría. Nunca, hasta que conoció a [[Ea]]. Si bien, todavía no es correspondido, o eso cree, fue amor a primera vista. La madurez mezclada con la habilidad de la Tiefling hicieron que no pueda dejar de verla.
@@ -63,6 +73,7 @@ Cuando notó que “mini Ea” seguía persiguiendola, empezó a desesperar; Si 
 Intentó un corte al suelo, derribandola y rezando para que no muera.
 
 Su conejo parece 
+
 
 ## Relaciones
 
