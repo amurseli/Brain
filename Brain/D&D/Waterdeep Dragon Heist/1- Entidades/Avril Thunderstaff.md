@@ -49,10 +49,10 @@ Los ojos púrpura de Avril brillaron con la idea.
 ### Bladesong
 Para poder invocar [[Bladesong]], si habilidad como [[Bladesinger]], Avril debe recitar un fragmento de poema o cancion escrito por ella. Estos son algunos de los que puede recitar.
 
-*“Un latido sin armonía, 
-es luz de luna sin oscuridad.
-El corazón anhela equilibro,
-con balance tus problemas partirán”*
+*“A Heartbest wihout Harmony,
+Is Moonlight without Dark,
+The Heart seeketh Equillibrium,
+With Balance will your worry part.”**
 
 ### Ea
 Nunca, ni por un segundo, Avril pensó que se enamoraría. Nunca, hasta que conoció a [[Ea]]. Si bien todavía no es correspondido, o eso cree, fue amor a primera vista. La madurez mezclada con la habilidad de la Tiefling hicieron que no pueda dejar de verla.

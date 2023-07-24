@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
+                "file": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
+                "file": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
+                "file": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md"
+                "file": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md"
               }
             }
           },
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,38 +162,33 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "templates:Insert template": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "wikipedia-search:Open Article": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "d7823f50da4fc8d5",
   "lastOpenFiles": [
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
-    "z_templates/Daily Notes/Daily Note Template Week Wrap.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
-    "z_templates/Daily Notes/Daily Note Template.md",
-    "z_templates/Daily Notes",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
-    "Diario/2023/07-July/2023-07-23-Sunday.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
     "Diario/2023/07-July/2023-07-24-Monday.md",
+    "Diario/2023/07-July/2023-07-23-Sunday.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+    "2023-07-24.md",
+    "z_templates/Daily Notes/Daily Note Template.md",
+    "z_templates/Daily Notes/Daily Note Template Week Wrap.md",
+    "z_templates/Daily Notes",
     "Diario/Overview.md",
-    "Videos/Mageseeker Video/Conclusión.md",
-    "Videos/Mageseeker Video/Bugs.md",
     "Diario/2023/07-July",
-    "Diario/2023/07-Julio",
     "Diario/2023",
     "Diario",
-    "2023-07-23.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
     "D&D/Waterdeep Dragon Heist/3- Organizaciones/Alianza de Lores.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Objeto Mágicos/Ojo Caza-Magia.md",
@@ -202,13 +196,17 @@
     "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md",
     "D&D/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Kamaitachi.md",
     "z_attachments/Kamaitachi.pdf",
+    "D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md",
+    "z_templates/Session Article Template.md",
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew",
     "D&D/Waterdeep Dragon Heist/Waterdeep Dragon Heist Book.pdf",
     "D&D/Waterdeep Dragon Heist/Alexandrian Remix Dragon Heist.pdf",
     "z_attachments/Pasted image 20230716134344.png",
     "Programación/Laburo/Twillio/Conexión inicial.pdf",
+    "Programación/Laburo/Twillio/Conexión inicial_tmp.html",
     "z_attachments/RenaerNeverember.png",
     "z_attachments/SímbolosAlcantarillas.png",
     "z_attachments/WyrmListaLibros.png",
