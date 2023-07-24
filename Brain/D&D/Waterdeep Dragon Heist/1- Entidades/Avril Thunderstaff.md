@@ -55,7 +55,7 @@ El corazón anhela equilibro,
 con balance tus problemas partirán”*
 
 ### Ea
-Nunca, ni por un segundo, Avril pensó que se enamoraría. Nunca, hasta que conoció a [[Ea]]. Si bien, todavía no es correspondido, o eso cree, fue amor a primera vista. La madurez mezclada con la habilidad de la Tiefling hicieron que no pueda dejar de verla.
+Nunca, ni por un segundo, Avril pensó que se enamoraría. Nunca, hasta que conoció a [[Ea]]. Si bien todavía no es correspondido, o eso cree, fue amor a primera vista. La madurez mezclada con la habilidad de la Tiefling hicieron que no pueda dejar de verla.
 A día de hoy, ya habiendose conocido por un año, Avril todavía la sigue todas las mañanas, al lugar donde Ea entrena, solo para verla escondida.
 
 ### Mini Ea
