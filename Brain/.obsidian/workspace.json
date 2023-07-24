@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
+                "file": "z_templates/Daily Notes/Daily Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
+                "file": "z_templates/Daily Notes/Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
+                "file": "z_templates/Daily Notes/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md"
+                "file": "z_templates/Daily Notes/Daily Note Template.md"
               }
             }
           },
@@ -170,12 +170,12 @@
   },
   "active": "d7823f50da4fc8d5",
   "lastOpenFiles": [
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
     "Diario/2023/07-July/2023-07-24-Monday.md",
-    "Diario/2023/07-July/2023-07-23-Sunday.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+    "Diario/2023/07-July/2023-07-23-Sunday.md",
     "2023-07-24.md",
     "z_templates/Daily Notes/Daily Note Template.md",
     "z_templates/Daily Notes/Daily Note Template Week Wrap.md",
