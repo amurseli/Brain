@@ -4,6 +4,8 @@ tags: timeline, sesiontimeline
 
 En la sesión uno pasaron pocas cosas, desde el inicio de la campaña hasta la llegada a Candle Lane
 
+La campaña comienza con [[Lander Severian]] recién habiendo llegado a [[Waterdeep]]
+
 Se presentó toda la party, describiendo como se ven y mostrando un poco de su backstory. Todos se encontraron por primera vez en [[El Portal Bostezante]].
 
 Conocen a [[Volothamp Geddarm]] y descubren que [[Floon Blagmaar]], su amigo, desapareció misteriosamente la otra noche.
