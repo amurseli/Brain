@@ -1,7 +1,7 @@
 *[[North Ward]]*
 
 
-![[Pasted image 20230716134344.png]]
+![[TrollskullAlley.png]]
 
 ### Lugares Inferiores
 - [[Mansión Trollskull]] (T1)

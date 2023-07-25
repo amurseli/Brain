@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ca378bfde024c8",
+        "id": "bd405553687f30a9",
         "type": "tabs",
         "children": [
           {
-            "id": "4e61234fef83f456",
+            "id": "af209bd45a1232df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+                "file": "Diario/2023/07-July/2023-07-24-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+                "file": "Diario/2023/07-July/2023-07-24-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+                "file": "Diario/2023/07-July/2023-07-24-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md"
+                "file": "Diario/2023/07-July/2023-07-24-Monday.md"
               }
             }
           },
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,59 +163,60 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "templates:Insert template": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "initiative-tracker:Intiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "wikipedia-search:Open Article": false
     }
   },
-  "active": "4e61234fef83f456",
+  "active": "6816e75aee07d7f4",
   "lastOpenFiles": [
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
-    "z_templates/Daily Notes/Daily Note Template.md",
+    "z_templates/Entity Template.md",
+    "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
+    "D&D/Waterdeep Dragon Heist/9- Objetos/Código Legal.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Peabody's Ale.md",
+    "z_excalidraw/Drawing 2023-07-13 22.33.28.excalidraw.md",
+    "z_attachments/Daily Note Images/Dwaing.png",
+    "z_attachments/Daily Note Images",
+    "z_attachments/D&D/MansiónTrollskullAfuera.png",
+    "z_attachments/D&D/ConstanzaAshrunner.jpg",
+    "z_attachments/D&D/Durnan.png",
+    "z_attachments/D&D/TrollskullAlley.png",
+    "z_attachments/D&D",
     "Diario/2023/07-July/2023-07-24-Monday.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
-    "Diario/2023/07-July/2023-07-23-Sunday.md",
-    "2023-07-24.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
     "z_templates/Daily Notes/Daily Note Template Week Wrap.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
+    "z_templates/Daily Notes/Daily Note Template.md",
     "z_templates/Daily Notes",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
+    "Diario/2023/07-July/2023-07-23-Sunday.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
     "Diario/Overview.md",
+    "Videos/Mageseeker Video/Conclusión.md",
+    "Videos/Mageseeker Video/Bugs.md",
     "Diario/2023/07-July",
+    "Diario/2023/07-Julio",
     "Diario/2023",
     "Diario",
+    "2023-07-23.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
     "D&D/Waterdeep Dragon Heist/3- Organizaciones/Alianza de Lores.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-    "D&D/Waterdeep Dragon Heist/9- Objetos/Objeto Mágicos/Ojo Caza-Magia.md",
-    "D&D/Waterdeep Dragon Heist/5- Ideas/Ataque a la fortaleza Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md",
-    "D&D/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
-    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Kamaitachi.md",
-    "z_attachments/Kamaitachi.pdf",
-    "D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md",
+    "z_attachments/D&D/Kamaitachi.pdf",
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew",
     "D&D/Waterdeep Dragon Heist/Waterdeep Dragon Heist Book.pdf",
-    "D&D/Waterdeep Dragon Heist/Alexandrian Remix Dragon Heist.pdf",
-    "z_attachments/Pasted image 20230716134344.png",
-    "Programación/Laburo/Twillio/Conexión inicial.pdf",
-    "Programación/Laburo/Twillio/Conexión inicial_tmp.html",
-    "z_attachments/RenaerNeverember.png",
-    "z_attachments/SímbolosAlcantarillas.png",
-    "z_attachments/WyrmListaLibros.png",
-    "z_attachments/MansiónTrollskullAfuera.png",
-    "z_attachments/ElOjoCazaMagia.jpg",
-    "z_attachments/Durnan.png",
-    "z_attachments/FortAshrunnerLight.jpg",
-    "z_attachments/FortAshrunnerDark.jpg",
-    "z_attachments/FortAshrunnerDMNotes.jpg"
+    "z_attachments/D&D/RenaerNeverember.png",
+    "z_attachments/D&D/SímbolosAlcantarillas.png",
+    "z_attachments/D&D/WyrmListaLibros.png",
+    "z_attachments/D&D/ElOjoCazaMagia.jpg",
+    "z_attachments/D&D/FortAshrunnerLight.jpg"
   ]
 }
