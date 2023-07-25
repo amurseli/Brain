@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bd405553687f30a9",
+        "id": "8671dfc8a9b9b16a",
         "type": "tabs",
         "children": [
           {
-            "id": "af209bd45a1232df",
+            "id": "f88141d3141ab66f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023/07-July/2023-07-24-Monday.md",
+                "file": "D&D/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9d251437efe43e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023/07-July/2023-07-24-Monday.md",
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023/07-July/2023-07-24-Monday.md",
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023/07-July/2023-07-24-Monday.md"
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md"
               }
             }
           },
@@ -167,11 +180,35 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "wikipedia-search:Open Article": false
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "6816e75aee07d7f4",
+  "active": "a9d251437efe43e5",
   "lastOpenFiles": [
+    "D&D/Waterdeep Dragon Heist/10-Pdfs/CS y SB/Shock.pdf",
+    "D&D/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
+    "D&D/Waterdeep Dragon Heist/11-Hombrew",
+    "z_templates/Character Stats Template.md",
+    "z_templates/Character Sheet Template.md",
+    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "D&D/Waterdeep Dragon Heist/10-Pdfs/CS y SB",
+    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales",
+    "D&D/Waterdeep Dragon Heist/10-Pdfs",
+    "D&D/Waterdeep Dragon Heist/Shock.pdf",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "D&D/Waterdeep Dragon Heist/Shock (1).pdf",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Prueba.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/prueba pdf.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Kenkus.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+    "Diario/2023/07-July/2023-07-25-Tuesday.md",
+    "Diario/2023/07-July/2023-07-24-Monday.md",
+    "Diario/2023/07-July/2023-07-23-Sunday.md",
+    "z_templates/Daily Notes/Daily Note Template Week Wrap.md",
+    "z_templates/Daily Notes/Daily Note Template.md",
     "z_templates/Entity Template.md",
     "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
     "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
@@ -185,34 +222,10 @@
     "z_attachments/D&D/Durnan.png",
     "z_attachments/D&D/TrollskullAlley.png",
     "z_attachments/D&D",
-    "Diario/2023/07-July/2023-07-24-Monday.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
-    "z_templates/Daily Notes/Daily Note Template Week Wrap.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
-    "z_templates/Daily Notes/Daily Note Template.md",
     "z_templates/Daily Notes",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
-    "Diario/2023/07-July/2023-07-23-Sunday.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
-    "Diario/Overview.md",
-    "Videos/Mageseeker Video/Conclusión.md",
-    "Videos/Mageseeker Video/Bugs.md",
-    "Diario/2023/07-July",
-    "Diario/2023/07-Julio",
-    "Diario/2023",
-    "Diario",
-    "2023-07-23.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Alianza de Lores.md",
-    "z_attachments/D&D/Kamaitachi.pdf",
-    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew",
-    "D&D/Waterdeep Dragon Heist/Waterdeep Dragon Heist Book.pdf",
     "z_attachments/D&D/RenaerNeverember.png",
     "z_attachments/D&D/SímbolosAlcantarillas.png",
     "z_attachments/D&D/WyrmListaLibros.png",

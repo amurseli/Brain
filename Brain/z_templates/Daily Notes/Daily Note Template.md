@@ -17,37 +17,37 @@ tags:: [[+Daily Notes]]
 
 ##### Juegos
 ```text-progress-bar
-Progreso read:0/10
+J:0/10
 ```
 
 ##### Dibujo
 ```text-progress-bar
-Progreso read:0/10
+Di:0/10
 ```
 
 ##### Desarrollo
 ```text-progress-bar
-Bead:0/10
+De:0/10
 ```
 
 ##### Música
 ```text-progress-bar
-Boad:0/10
+M:0/10
 ```
 
 ##### Escritura (Ficción y Ensayos)
 ```text-progress-bar
-B:0/10
+E:0/10
 ```
 
 ##### D&D
 ```text-progress-bar
-Progreso read:0/10
+DD:0/10
 ```
 
 ##### Proyecto Temporal
 ```text-progress-bar
-B:0/10
+P:0/10
 ```
 
 ---
@@ -60,3 +60,6 @@ List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.c
 ```dataview
 List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc
 ```
+
+
+#DailyNote

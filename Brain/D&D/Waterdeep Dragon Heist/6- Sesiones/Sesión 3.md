@@ -22,6 +22,6 @@ Antes del combate, Lander entra en otro trance similar, desbloqueando las dos ma
 
 Nemeia y Sarrai encuentran una puerta secreta y salen por una escotilla dentro de [[Peabody's Ale]], donde amenazan a los dueños para no decír nada.
 
-Kruwen conoce a [[Goberto el Goblin]] y prueban los poderes del ojo.
+Kruwen conoce a [[Goberto el Goblin (Shock)]] y prueban los poderes del ojo.
 
 #Sesion 

@@ -89,6 +89,7 @@ Su conejo parece
 | ----------------- | ------- | 
 | [[Garvan D'Luth]] | Miembro | 
 
+## Habilidades e Información
 
 ```statblock
 image: [[Wikilink To Image]]
