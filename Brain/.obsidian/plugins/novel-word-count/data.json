@@ -17,33 +17,19 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "z_templates/Character Stats Template.md": {
+    "z_templates/Session Article Template.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 157,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 664,
-      "nonWhitespaceCharacterCount": 259,
+      "wordCount": 5,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 32,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690301481266,
-      "modifiedDate": 1690301833507,
-      "sizeInBytes": 664
-    },
-    "z_templates/Character Sheet Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 830,
-      "pageCount": 2.7666666666666666,
-      "characterCount": 6003,
-      "nonWhitespaceCharacterCount": 2648,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1690301457648,
-      "modifiedDate": 1690301470414,
-      "sizeInBytes": 6004
+      "createdDate": 1689781019488,
+      "modifiedDate": 1689781040078,
+      "sizeInBytes": 36
     },
     "z_templates/Session Notes Template.md": {
       "isDirectory": false,
@@ -58,20 +44,6 @@
       "createdDate": 1689268448969,
       "modifiedDate": 1689523474169,
       "sizeInBytes": 61
-    },
-    "z_templates/Session Article Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 36,
-      "nonWhitespaceCharacterCount": 32,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689781019488,
-      "modifiedDate": 1689781040078,
-      "sizeInBytes": 36
     },
     "z_templates/Relations Template.md": {
       "isDirectory": false,
@@ -101,20 +73,6 @@
       "modifiedDate": 1689338916746,
       "sizeInBytes": 118
     },
-    "z_templates/Organizations Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 39,
-      "pageCount": 0.13,
-      "characterCount": 218,
-      "nonWhitespaceCharacterCount": 111,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689268448968,
-      "modifiedDate": 1689343656507,
-      "sizeInBytes": 219
-    },
     "z_templates/Fast Ideas Template.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -129,6 +87,20 @@
       "modifiedDate": 1689268448968,
       "sizeInBytes": 19
     },
+    "z_templates/Organizations Template.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 218,
+      "nonWhitespaceCharacterCount": 111,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689268448968,
+      "modifiedDate": 1689343656507,
+      "sizeInBytes": 219
+    },
     "z_templates/Entity Template.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -142,6 +114,20 @@
       "createdDate": 1689268448967,
       "modifiedDate": 1689343682125,
       "sizeInBytes": 64
+    },
+    "z_templates/Character Stats Template.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 157,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 664,
+      "nonWhitespaceCharacterCount": 259,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1690301481266,
+      "modifiedDate": 1690301833507,
+      "sizeInBytes": 664
     },
     "z_templates/Article Template.md": {
       "isDirectory": false,
@@ -185,6 +171,20 @@
       "modifiedDate": 1690290815680,
       "sizeInBytes": 1347
     },
+    "z_templates/Character Sheet Template.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 830,
+      "pageCount": 2.7666666666666666,
+      "characterCount": 6003,
+      "nonWhitespaceCharacterCount": 2648,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1690301457648,
+      "modifiedDate": 1690301470414,
+      "sizeInBytes": 6004
+    },
     "z_excalidraw/Drawing 2023-07-13 22.33.28.excalidraw.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -198,20 +198,6 @@
       "createdDate": 1689338916734,
       "modifiedDate": 1689338916734,
       "sizeInBytes": 27628
-    },
-    "Videos/Mageseeker Video/Conclusión.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689270456059,
-      "modifiedDate": 1689270456059,
-      "sizeInBytes": 0
     },
     "Videos/Mageseeker Video/Narrativa.md": {
       "isDirectory": false,
@@ -227,20 +213,6 @@
       "modifiedDate": 1689270455070,
       "sizeInBytes": 0
     },
-    "Videos/Mageseeker Video/Gameplay.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 693,
-      "pageCount": 2.31,
-      "characterCount": 4001,
-      "nonWhitespaceCharacterCount": 3307,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689270455662,
-      "modifiedDate": 1689270528589,
-      "sizeInBytes": 4049
-    },
     "Videos/Mageseeker Video/Musica y Visual.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -255,6 +227,20 @@
       "modifiedDate": 1689270753866,
       "sizeInBytes": 476
     },
+    "Videos/Mageseeker Video/Conclusión.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689270456059,
+      "modifiedDate": 1689270456059,
+      "sizeInBytes": 0
+    },
     "Videos/Mageseeker Video/Bugs.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -268,6 +254,20 @@
       "createdDate": 1689270456521,
       "modifiedDate": 1689270724262,
       "sizeInBytes": 2890
+    },
+    "Videos/Mageseeker Video/Gameplay.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 693,
+      "pageCount": 2.31,
+      "characterCount": 4001,
+      "nonWhitespaceCharacterCount": 3307,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689270455662,
+      "modifiedDate": 1689270528589,
+      "sizeInBytes": 4049
     },
     "Programación/Laburo/Twillio/Upgradear.md": {
       "isDirectory": false,
@@ -339,33 +339,33 @@
       "modifiedDate": 1690205156801,
       "sizeInBytes": 2
     },
+    "Diario/2023/07-July/2023-07-26-Wednesday.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 174,
+      "pageCount": 0.58,
+      "characterCount": 1193,
+      "nonWhitespaceCharacterCount": 1001,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1690378487933,
+      "modifiedDate": 1690378824506,
+      "sizeInBytes": 1243
+    },
     "Diario/2023/07-July/2023-07-25-Tuesday.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 141,
-      "pageCount": 0.47,
-      "characterCount": 1025,
-      "nonWhitespaceCharacterCount": 868,
+      "wordCount": 161,
+      "pageCount": 0.5366666666666666,
+      "characterCount": 1146,
+      "nonWhitespaceCharacterCount": 969,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690290638463,
-      "modifiedDate": 1690302617155,
-      "sizeInBytes": 1068
-    },
-    "Diario/2023/07-July/2023-07-24-Monday.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 156,
-      "pageCount": 0.52,
-      "characterCount": 1128,
-      "nonWhitespaceCharacterCount": 955,
-      "linkCount": 3,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1690205469448,
-      "modifiedDate": 1690290837322,
-      "sizeInBytes": 1178
+      "modifiedDate": 1690378552976,
+      "sizeInBytes": 1191
     },
     "Diario/2023/07-July/2023-07-23-Sunday.md": {
       "isDirectory": false,
@@ -381,19 +381,61 @@
       "modifiedDate": 1690290831491,
       "sizeInBytes": 1193
     },
-    "D&D/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md": {
+    "Diario/2023/07-July/2023-07-24-Monday.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 854,
-      "pageCount": 2.8466666666666667,
-      "characterCount": 4972,
-      "nonWhitespaceCharacterCount": 4090,
-      "linkCount": 0,
+      "wordCount": 156,
+      "pageCount": 0.52,
+      "characterCount": 1128,
+      "nonWhitespaceCharacterCount": 955,
+      "linkCount": 3,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1690205469448,
+      "modifiedDate": 1690290837322,
+      "sizeInBytes": 1178
+    },
+    "D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos/Piedra de Golorr.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 89,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 546,
+      "nonWhitespaceCharacterCount": 447,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690302403029,
-      "modifiedDate": 1690302528561,
-      "sizeInBytes": 4981
+      "createdDate": 1690384723447,
+      "modifiedDate": 1690385089283,
+      "sizeInBytes": 551
+    },
+    "D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 202,
+      "pageCount": 0.6733333333333333,
+      "characterCount": 1235,
+      "nonWhitespaceCharacterCount": 1027,
+      "linkCount": 3,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1689338915808,
+      "modifiedDate": 1689785916524,
+      "sizeInBytes": 1247
+    },
+    "D&D/Waterdeep Dragon Heist/9- Objetos/Código Legal.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 155,
+      "nonWhitespaceCharacterCount": 132,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1689338915799,
+      "modifiedDate": 1689343526351,
+      "sizeInBytes": 157
     },
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Kenkus.md": {
       "isDirectory": false,
@@ -423,33 +465,33 @@
       "modifiedDate": 1689784209817,
       "sizeInBytes": 19
     },
-    "D&D/Waterdeep Dragon Heist/9- Objetos/Objeto Mágicos/Ojo Caza-Magia.md": {
+    "D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 202,
-      "pageCount": 0.6733333333333333,
-      "characterCount": 1235,
-      "nonWhitespaceCharacterCount": 1027,
-      "linkCount": 3,
-      "embedCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1689338915808,
-      "modifiedDate": 1689785916524,
-      "sizeInBytes": 1247
+      "createdDate": 1690386710672,
+      "modifiedDate": 1690386728205,
+      "sizeInBytes": 0
     },
-    "D&D/Waterdeep Dragon Heist/9- Objetos/Código Legal.md": {
+    "D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 155,
-      "nonWhitespaceCharacterCount": 132,
-      "linkCount": 1,
-      "embedCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1689338915799,
-      "modifiedDate": 1689343526351,
-      "sizeInBytes": 157
+      "createdDate": 1690386710672,
+      "modifiedDate": 1690386710672,
+      "sizeInBytes": 0
     },
     "D&D/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md": {
       "isDirectory": false,
@@ -535,19 +577,19 @@
       "modifiedDate": 1690302617098,
       "sizeInBytes": 2408
     },
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md": {
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 238,
-      "pageCount": 0.7933333333333333,
-      "characterCount": 1467,
-      "nonWhitespaceCharacterCount": 1217,
-      "linkCount": 14,
+      "wordCount": 277,
+      "pageCount": 0.9233333333333333,
+      "characterCount": 1772,
+      "nonWhitespaceCharacterCount": 1462,
+      "linkCount": 22,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1689268448945,
-      "modifiedDate": 1690217251052,
-      "sizeInBytes": 1489
+      "createdDate": 1689338915751,
+      "modifiedDate": 1689523474149,
+      "sizeInBytes": 1783
     },
     "D&D/Waterdeep Dragon Heist/6- Sesiones/0 - Timeline.md": {
       "isDirectory": false,
@@ -563,19 +605,19 @@
       "modifiedDate": 1689268448945,
       "sizeInBytes": 37
     },
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md": {
+    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 277,
-      "pageCount": 0.9233333333333333,
-      "characterCount": 1772,
-      "nonWhitespaceCharacterCount": 1462,
-      "linkCount": 22,
+      "wordCount": 238,
+      "pageCount": 0.7933333333333333,
+      "characterCount": 1467,
+      "nonWhitespaceCharacterCount": 1217,
+      "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1689338915751,
-      "modifiedDate": 1689523474149,
-      "sizeInBytes": 1783
+      "createdDate": 1689268448945,
+      "modifiedDate": 1690217251052,
+      "sizeInBytes": 1489
     },
     "D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md": {
       "isDirectory": false,
@@ -591,20 +633,6 @@
       "modifiedDate": 1689777473579,
       "sizeInBytes": 190
     },
-    "D&D/Waterdeep Dragon Heist/5- Ideas/Ataque a la fortaleza Ashrunner.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 391,
-      "pageCount": 1.3033333333333332,
-      "characterCount": 2339,
-      "nonWhitespaceCharacterCount": 1933,
-      "linkCount": 13,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689523474106,
-      "modifiedDate": 1689785874502,
-      "sizeInBytes": 2369
-    },
     "D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -618,6 +646,20 @@
       "createdDate": 1689268448944,
       "modifiedDate": 1689777325974,
       "sizeInBytes": 1932
+    },
+    "D&D/Waterdeep Dragon Heist/5- Ideas/Ataque a la fortaleza Ashrunner.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 391,
+      "pageCount": 1.3033333333333332,
+      "characterCount": 2339,
+      "nonWhitespaceCharacterCount": 1933,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689523474106,
+      "modifiedDate": 1689785874502,
+      "sizeInBytes": 2369
     },
     "D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 5 Notas.md": {
       "isDirectory": false,
@@ -661,20 +703,6 @@
       "modifiedDate": 1689686980476,
       "sizeInBytes": 987
     },
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 237,
-      "pageCount": 0.79,
-      "characterCount": 1672,
-      "nonWhitespaceCharacterCount": 1270,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689268448943,
-      "modifiedDate": 1689785472120,
-      "sizeInBytes": 1689
-    },
     "D&D/Waterdeep Dragon Heist/3- Organizaciones/Zentharim.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -688,6 +716,20 @@
       "createdDate": 1689338916638,
       "modifiedDate": 1689343096201,
       "sizeInBytes": 395
+    },
+    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 237,
+      "pageCount": 0.79,
+      "characterCount": 1672,
+      "nonWhitespaceCharacterCount": 1270,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689268448943,
+      "modifiedDate": 1689785472120,
+      "sizeInBytes": 1689
     },
     "D&D/Waterdeep Dragon Heist/2- Lugares/Tienda del Viejo Xoblob.md": {
       "isDirectory": false,
@@ -703,19 +745,19 @@
       "modifiedDate": 1689268448942,
       "sizeInBytes": 170
     },
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md": {
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Peabody's Ale.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 47,
-      "pageCount": 0.15666666666666668,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 255,
+      "wordCount": 84,
+      "pageCount": 0.28,
+      "characterCount": 520,
+      "nonWhitespaceCharacterCount": 421,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689268448941,
-      "modifiedDate": 1689268448941,
-      "sizeInBytes": 314
+      "modifiedDate": 1689523474098,
+      "sizeInBytes": 529
     },
     "D&D/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md": {
       "isDirectory": false,
@@ -730,6 +772,20 @@
       "createdDate": 1689338915718,
       "modifiedDate": 1689338915718,
       "sizeInBytes": 755
+    },
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 47,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 255,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689268448941,
+      "modifiedDate": 1689268448941,
+      "sizeInBytes": 314
     },
     "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md": {
       "isDirectory": false,
@@ -786,20 +842,6 @@
       "createdDate": 1689268448939,
       "modifiedDate": 1689268448940,
       "sizeInBytes": 1459
-    },
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Peabody's Ale.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 84,
-      "pageCount": 0.28,
-      "characterCount": 520,
-      "nonWhitespaceCharacterCount": 421,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689268448941,
-      "modifiedDate": 1689523474098,
-      "sizeInBytes": 529
     },
     "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md": {
       "isDirectory": false,
@@ -899,19 +941,47 @@
       "modifiedDate": 1690290320153,
       "sizeInBytes": 269
     },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md": {
+    "D&D/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 858,
-      "pageCount": 2.86,
-      "characterCount": 4917,
-      "nonWhitespaceCharacterCount": 4009,
-      "linkCount": 7,
-      "embedCount": 1,
+      "wordCount": 854,
+      "pageCount": 2.8466666666666667,
+      "characterCount": 4972,
+      "nonWhitespaceCharacterCount": 4090,
+      "linkCount": 0,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690290920747,
-      "modifiedDate": 1690302650277,
-      "sizeInBytes": 5047
+      "createdDate": 1690302403029,
+      "modifiedDate": 1690302528561,
+      "sizeInBytes": 4981
+    },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Volothamp Geddarm.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 204,
+      "pageCount": 0.68,
+      "characterCount": 1283,
+      "nonWhitespaceCharacterCount": 1065,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689268448937,
+      "modifiedDate": 1689608190909,
+      "sizeInBytes": 1309
+    },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 438,
+      "nonWhitespaceCharacterCount": 303,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689523474069,
+      "modifiedDate": 1689608014282,
+      "sizeInBytes": 438
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md": {
       "isDirectory": false,
@@ -941,47 +1011,19 @@
       "modifiedDate": 1689602880328,
       "sizeInBytes": 2024
     },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md": {
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 227,
-      "pageCount": 0.7566666666666667,
-      "characterCount": 1540,
-      "nonWhitespaceCharacterCount": 1281,
-      "linkCount": 6,
+      "wordCount": 210,
+      "pageCount": 0.7,
+      "characterCount": 1306,
+      "nonWhitespaceCharacterCount": 1005,
+      "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1689338915603,
-      "modifiedDate": 1689343473294,
-      "sizeInBytes": 1572
-    },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 52,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 438,
-      "nonWhitespaceCharacterCount": 303,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689523474069,
-      "modifiedDate": 1689608014282,
-      "sizeInBytes": 438
-    },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Volothamp Geddarm.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 204,
-      "pageCount": 0.68,
-      "characterCount": 1283,
-      "nonWhitespaceCharacterCount": 1065,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689268448937,
-      "modifiedDate": 1689608190909,
-      "sizeInBytes": 1309
+      "createdDate": 1689784774268,
+      "modifiedDate": 1689785055367,
+      "sizeInBytes": 1318
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md": {
       "isDirectory": false,
@@ -1011,33 +1053,19 @@
       "modifiedDate": 1689607960646,
       "sizeInBytes": 1658
     },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md": {
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 210,
-      "pageCount": 0.7,
-      "characterCount": 1306,
-      "nonWhitespaceCharacterCount": 1005,
-      "linkCount": 9,
+      "wordCount": 227,
+      "pageCount": 0.7566666666666667,
+      "characterCount": 1540,
+      "nonWhitespaceCharacterCount": 1281,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1689784774268,
-      "modifiedDate": 1689785055367,
-      "sizeInBytes": 1318
-    },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 206,
-      "pageCount": 0.6866666666666666,
-      "characterCount": 1312,
-      "nonWhitespaceCharacterCount": 1016,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689696621323,
-      "modifiedDate": 1689697671048,
-      "sizeInBytes": 1329
+      "createdDate": 1689338915603,
+      "modifiedDate": 1689343473294,
+      "sizeInBytes": 1572
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md": {
       "isDirectory": false,
@@ -1053,20 +1081,6 @@
       "modifiedDate": 1690208139829,
       "sizeInBytes": 3245
     },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 706,
-      "pageCount": 2.3533333333333335,
-      "characterCount": 4077,
-      "nonWhitespaceCharacterCount": 3362,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1689268448935,
-      "modifiedDate": 1689694380371,
-      "sizeInBytes": 4160
-    },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1080,6 +1094,20 @@
       "createdDate": 1689338915541,
       "modifiedDate": 1689607880737,
       "sizeInBytes": 636
+    },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 206,
+      "pageCount": 0.6866666666666666,
+      "characterCount": 1312,
+      "nonWhitespaceCharacterCount": 1016,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689696621323,
+      "modifiedDate": 1689697671048,
+      "sizeInBytes": 1329
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Floon Blagmaar.md": {
       "isDirectory": false,
@@ -1109,6 +1137,20 @@
       "modifiedDate": 1689353233987,
       "sizeInBytes": 2316
     },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 706,
+      "pageCount": 2.3533333333333335,
+      "characterCount": 4077,
+      "nonWhitespaceCharacterCount": 3362,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1689268448935,
+      "modifiedDate": 1689694380371,
+      "sizeInBytes": 4160
+    },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1122,48 +1164,6 @@
       "createdDate": 1689338915580,
       "modifiedDate": 1689607867956,
       "sizeInBytes": 1929
-    },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 187,
-      "pageCount": 0.6233333333333333,
-      "characterCount": 1146,
-      "nonWhitespaceCharacterCount": 936,
-      "linkCount": 7,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1689268448933,
-      "modifiedDate": 1689697279305,
-      "sizeInBytes": 1167
-    },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 438,
-      "pageCount": 1.46,
-      "characterCount": 2700,
-      "nonWhitespaceCharacterCount": 2157,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689268448933,
-      "modifiedDate": 1689784755142,
-      "sizeInBytes": 2736
-    },
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 131,
-      "pageCount": 0.43666666666666665,
-      "characterCount": 1014,
-      "nonWhitespaceCharacterCount": 697,
-      "linkCount": 12,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689338915481,
-      "modifiedDate": 1689607359891,
-      "sizeInBytes": 1023
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md": {
       "isDirectory": false,
@@ -1179,6 +1179,20 @@
       "modifiedDate": 1689880621257,
       "sizeInBytes": 524
     },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 858,
+      "pageCount": 2.86,
+      "characterCount": 4915,
+      "nonWhitespaceCharacterCount": 4009,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1690290920747,
+      "modifiedDate": 1690303455076,
+      "sizeInBytes": 5045
+    },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1192,6 +1206,48 @@
       "createdDate": 1689338915396,
       "modifiedDate": 1689353238394,
       "sizeInBytes": 716
+    },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 131,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 1014,
+      "nonWhitespaceCharacterCount": 697,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689338915481,
+      "modifiedDate": 1689607359891,
+      "sizeInBytes": 1023
+    },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 438,
+      "pageCount": 1.46,
+      "characterCount": 2700,
+      "nonWhitespaceCharacterCount": 2157,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689268448933,
+      "modifiedDate": 1689784755142,
+      "sizeInBytes": 2736
+    },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 187,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 1146,
+      "nonWhitespaceCharacterCount": 936,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1689268448933,
+      "modifiedDate": 1689697279305,
+      "sizeInBytes": 1167
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md": {
       "isDirectory": false,
