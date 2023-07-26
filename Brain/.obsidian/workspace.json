@@ -4,58 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7575d8536431a348",
+        "id": "bd405553687f30a9",
         "type": "tabs",
         "children": [
           {
-            "id": "34e5b085ea3bed6b",
+            "id": "af209bd45a1232df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8c4c4dcaef41da13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36d6201116db9f52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "48c7dc52fef523e2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4bc26beca201863a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
               }
             }
           }
@@ -88,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "oro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
+                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md"
               }
             }
           },
@@ -194,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -206,47 +167,47 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bc26beca201863a",
+  "active": "6816e75aee07d7f4",
   "lastOpenFiles": [
-    "D&D/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md",
-    "D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
-    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
-    "D&D/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md",
-    "D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+    "z_attachments/D&D/Shock2.jpg",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Departamento de Oro.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Castle Ward.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Fortaleza Ashrunner.md",
+    "Diario/2023/07-July/2023-07-26-Wednesday.md",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos/Piedra de Golorr.md",
+    "D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
-    "D&D/Waterdeep Dragon Heist/9- Objetos/Código Legal.md",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew",
-    "D&D/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
-    "D&D/Waterdeep Dragon Heist/5- Ideas/Ideas Realizadas",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+    "D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Yvyn Sammah.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md",
     "D&D/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md",
-    "Diario/2023/07-July/2023-07-26-Wednesday.md",
-    "Diario/2023/07-July/2023-07-25-Tuesday.md",
-    "D&D/Waterdeep Dragon Heist/10-Pdfs/CS y SB/Shock.pdf",
-    "D&D/Waterdeep Dragon Heist/11-Hombrew",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
     "z_templates/Character Stats Template.md",
     "z_templates/Character Sheet Template.md",
-    "D&D/Waterdeep Dragon Heist/10-Pdfs/CS y SB",
+    "Diario/2023/07-July/2023-07-25-Tuesday.md",
+    "D&D/Waterdeep Dragon Heist/11-Hombrew",
+    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Alexandrian Remix Dragon Heist.pdf",
+    "D&D/Waterdeep Dragon Heist/10-Pdfs/CS y SB/Shock.pdf",
     "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales",
+    "D&D/Waterdeep Dragon Heist/10-Pdfs/CS y SB",
     "D&D/Waterdeep Dragon Heist/10-Pdfs",
-    "D&D/Waterdeep Dragon Heist/Shock.pdf",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Prueba.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/prueba pdf.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
-    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Kenkus.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
+    "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
     "z_attachments/Daily Note Images/Dwaing.png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
     "z_attachments/D&D/ConstanzaAshrunner.jpg",

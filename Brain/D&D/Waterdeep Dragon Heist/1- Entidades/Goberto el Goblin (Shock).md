@@ -1,6 +1,8 @@
 
 ### Entrada
-Goberto el Goblin, conocido como “Orejón” en su pueblo. Es un [[Fighter]] [[Samurai (Subclass)]].
+Goberto el Goblin, conocido como “Orejón” en su pueblo. Es un [[Fighter]] [[Samurai (Subclass)]]. 
+
+![[Shock2.jpg]]
 
 ### Diferente
 Goberto no tuvo una vida sencilla. Al nacer con los lóbulos de sus orejas unidos a su cara, sufrió una discriminación constante por toda su aldea, al sur de [[Neverwinter]].
