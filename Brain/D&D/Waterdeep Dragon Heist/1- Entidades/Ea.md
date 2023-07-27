@@ -5,27 +5,27 @@ Luego de separarse, Ea recorrió las calles de [[Castle Ward]] siguiendo las p
 
 Después de varios minutos de caminar en la oscuridad absoluta, salió a una azotea. El frío de la temprana primavera creaba una especie de neblina que dificultaba la visión.
 
-- Honestamente, estaba por irme- Dijo una voz ominosa delante suyo.
+-Honestamente, estaba por irme- Dijo una voz ominosa delante suyo.
 
 Pronto, una silueta humanoide se formo ligeramente mientras caminaba hacia Ea.
 
-- ¿Porque yo?- Respondió.
+-¿Porque yo?- Respondió.
 
-- ¿A que te refieres porque tú?
+-¿A que te refieres porque tú?
 
-- Digo, debe haber un millar de personas más habilidosas que yo en [[Waterdeep]]- Siguió Ea, intentando hacer un sentido de los extraños encuentros que habia tenido con Deraxie en estos últimos días.
+-Digo, debe haber un millar de personas más habilidosas que yo en [[Waterdeep]]- Siguió Ea, intentando hacer un sentido de los extraños encuentros que habia tenido con Deraxie en estos últimos días.
 
 Pero había una pregunta más importante que se hacía.
 
-- ¿Tiene que haber un porque? Ya te lo dije, si quieres conocerlos, conocerlos de verdad, la única forma de hacerlo es siguiendome.
+-¿Tiene que haber un porque? Ya te lo dije, si quieres conocerlos, conocerlos de verdad, la única forma de hacerlo es siguiendome.
 
-- Pero...
+-Pero...
 
-- Y debo advertirte- Interrumpió Deraxie- Que no te gustará nada lo que verás.
+-Y debo advertirte- Interrumpió Deraxie- Que no te gustará nada lo que verás.
 
 Ea no sabía que responder.
 
-- Encontrarás respuestas, si, pero algunas preguntas es mejor dejarlas sin responder- Deraxie por fin se mostro al completo, jugueteaba con algo en su mano derecha- Además de que la tarea que tendremos que cumplir es colosal. Vital para la vida en esta tierra, diría yo.
+-Encontrarás respuestas, si, pero algunas preguntas es mejor dejarlas sin responder- Deraxie por fin se mostro al completo, jugueteaba con algo en su mano derecha- Además de que la tarea que tendremos que cumplir es colosal. Vital para la vida en esta tierra, diría yo.
 
 -Necesito respuestas- Dijo Ea, determinada.
 

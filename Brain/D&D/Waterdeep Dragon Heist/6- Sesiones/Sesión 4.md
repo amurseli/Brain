@@ -29,6 +29,8 @@ Lander intenta percibir si alguna presencia extraña habita la mansión, que par
 
 Luego de pensarlo bastante, todo el grupo firma la propiedad y se convierten en lso dueños de la [[Mansión Trollskull]]
 
+Zarrai firma por sí mismo como [[Zendai]]
+
 [[Zarrai]] se vá a dormir a otra parte.
 
 ---

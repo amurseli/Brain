@@ -26,6 +26,14 @@ También hizo budines. Sabe que a Zarrai no me gustó pero piensa que a [[Oro Sa
 
 Tuvo una pesadilla falopa y se ganó su vaso de agua, no salió casi de la mansión.
 
+##### Zarrai
+Zarrai crea una forma de subir por el torreón de la Mansión que solo él conoce. Dejó mitad de sus posesiones en la cima del terreón.
+
+Visita [[Vapor y Acero]] y pregunta el precio de vender o comprar armas, conoce a [[Avi]] y a [[Embric]].
+
+Probó el budin de Nemeia (lamentablemente) y recibió el Anillo de Sostención.
+
+Volvió a ver a Rook ne busca de laburo y noticias, este le cuenta que el nombre del gran juego es [[El enigma de Neverember]].
 
 
 

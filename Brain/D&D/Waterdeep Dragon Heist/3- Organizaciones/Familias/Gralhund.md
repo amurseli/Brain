@@ -1,0 +1,7 @@
+Los Gralhunds son nobles que trafican con armas y mercenarios, y cuyo lema familiar es "Vemos ambos lados". [[Orond Gralhund]] es el patriarca, pero no es un tipo rápido de mente ni culto, y en el fondo lo sabe. Le deja la la socializacion y los planes a esposa, [[Yalah Gralhund]], a quien es devoto.
+
+Cuando varios de los [[Lords Enmascarados]] fueron asesinados en rápida sucesión hace algunos años, Lord Grahlhund esperaba que su esposa ocupara una de las vacantes. Eso nunca ocurrió, sin importar los sobornos. 
+
+Hace menos de un año, los Grahlhund fueron abordados por agentes de los [[Zhentarim]] leales a [[Manshoon]], y los nobles formaron una alianza con ellos. La Casa Grahlhund les da la dinero a los Zhents y les permite usar la villa noble de la familia como refugio. La casa cosecha todos los beneficios que ofrece la Red Negra, incluida la inteligencia que han recopilado sus espías.
+
+Orond no comprende completamente lo entrelazados que se han vuelto Black Network y su familia; ahora es casi imposible separar uno del otro. No es ningún secreto en [[Waterdeep]] que Black Network se ha arraigado firmemente en la Casa Gralhund. Generalmente se sabe que que los Zhents en la Casa Gralhund son agentes de Manshoon. Ni Orond ni ningún otro miembro de su familia saben sobre el clon del mago. En lo que respecta a Orond y su esposa, los líderes locales de la Red Negra (con [[Urstul Floxin]] jefe entre ellos ) residen con ellos en la villa familiar.

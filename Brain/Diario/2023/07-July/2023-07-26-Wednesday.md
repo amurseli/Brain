@@ -17,13 +17,15 @@ Laburé en la oficina a la mañana, llegué a casa, discutí BASTANTE con rama s
 
 ##### Juegos
 ```text-progress-bar
-J:0/10
+J:1/10
 ```
+Mucha arena en el lol :o
 
 ##### Dibujo
 ```text-progress-bar
-Di:0/10
+Di:2.5/10
 ```
+Dibujo en papel mas q nada, aunque estoy tratando de dibujar a [[Ea]]. Más q nada intentando perfeccionar el artstyle.
 
 ##### Desarrollo
 ```text-progress-bar
@@ -42,7 +44,7 @@ E:0/10
 
 ##### D&D
 ```text-progress-bar
-DD:0/10
+DD:2.5/10
 ```
 
 ##### Proyecto Temporal

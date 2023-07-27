@@ -1,4 +1,4 @@
- 
+ ---
 ---
 *2023-07-13*
 
@@ -27,7 +27,7 @@ Acá iría la conversación que Zarrai quiera tener
 
 “Bueno, dejame probarte.”
 
-Inicia la pelea, que termina con Avril apuñalando a Zarrai y usando “Viento Honesto” para preguntarle
+Inicia la pelea, que termina con Avril apuñalando a Zarrai y usando “[[Avril Thunderstaff#Habilidades e Información|Viento Honesto]]” para preguntarle
 
 
 “Perdón por esto, pero si te dejo ir sin más, creerán que trabajas con nosotros.”
@@ -37,3 +37,8 @@ Lo arroja por el vitral, cayendo hacia el salón de baile.
 Durante la caída, quiero que Zarrai reflexione sobre su vida, recondándole todos los eventos de su backstory, hasta llegar a hacerle una pregunta importane.
 
 ¿Que te queda para seguír adelante?
+
+---
+*2023-07-27*
+
+Quiero agregar a [[Goberto el Goblin (Shock)]] en esta escena. Ambos van a estar en los palcos revisando por ahí

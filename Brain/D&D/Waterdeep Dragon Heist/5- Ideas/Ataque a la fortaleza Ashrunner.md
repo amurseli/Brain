@@ -27,4 +27,9 @@ De a poco voy a ir revelando la reacción de la gente, los gritos y el pánico. 
 Oro mira para adelante, y ve a Lord Fourier, con cientos de puñaladas recorriendo su cadaver arrodillado. [[Constanza Ashrunner|Constanza]] y Rust en shock a su lado.
 
 
-De acá seguiría [[Avril - Zarrai en el balcon Ashrunner]].
+De acá seguiría [[Avril - Zarrai en el balcon Ashrunner]]. 
+
+---
+*2023-07-27*
+
+También quiero agregarles un combatico acá a los chicos de abajo, Zarrai va a estar arriba contra Avril, quiero un enemigo grande abajo para que todos peleen contra él.

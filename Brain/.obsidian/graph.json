@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-tag:#DailyNote",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 12450815
       }
+    },
+    {
+      "query": "#DailyNote",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
     }
   ],
   "collapse-display": false,
@@ -63,10 +70,10 @@
   "nodeSizeMultiplier": 2.06510416666667,
   "lineSizeMultiplier": 0.814583333333333,
   "collapse-forces": false,
-  "centerStrength": 0.104166666666667,
-  "repelStrength": 12.3958333333333,
+  "centerStrength": 0.135416666666667,
+  "repelStrength": 13.0208333333333,
   "linkStrength": 0,
   "linkDistance": 103,
-  "scale": 0.07129374224785119,
+  "scale": 0.059326171875000194,
   "close": false
 }
