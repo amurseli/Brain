@@ -44,6 +44,11 @@ Boad:0/10
 B:0/10
 ```
 
+##### Lectura (Libros y Mangas)
+```text-progress-bar
+lecturas:0/10
+```
+
 ##### D&D
 ```text-progress-bar
 Progreso read:0/10
