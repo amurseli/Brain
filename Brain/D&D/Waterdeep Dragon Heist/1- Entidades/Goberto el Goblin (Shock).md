@@ -7,7 +7,7 @@ Goberto el Goblin, conocido como “Orejón” en su pueblo. Es un [[Fighter]] [
 ### Diferente
 Goberto no tuvo una vida sencilla. Al nacer con los lóbulos de sus orejas unidos a su cara, sufrió una discriminación constante por toda su aldea, al sur de [[Neverwinter]].
 
-Todos los trabajos inimaginablemente horribles de la idea, aquellos que ni siquiera el más bajo de los goblins quería hacer, le tocaban a el. Por la mañana, cargar los cuerpos de los goblins caídos en batalla, solo, hasta el campamento. Por la tarde, impiar la fosa scéptica, llevando los desechos de sus pares a kilómetros de distancia. Y de noche, lo peor. Ejecutar a los bebés como él, los diferentes, ya sea por un pelo extraño, como un dedo extra, como un lóbulo unido a la cara.
+Todos los trabajos inimaginablemente horribles de la aldea, aquellos que ni siquiera el más bajo de los goblins quería hacer, le tocaban a el. Por la mañana, cargar los cuerpos de los goblins caídos en batalla, solo, hasta el campamento. Por la tarde, impiar la fosa scéptica, llevando los desechos de sus pares a kilómetros de distancia. Y de noche, lo peor. Ejecutar a los bebés como él, los diferentes, ya sea por un pelo extraño, como un dedo extra, como un lóbulo unido a la cara.
 
 ¿Porqué lo habían perdonado a él mientras que a otros no? No tenía una respuesta concreta, había escuchado por ahí que el anterior chamán del pueblo, al verlo como bebé, había decidido salvarlo. Pero Goberto dudaba. La razón era clara, el pueblo necesitaba a alguien más bajo en la jerarquía, sino, ¿Quién haría los trabajos que el tenía que hacer?
 

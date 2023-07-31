@@ -10,10 +10,31 @@ Una vez que la party llega a la fortaleza, son acompañados por la villa hasta l
 [[Oro Sammah]] y [[Kruwen Ferropie]] son enviados a custodiar la entrada, revisando las pertenencias de la gente y la servidumbre antes de entrar. [[Nemeia]] y [[Lander Severian]] son enviados, por el momento, a custodiar la planta principal. Una vez Oro y Kruwen terminen de revisar la entrada, se uniran a estos dos. [[Zarrai]] es enviado a custodiar los palcos junto con [[Goberto el Goblin (Shock)]].
 
 Al baile atienden estos personajes, si bien están enmascarados, tanto Kruwen como Oro reconocen algunos:
+- Un grupo de 10 escorts. 
 - [[Deraxie Goneare]]: Deraxie atiende como sí mismo, jefe de la mas importante orden de joyeros y uno de los mercaderes mas conocidos de la ciudad. Emana un aura misteriosa que llama la atención de ambos, Kruwen lo reconoce.
 - [[Luslec Fiboreas]]: Al igual que Deraxie, atiende como sí mismo, llegando junto a su amigo. Ya está borracho
+- Varias parejas de nobles, todas bien vestidas y en algunos casos acompañadas por sirvientes
 - [[Ea]]: Está usando un hechizo, para cambiar el color de su cabello así que nadie la reconoce.
-- 
+- Un Tabaxi que llega con una espada gigante y se niega a dejarla.
+- [[Renaer Neverember]]: Intenta pasar como si estuviera de incógnito, pero su color rojizo lo delata.
+- [[Floon Blagmaar]]: llega con Renaer.
+- [[Lady Ammalia Cassalanter]] y [[Lord Vitoro Cassalanter]]: llegan usando las máscaras que se sostienen con la mano. Ambos hablan de buena fé con Oro y Kruwen
+- [[Yalah Gralhund]] y [[Orond Gralhund]]: Llaman la atención por venir acompañado por varios sirvientes de apariencia sospechosa, los chicos seguro le tengan q confiscar algun arma
+- Más y más grupos de nobles.
+
+Tanto Kruwen como Oro se ponen las máscaras y entran a el baile.
+
+Acá quiero un momento para interaccioens sociales, pueden ser algunas como:
+- Los chicos promocioanndo la taberna
+- Alguno de los chicos robando
+- Rumores: 
+	- *“Parece que no va a venir.”* Sobre Fourier, como no aparece, la gente parece sospechar.
+	- *“¿Te enteraste? Lady Philomenna esta teniendo un amorí con uno de sus sirviente”* Viejas hablando cerca de la mesa.
+	- *“Tremendo lo que le ocurrió al jóven Neverember, el salvajismo en Waterdeep esta cada vez peor.”*
+- Goberto presentandose con Zarrai (Como Shock)
+- Zarrai ve a una joven intentando entrar a un cuarto al que no tiene llave en el cuarto palco nobles.
+- Un Noble gordo, “Ramelion” reta a Lander (y quizás a nemeia) a un concurso de tomar alcohol
+
 
 Mientras mas avanza la noche, más se van relajando, hasta que en un momento, Constanza se acerca a pedirle un baile a Oro. Ambos son interrumpidos por [[Rust Ashrunner]], quien crea un escándalo, humillando a Oro delante de todos.
 
