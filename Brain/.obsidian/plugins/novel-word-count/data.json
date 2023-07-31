@@ -454,44 +454,44 @@
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "wordCount": 324,
+      "pageCount": 1.08,
+      "characterCount": 1883,
+      "nonWhitespaceCharacterCount": 1546,
+      "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690819115237,
-      "modifiedDate": 1690819115237,
-      "sizeInBytes": 0
+      "modifiedDate": 1690819920126,
+      "sizeInBytes": 1902
     },
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 625,
       "pageCount": 2.0833333333333335,
-      "characterCount": 3612,
+      "characterCount": 3572,
       "nonWhitespaceCharacterCount": 2925,
       "linkCount": 29,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690213928567,
-      "modifiedDate": 1690496456254,
-      "sizeInBytes": 3687
+      "modifiedDate": 1690819129403,
+      "sizeInBytes": 3647
     },
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 542,
       "pageCount": 1.8066666666666666,
-      "characterCount": 3344,
+      "characterCount": 3305,
       "nonWhitespaceCharacterCount": 2742,
       "linkCount": 31,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689338915784,
-      "modifiedDate": 1690496456245,
-      "sizeInBytes": 3392
+      "modifiedDate": 1690819141996,
+      "sizeInBytes": 3353
     },
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md": {
       "isDirectory": false,
@@ -898,6 +898,48 @@
       "createdDate": 1689268448937,
       "modifiedDate": 1690767016025,
       "sizeInBytes": 255
+    },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1690822416722,
+      "modifiedDate": 1690822416722,
+      "sizeInBytes": 0
+    },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 112,
+      "pageCount": 0.37333333333333335,
+      "characterCount": 653,
+      "nonWhitespaceCharacterCount": 507,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1690822216488,
+      "modifiedDate": 1690822408653,
+      "sizeInBytes": 658
+    },
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Nat.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 85,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 514,
+      "nonWhitespaceCharacterCount": 395,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1690821997308,
+      "modifiedDate": 1690822171502,
+      "sizeInBytes": 518
     },
     "D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md": {
       "isDirectory": false,
@@ -1431,19 +1473,33 @@
       "modifiedDate": 1690205156801,
       "sizeInBytes": 2
     },
-    "Diario/2023/07-July/2023-07-30-Sunday.md": {
+    "Diario/2023/07-July/2023-07-31-Monday.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 112,
-      "pageCount": 0.37333333333333335,
-      "characterCount": 883,
-      "nonWhitespaceCharacterCount": 752,
+      "wordCount": 141,
+      "pageCount": 0.47,
+      "characterCount": 1039,
+      "nonWhitespaceCharacterCount": 880,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
+      "createdDate": 1690820041158,
+      "modifiedDate": 1690820388077,
+      "sizeInBytes": 1082
+    },
+    "Diario/2023/07-July/2023-07-30-Sunday.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 120,
+      "pageCount": 0.4,
+      "characterCount": 929,
+      "nonWhitespaceCharacterCount": 790,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
       "createdDate": 1690759470719,
-      "modifiedDate": 1690759471280,
-      "sizeInBytes": 924
+      "modifiedDate": 1690821288121,
+      "sizeInBytes": 970
     },
     "Diario/2023/07-July/2023-07-28-Friday.md": {
       "isDirectory": false,
