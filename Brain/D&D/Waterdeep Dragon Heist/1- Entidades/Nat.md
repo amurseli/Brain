@@ -3,7 +3,7 @@
 Nat es una huerfana sorda, y la líder del trio de huerfanos del [[Callejón Trollskull]].
 
 ### Hermanos
-Nat, la lider del grupo, es una chica alta con pelo azabache y piel pálida. Ella y los chicos, [[Squiddly]] y [[Jenks]], se comunican con lenguaje de señas.
+Nat, la lider del grupo, es una chica alta con pelo azabache y piel pálida. Ella y los chicos, [[Squiddly]] y [[Jenks]], se comunican con lenguaje de señas. Nat tiene un año más que ellos, por eso se convirtió en la líder. Bueno y porque es la única que realmente sabe pelear.
 
 ### Lif
 Durante los años en los que estuvo abandonada la mansión trollskull, el trío durmió varias veces allí. Una noche, conocieron a [[Lif Thallyworn]], y este se hizo amigo de ellos intantáneamente. Suelen jugar a las cartas con el, por mas que ninguno de los tres saben jugar.

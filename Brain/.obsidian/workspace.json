@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "bd405553687f30a9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "af209bd45a1232df",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "108ff670bcc92a0f",
         "type": "tabs",
         "children": [
@@ -29,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
+                "file": "Programación/Laburo/Twillio/Whatsapp Sender.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
+                "file": "Programación/Laburo/Twillio/Whatsapp Sender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
+                "file": "Programación/Laburo/Twillio/Whatsapp Sender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md"
+                "file": "Programación/Laburo/Twillio/Whatsapp Sender.md"
               }
             }
           },
@@ -188,16 +172,18 @@
   },
   "active": "ff6a10a0cbdf5eed",
   "lastOpenFiles": [
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Nat.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
+    "Diario/2023/08-August/2023-08-01-Tuesday.md",
+    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
     "Diario/2023/07-July/2023-07-31-Monday.md",
+    "Diario/2023/08-August",
+    "D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
     "Diario/2023/07-July/2023-07-30-Sunday.md",
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
     "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
     "D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
-    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
     "D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 6 Notas.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
@@ -213,9 +199,7 @@
     "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Kamaitachi.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
     "D&D/Waterdeep Dragon Heist/1- Entidades/Orond Gralhund.md",
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias/Gralhund.md",
     "D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias",
-    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Nimblewright.md",
     "z_attachments/D&D/Shock2.jpg",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos",
     "D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
@@ -224,7 +208,6 @@
     "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Alexandrian Remix Dragon Heist.pdf",
     "D&D/Waterdeep Dragon Heist/10-Pdfs/CS y SB/Shock.pdf",
     "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales",
-    "D&D/Waterdeep Dragon Heist/10-Pdfs/CS y SB",
     "z_attachments/Daily Note Images/Dwaing.png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
     "z_attachments/D&D/ConstanzaAshrunner.jpg",
