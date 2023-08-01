@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Laburo/Twillio/Whatsapp Sender.md",
+                "file": "Programación/Laburo/Twillio/Lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e4b57e3fa5e3135f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a61ada5ca25a5df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación/Laburo/Twillio/Conexión inicial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Laburo/Twillio/Whatsapp Sender.md",
+                "file": "Programación/Laburo/Twillio/Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Laburo/Twillio/Whatsapp Sender.md",
+                "file": "Programación/Laburo/Twillio/Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación/Laburo/Twillio/Whatsapp Sender.md"
+                "file": "Programación/Laburo/Twillio/Lambda.md"
               }
             }
           },
@@ -170,44 +188,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff6a10a0cbdf5eed",
+  "active": "6816e75aee07d7f4",
   "lastOpenFiles": [
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Nat.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
+    "Programación/Laburo/Twillio/Conexión inicial.md",
+    "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Programación/Laburo/Twillio/Lambda.md",
+    "Programación/Laburo/Twillio/Whatsapp Sender.md",
+    "Ficción/Cloudcore",
+    "Ficción",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nat.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
     "Diario/2023/08-August/2023-08-01-Tuesday.md",
-    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
     "Diario/2023/07-July/2023-07-31-Monday.md",
     "Diario/2023/08-August",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
     "Diario/2023/07-July/2023-07-30-Sunday.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
-    "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
-    "D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
-    "D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 6 Notas.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Emmek Frewn.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
-    "D&D/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
-    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Shadow.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
+    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 6 Notas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Emmek Frewn.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Shadow.md",
     "Diario/2023/07-July/2023-07-28-Friday.md",
     "Diario/2023/07-July/2023-07-27-Thursday.md",
     "Diario/2023/07-July/2023-07-26-Wednesday.md",
     "z_templates/Daily Notes/Daily Note Template Week Wrap.md",
     "z_templates/Daily Notes/Daily Note Template.md",
-    "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Kamaitachi.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
-    "D&D/Waterdeep Dragon Heist/1- Entidades/Orond Gralhund.md",
-    "D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias",
+    "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias",
     "z_attachments/D&D/Shock2.jpg",
-    "D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos",
-    "D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
-    "D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew",
-    "D&D/Waterdeep Dragon Heist/11-Hombrew",
-    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Alexandrian Remix Dragon Heist.pdf",
-    "D&D/Waterdeep Dragon Heist/10-Pdfs/CS y SB/Shock.pdf",
-    "D&D/Waterdeep Dragon Heist/10-Pdfs/Generales",
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos",
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew",
+    "Ficción/D&D/Waterdeep Dragon Heist/11-Hombrew",
+    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Alexandrian Remix Dragon Heist.pdf",
     "z_attachments/Daily Note Images/Dwaing.png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
     "z_attachments/D&D/ConstanzaAshrunner.jpg",
