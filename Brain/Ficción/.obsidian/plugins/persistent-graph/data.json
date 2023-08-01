@@ -1,0 +1,815 @@
+{
+  "nodePositions": [
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+      "x": -4807.53466796875,
+      "y": -189.4302520751953
+    },
+    {
+      "id": "Half-Elf",
+      "x": -3687.3359375,
+      "y": 1925.7305908203125
+    },
+    {
+      "id": "Bladesinger",
+      "x": -5026.7724609375,
+      "y": 959.0123291015625
+    },
+    {
+      "id": "Thunderstaff",
+      "x": -6240.52734375,
+      "y": -2245.725830078125
+    },
+    {
+      "id": "Baerom Thunderstaff",
+      "x": -1386.9930419921875,
+      "y": 1167.248779296875
+    },
+    {
+      "id": "Ardeepforest",
+      "x": -6042.31689453125,
+      "y": 1721.875244140625
+    },
+    {
+      "id": "Drow",
+      "x": -1429.8428955078125,
+      "y": -4625.89501953125
+    },
+    {
+      "id": "Buhoso",
+      "x": -4250.0302734375,
+      "y": 653.478271484375
+    },
+    {
+      "id": "Bladesong",
+      "x": -1343.458740234375,
+      "y": -5899.22216796875
+    },
+    {
+      "id": "Trade Ward",
+      "x": -71.50029754638672,
+      "y": -1827.46826171875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+      "x": 4208.18359375,
+      "y": -320.1885681152344
+    },
+    {
+      "id": "Rust Ashrunner",
+      "x": 4898.6064453125,
+      "y": 3402.73486328125
+    },
+    {
+      "id": "Lucas Ashrunner",
+      "x": -668.0203247070312,
+      "y": 456.2983093261719
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
+      "x": -1922.4306640625,
+      "y": -3308.912841796875
+    },
+    {
+      "id": "Kama",
+      "x": -3058.7412109375,
+      "y": -4222.05859375
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
+      "x": -4123.8369140625,
+      "y": 3391.100830078125
+    },
+    {
+      "id": "Bajomontaña",
+      "x": -3138.454833984375,
+      "y": 3859.070556640625
+    },
+    {
+      "id": "Lords Enmascarados",
+      "x": -5410.34228515625,
+      "y": 2540.307861328125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md",
+      "x": -73.11014556884766,
+      "y": -4550.3759765625
+    },
+    {
+      "id": "Más Cuidadosa Orden de Habilidosos Herreros y Metalúrgicos",
+      "x": -1304.867431640625,
+      "y": -2403.754638671875
+    },
+    {
+      "id": "Más Cuidadosa Orden de Habilidosos herreros y Metalúrgicos",
+      "x": 3999.752685546875,
+      "y": 1280.5792236328125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
+      "x": -3156.55224609375,
+      "y": -5659.1201171875
+    },
+    {
+      "id": "Los Ruiseñores",
+      "x": -5511.3564453125,
+      "y": -3780.05810546875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md",
+      "x": 3233.79150390625,
+      "y": -3644.008056640625
+    },
+    {
+      "id": "Genasi",
+      "x": 5378.796875,
+      "y": -2000.035888671875
+    },
+    {
+      "id": "Avi",
+      "x": 3247.2216796875,
+      "y": -417.8312683105469
+    },
+    {
+      "id": "Vapor y Acero",
+      "x": 6053.69091796875,
+      "y": -1038.0513916015625
+    },
+    {
+      "id": "Calimshan",
+      "x": 3469.596435546875,
+      "y": -2579.2763671875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Floon Blagmaar.md",
+      "x": 277.955322265625,
+      "y": 3554.9775390625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
+      "x": 4124.861328125,
+      "y": -4257.76318359375
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
+      "x": 4452.74853515625,
+      "y": -1170.9024658203125
+    },
+    {
+      "id": "Kruwina Ferropie",
+      "x": 1590.097412109375,
+      "y": 2186.680908203125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+      "x": -6031.82861328125,
+      "y": 445.86602783203125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
+      "x": -3425.039306640625,
+      "y": 1122.2109375
+    },
+    {
+      "id": "Open Lord",
+      "x": -4735.18408203125,
+      "y": -4358.74365234375
+    },
+    {
+      "id": "Lord Protector",
+      "x": 1762.489990234375,
+      "y": -5017.9375
+    },
+    {
+      "id": "Neverwinter",
+      "x": -1801.91455078125,
+      "y": 4652.00146484375
+    },
+    {
+      "id": "Laeral Silverhand",
+      "x": 675.7022705078125,
+      "y": 4760.5595703125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
+      "x": -2310.35693359375,
+      "y": -5283.8212890625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md",
+      "x": -653.7960815429688,
+      "y": 5897.0615234375
+    },
+    {
+      "id": "Oro V Sammah",
+      "x": 4135.6181640625,
+      "y": 3828.481201171875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
+      "x": -2250.341796875,
+      "y": 3282.410888671875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Volothamp Geddarm.md",
+      "x": 3263.16015625,
+      "y": -1325.383544921875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Yvyn Sammah.md",
+      "x": 4200.73486328125,
+      "y": -2004.854248046875
+    },
+    {
+      "id": "Halfling",
+      "x": 3052.169921875,
+      "y": 4406.7392578125
+    },
+    {
+      "id": "Ashrunner",
+      "x": -2035.0848388671875,
+      "y": 2479.314697265625
+    },
+    {
+      "id": "Semi-Orco",
+      "x": 3782.068359375,
+      "y": 2432.812744140625
+    },
+    {
+      "id": "Sauros Ashrunner",
+      "x": 2284.4921875,
+      "y": -3232.436767578125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
+      "x": -88.15550994873047,
+      "y": -5990.0283203125
+    },
+    {
+      "id": "La Costa Espada",
+      "x": 220.872802734375,
+      "y": -3626.204833984375
+    },
+    {
+      "id": "Raemo",
+      "x": -4062.998779296875,
+      "y": -5303.13623046875
+    },
+    {
+      "id": "Von",
+      "x": 890.5750732421875,
+      "y": -4500.39599609375
+    },
+    {
+      "id": "Doppelganger",
+      "x": -2156.62744140625,
+      "y": -6313.466796875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
+      "x": 4838.70947265625,
+      "y": 1495.279296875
+    },
+    {
+      "id": "Corona de Cornella",
+      "x": 2551.148193359375,
+      "y": 3147.931884765625
+    },
+    {
+      "id": "Ojo de Tigre",
+      "x": 2795.5869140625,
+      "y": 6041.11376953125
+    },
+    {
+      "id": "El Clavo Doblado",
+      "x": 1349.911865234375,
+      "y": 81.47512817382812
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Castle Ward.md",
+      "x": -4362.85498046875,
+      "y": -2288.376220703125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Departamento de Oro.md",
+      "x": 626.7694091796875,
+      "y": 6140.5546875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Dock Ward.md",
+      "x": -106.50150299072266,
+      "y": 6630.16015625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
+      "x": 3488.5888671875,
+      "y": 5373.08154296875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/El Portal Bostezante.md",
+      "x": -684.9517822265625,
+      "y": -5206.78466796875
+    },
+    {
+      "id": "Faerûn",
+      "x": 1341.1990966796875,
+      "y": -3588.127685546875
+    },
+    {
+      "id": "Calabozo de Halaster el Mago Loco",
+      "x": -1711.79296875,
+      "y": -1438.9521484375
+    },
+    {
+      "id": "Reinos Olvidados",
+      "x": 2345.3056640625,
+      "y": -5783.07373046875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md",
+      "x": 1407.2774658203125,
+      "y": 1031.54833984375
+    },
+    {
+      "id": "El Gremio de Xanathar",
+      "x": 2059.12939453125,
+      "y": -1422.4384765625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Fortaleza Ashrunner.md",
+      "x": 945.3167114257812,
+      "y": -980.0374145507812
+    },
+    {
+      "id": "Costa de la Espada",
+      "x": 4926.82763671875,
+      "y": -2805.525390625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
+      "x": -226.2930908203125,
+      "y": 1303.1883544921875
+    },
+    {
+      "id": "Emmek Frewn",
+      "x": 6270.50390625,
+      "y": 255.89141845703125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/North Ward.md",
+      "x": 5694.56591796875,
+      "y": 1750.84619140625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Peabody's Ale.md",
+      "x": -890.1156005859375,
+      "y": -666.004638671875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md",
+      "x": 5773.41064453125,
+      "y": -3231.654052734375
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Tienda del Viejo Xoblob.md",
+      "x": 1646.531005859375,
+      "y": 6439.6337890625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
+      "x": -226.3488311767578,
+      "y": -2733.46923828125
+    },
+    {
+      "id": "Southern Ward",
+      "x": -2941.510498046875,
+      "y": 4804.60986328125
+    },
+    {
+      "id": "Field Ward",
+      "x": -2085.98193359375,
+      "y": 5650.052734375
+    },
+    {
+      "id": "Alcantarillas de Waterdeep",
+      "x": -3887.52001953125,
+      "y": -1485.2392578125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
+      "x": 1999.5887451171875,
+      "y": -620.1597900390625
+    },
+    {
+      "id": "Rishaal",
+      "x": 503.6081848144531,
+      "y": 2573.232177734375
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md",
+      "x": -5524.291015625,
+      "y": -2779.124267578125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/3- Organizaciones/Zentharim.md",
+      "x": -535.0322875976562,
+      "y": 4123.98095703125
+    },
+    {
+      "id": "Zirzaj",
+      "x": -3496.3857421875,
+      "y": -8.536375999450684
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/5- Ideas/Ataque a la fortaleza Ashrunner.md",
+      "x": -6629.08056640625,
+      "y": -474.5843505859375
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
+      "x": -6616.07958984375,
+      "y": 1075.2808837890625
+    },
+    {
+      "id": "Gond",
+      "x": -2982.802734375,
+      "y": -659.7088623046875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
+      "x": 6699.06201171875,
+      "y": -552.5878295898438
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
+      "x": 6569.77978515625,
+      "y": 1193.640625
+    },
+    {
+      "id": "Guarida Xanathar en las Alcantarillas",
+      "x": 742.6226196289062,
+      "y": -6446.61279296875
+    },
+    {
+      "id": "Guardia de la Ciudad",
+      "x": -4280.71826171875,
+      "y": 2541.632568359375
+    },
+    {
+      "id": "Capitan Hyustus Staget",
+      "x": -1911.2376708984375,
+      "y": 302.8602600097656
+    },
+    {
+      "id": "Lacky",
+      "x": -3839.97802734375,
+      "y": -4487.32958984375
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
+      "x": 6174.7099609375,
+      "y": 2407.41796875
+    },
+    {
+      "id": "Detectar Magia",
+      "x": -4426.86083984375,
+      "y": -891.5463256835938
+    },
+    {
+      "id": "Gazer",
+      "x": -760.241455078125,
+      "y": -3440.72998046875
+    },
+    {
+      "id": "Goblin",
+      "x": 645.0865478515625,
+      "y": 1625.0364990234375
+    },
+    {
+      "id": "Rufianes Xanathar",
+      "x": 2454.272216796875,
+      "y": 211.2048797607422
+    },
+    {
+      "id": "Grum' Shar",
+      "x": 1126.937744140625,
+      "y": -1957.21826171875
+    },
+    {
+      "id": "Nihiloor",
+      "x": -2652.7158203125,
+      "y": 652.8956298828125
+    },
+    {
+      "id": "Devorador de Intelectos",
+      "x": -809.4176025390625,
+      "y": 3199.43408203125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+      "x": 5759.0693359375,
+      "y": 3300.53662109375
+    },
+    {
+      "id": "Dragón (Moneda)",
+      "x": 3368.316650390625,
+      "y": -4733.380859375
+    },
+    {
+      "id": "Jyd Sylmerhere",
+      "x": -3429.718505859375,
+      "y": -3381.91162109375
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Kenkus.md",
+      "x": -85.66820526123047,
+      "y": 5124.3955078125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/9- Objetos/Código Legal.md",
+      "x": -5612.51318359375,
+      "y": -334.4013977050781
+    },
+    {
+      "id": "Programación/Laburo/Twillio/Conexión inicial.md",
+      "x": -4131.71630859375,
+      "y": 4252.0166015625
+    },
+    {
+      "id": "Twillio",
+      "x": -5290.576171875,
+      "y": 3931.465087890625
+    },
+    {
+      "id": "Javascript",
+      "x": -5625.16552734375,
+      "y": 3213.873779296875
+    },
+    {
+      "id": "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
+      "x": -3713.601318359375,
+      "y": 5369.64599609375
+    },
+    {
+      "id": "Programación/Laburo/Twillio/Upgradear.md",
+      "x": -2867.607421875,
+      "y": 5979.01904296875
+    },
+    {
+      "id": "z_templates/Daily Notes/Daily Note Template Week Wrap.md",
+      "x": 1307.5306396484375,
+      "y": 5476.02294921875
+    },
+    {
+      "id": "+Daily Notes",
+      "x": 2118.04052734375,
+      "y": 4520.9052734375
+    },
+    {
+      "id": "<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>",
+      "x": 2236.035888671875,
+      "y": 5406.72412109375
+    },
+    {
+      "id": "<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>",
+      "x": 4753.611328125,
+      "y": 2490.001220703125
+    },
+    {
+      "id": "z_templates/Daily Notes/Daily Note Template.md",
+      "x": 3373.276611328125,
+      "y": 3415.7705078125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
+      "x": 2868.541748046875,
+      "y": 1102.8116455078125
+    },
+    {
+      "id": "Fighter",
+      "x": -151.08702087402344,
+      "y": -197.74061584472656
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+      "x": 138.3570098876953,
+      "y": -908.996337890625
+    },
+    {
+      "id": "Poltergeist",
+      "x": 814.6699829101562,
+      "y": -2752.844970703125
+    },
+    {
+      "id": "Medio-Elfo",
+      "x": 2188.10400390625,
+      "y": -4165.9521484375
+    },
+    {
+      "id": "Halfling Wererats",
+      "x": 1242.246826171875,
+      "y": 4143.92529296875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md",
+      "x": 474.5677490234375,
+      "y": 373.3074035644531
+    },
+    {
+      "id": "Bóveda de los Dragones",
+      "x": -3158.685546875,
+      "y": -2255.741943359375
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
+      "x": -2322.339111328125,
+      "y": -4218.80419921875
+    },
+    {
+      "id": "Fiboreas",
+      "x": -4678.16162109375,
+      "y": -3308.28076171875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md",
+      "x": -702.7410888671875,
+      "y": -1675.746337890625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/3- Organizaciones/Alianza de Lores.md",
+      "x": 1790.220703125,
+      "y": 3171.2490234375
+    },
+    {
+      "id": "Baldur´s Gate",
+      "x": 4715.306640625,
+      "y": 353.37017822265625
+    },
+    {
+      "id": "Mirabar",
+      "x": 6291.03955078125,
+      "y": -2126.989501953125
+    },
+    {
+      "id": "Mithral Hall",
+      "x": 4174.5419921875,
+      "y": 4834.30224609375
+    },
+    {
+      "id": "Silverymoon",
+      "x": 2275.209228515625,
+      "y": 1447.4056396484375
+    },
+    {
+      "id": "Jalester Silvermane",
+      "x": 5115.32861328125,
+      "y": -4066.965576171875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md",
+      "x": -2332.986328125,
+      "y": -2569.61572265625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
+      "x": 5134.76904296875,
+      "y": 4410.53125
+    },
+    {
+      "id": "Rook Karabin",
+      "x": -370.17169189453125,
+      "y": 2343.4677734375
+    },
+    {
+      "id": "Gran Juego",
+      "x": 5256.8828125,
+      "y": -866.397705078125
+    },
+    {
+      "id": "Vincent Trench",
+      "x": 2128.114501953125,
+      "y": -2318.447021484375
+    },
+    {
+      "id": "Vara de los secretos",
+      "x": 5513.21435546875,
+      "y": 538.3011474609375
+    },
+    {
+      "id": "Observadora Orden de Magistas y Protectores",
+      "x": 3432.5556640625,
+      "y": 693.3516845703125
+    },
+    {
+      "id": "Anillo de Sostención",
+      "x": 2904.532470703125,
+      "y": 2212.6953125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md",
+      "x": -628.7797241210938,
+      "y": -6694.23876953125
+    },
+    {
+      "id": "Palacio de Waterdeep",
+      "x": -6111.22607421875,
+      "y": -1286.883544921875
+    },
+    {
+      "id": "Xanathar",
+      "x": -5035.302734375,
+      "y": 1818.93505859375
+    },
+    {
+      "id": "Dalakhar",
+      "x": -3146.2431640625,
+      "y": 2776.702392578125
+    },
+    {
+      "id": "Bregan D'aerthe",
+      "x": 841.747802734375,
+      "y": -5457.59423828125
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
+      "x": 1657.73095703125,
+      "y": -6305.49462890625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md",
+      "x": 3272.437255859375,
+      "y": -5730.32177734375
+    },
+    {
+      "id": "Ojo de la Piedra de Golorr",
+      "x": 4217.4296875,
+      "y": -3320.742919921875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
+      "x": 4534.767578125,
+      "y": -5235.4482421875
+    },
+    {
+      "id": "Diario/2023/07-July/2023-07-23-Sunday.md",
+      "x": -1256.8687744140625,
+      "y": 2124.451416015625
+    },
+    {
+      "id": "2023-07-22-Saturday",
+      "x": -1047.7723388671875,
+      "y": 5019.8955078125
+    },
+    {
+      "id": "Diario/2023/07-July/2023-07-24-Monday.md",
+      "x": -1731.2161865234375,
+      "y": -471.8414001464844
+    },
+    {
+      "id": "Diario/2023/07-July/2023-07-25-Tuesday.md",
+      "x": -3831.272216796875,
+      "y": -2860.779052734375
+    },
+    {
+      "id": "Diario/2023/07-July/2023-07-26-Wednesday.md",
+      "x": -2767.03173828125,
+      "y": -1408.70068359375
+    },
+    {
+      "id": "2023-07-27-Thursday",
+      "x": -1282.8677978515625,
+      "y": -3935.888916015625
+    },
+    {
+      "id": "Programación/Laburo/Twillio/Whatsapp Sender.md",
+      "x": -4692.48486328125,
+      "y": 4828.5419921875
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Kamaitachi.md",
+      "x": -2457.221435546875,
+      "y": 1639.4329833984375
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos/Piedra de Golorr.md",
+      "x": 2820.498779296875,
+      "y": -2173.6650390625
+    },
+    {
+      "id": "D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
+      "x": 1137.3323974609375,
+      "y": 3422.042236328125
+    },
+    {
+      "id": "Disipar magia",
+      "x": -1423.0330810546875,
+      "y": 6390.36962890625
+    },
+    {
+      "id": "Contrahechizo",
+      "x": -5206.2177734375,
+      "y": -1688.899169921875
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}
