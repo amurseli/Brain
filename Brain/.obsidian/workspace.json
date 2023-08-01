@@ -11,12 +11,8 @@
             "id": "ff6a10a0cbdf5eed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación/Laburo/Twillio/Lambda.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -29,12 +25,8 @@
             "id": "a61ada5ca25a5df3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación/Laburo/Twillio/Conexión inicial.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Laburo/Twillio/Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Laburo/Twillio/Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programación/Laburo/Twillio/Lambda.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,11 +176,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6816e75aee07d7f4",
+  "active": "ff6a10a0cbdf5eed",
   "lastOpenFiles": [
+    "Programación/Laburo/Twillio/Lambda.md",
     "Programación/Laburo/Twillio/Conexión inicial.md",
     "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
-    "Programación/Laburo/Twillio/Lambda.md",
     "Programación/Laburo/Twillio/Whatsapp Sender.md",
     "Ficción/Cloudcore",
     "Ficción",
