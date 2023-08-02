@@ -11,22 +11,12 @@
             "id": "ff6a10a0cbdf5eed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "e4b57e3fa5e3135f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a61ada5ca25a5df3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/CloudCore/6 - Fauna y Flora/Val'Bathun.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -79,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 258.5
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -95,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ficción/CloudCore/6 - Fauna y Flora/Val'Bathun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ficción/CloudCore/6 - Fauna y Flora/Val'Bathun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ficción/CloudCore/6 - Fauna y Flora/Val'Bathun.md"
+              }
             }
           },
           {
@@ -178,18 +172,33 @@
   },
   "active": "ff6a10a0cbdf5eed",
   "lastOpenFiles": [
+    "Ficción/CloudCore/7 - Líneas de tiempo/Historia Completa.md",
+    "Ficción/CloudCore/6 - Fauna y Flora/Val'Bathun.md",
+    "Ficción/CloudCore/8 - Organizaciones/Protectores Espejismo.md",
+    "Ficción/CloudCore/5 - Civilizaciones/La ciudad de Azula.md",
+    "Ficción/CloudCore/2 - Mapas/Mapa.md",
+    "Ficción/CloudCore/1 - Personajes/Personaje de Prueba.md",
+    "Ficción/CloudCore/4 - Metafísica/Conceptos de Cloudcore/Nimbus.md",
+    "Ficción/CloudCore/5 - Metafísica/Cloudcore/Untitled",
+    "Ficción/CloudCore/4 - Metafísica/Conceptos de Cloudcore",
+    "Ficción/CloudCore/5 - Civilizaciones",
+    "Ficción/CloudCore/9 - Cultura",
+    "Ficción/CloudCore/8 - Organizaciones",
+    "Ficción/CloudCore/7 - Líneas de tiempo",
+    "Ficción/CloudCore/6 - Fauna y Flora",
+    "Ficción/CloudCore/4 - Metafísica",
+    "Ficción/CloudCore/5 - Regiones",
+    "Ficción/CloudCore/3 - Tecnología",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
+    "z_attachments/D&D/squiddly.png",
+    "z_attachments/D&D/some mf tiefling.png",
     "Programación/Laburo/Twillio/Lambda.md",
     "Programación/Laburo/Twillio/Conexión inicial.md",
     "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
     "Programación/Laburo/Twillio/Whatsapp Sender.md",
-    "Ficción/Cloudcore",
-    "Ficción",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nat.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
     "Diario/2023/08-August/2023-08-01-Tuesday.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
     "Diario/2023/07-July/2023-07-31-Monday.md",
-    "Diario/2023/08-August",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
     "Diario/2023/07-July/2023-07-30-Sunday.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
@@ -201,28 +210,13 @@
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Emmek Frewn.md",
     "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Shadow.md",
-    "Diario/2023/07-July/2023-07-28-Friday.md",
-    "Diario/2023/07-July/2023-07-27-Thursday.md",
-    "Diario/2023/07-July/2023-07-26-Wednesday.md",
-    "z_templates/Daily Notes/Daily Note Template Week Wrap.md",
-    "z_templates/Daily Notes/Daily Note Template.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias",
     "z_attachments/D&D/Shock2.jpg",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew",
-    "Ficción/D&D/Waterdeep Dragon Heist/11-Hombrew",
-    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Alexandrian Remix Dragon Heist.pdf",
     "z_attachments/Daily Note Images/Dwaing.png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
     "z_attachments/D&D/ConstanzaAshrunner.jpg",
     "z_attachments/D&D/Durnan.png",
     "z_attachments/D&D/TrollskullAlley.png",
     "z_attachments/D&D/RenaerNeverember.png",
-    "z_attachments/D&D/SímbolosAlcantarillas.png",
-    "z_attachments/D&D/WyrmListaLibros.png",
-    "z_attachments/D&D/ElOjoCazaMagia.jpg"
+    "z_attachments/D&D/SímbolosAlcantarillas.png"
   ]
 }

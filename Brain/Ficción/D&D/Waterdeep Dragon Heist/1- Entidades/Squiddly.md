@@ -2,6 +2,7 @@
 ### Entrada
 Squiddly es un huerfano [[Tiefling]] de piel roja, y la miembro del trio de huerfanos del [[Callejón Trollskull]], junto con [[Nat]] y [[Jenks]].
 
+![[squiddly.png]]
 ### Hermanos
 Squiddly tiene un parche ne su ojo derecho, por más de que este sea completamente funcional. También siempre usa un gorro de ala ancha con una pluma. Es impulsivo y es tán rápido con sus manos como lo es con su lengua. Utilza un arco y flecha.
 

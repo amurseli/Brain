@@ -1,9 +1,6 @@
 {
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "es",
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": false,
   "attachmentFolderPath": "z_attachments",
   "alwaysUpdateLinks": true,
