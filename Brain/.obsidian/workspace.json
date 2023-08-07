@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023/08-August/2023-08-06-Sunday.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023/08-August/2023-08-06-Sunday.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023/08-August/2023-08-06-Sunday.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023/08-August/2023-08-06-Sunday.md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md"
               }
             }
           },
@@ -170,23 +170,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6816e75aee07d7f4",
+  "active": "ff6a10a0cbdf5eed",
   "lastOpenFiles": [
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nat.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
+    "Diario/2023/08-August/2023-08-07-Monday.md",
+    "Diario/2023/08-August/2023-08-06-Sunday.md",
     "Diario/2023/08-August/2023-08-04-Friday.md",
     "Diario/2023/08-August/2023-08-03-Thursday.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md",
     "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
     "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md",
     "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
     "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md",
-    "Diario/2023/08-August/2023-08-06-Sunday.md",
     "Ficción/CloudCore/6 - Fauna y Flora/Val'Bathun.md",
     "Ficción/CloudCore/7 - Líneas de tiempo/Historia Completa.md",
     "Ficción/CloudCore/8 - Organizaciones/Protectores Espejismo.md",
     "Ficción/CloudCore/5 - Civilizaciones/La ciudad de Azula.md",
-    "Ficción/CloudCore/2 - Mapas/Mapa.md",
-    "Ficción/CloudCore/1 - Personajes/Personaje de Prueba.md",
-    "Ficción/CloudCore/4 - Metafísica/Conceptos de Cloudcore/Nimbus.md",
     "Ficción/CloudCore/5 - Metafísica/Cloudcore/Untitled",
     "Ficción/CloudCore/4 - Metafísica/Conceptos de Cloudcore",
     "Ficción/CloudCore/5 - Civilizaciones",
@@ -196,20 +208,8 @@
     "Ficción/CloudCore/6 - Fauna y Flora",
     "Ficción/CloudCore/4 - Metafísica",
     "Ficción/CloudCore/5 - Regiones",
-    "Ficción/CloudCore/3 - Tecnología",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
     "z_attachments/D&D/squiddly.png",
     "z_attachments/D&D/some mf tiefling.png",
-    "Programación/Laburo/Twillio/Lambda.md",
-    "Programación/Laburo/Twillio/Conexión inicial.md",
-    "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
-    "Programación/Laburo/Twillio/Whatsapp Sender.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nat.md",
-    "Diario/2023/08-August/2023-08-01-Tuesday.md",
-    "Diario/2023/07-July/2023-07-31-Monday.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
-    "Diario/2023/07-July/2023-07-30-Sunday.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
     "z_attachments/D&D/Shock2.jpg",
     "z_attachments/Daily Note Images/Dwaing.png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
