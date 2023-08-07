@@ -60,13 +60,68 @@ Hemming le sacaba una cabeza entera, y eso que tenía unas finas alpargatas.
 
 -Es tu responsabilidad enseñarle a los animales a comportarse, ¿Sabías?- Aclaró, recuperando su sonrisita, pocos centimetros separaban sus rostros -No solo los profesores esperan grandes cosas de vos, nosotros estamos ansiosos por observar si se le puede enseñar a *mitades* como estos dos a ser miembros útiles de la sociedad.
 
-Lander sabía que no podía tomarse mucho tiempo en responder, si no remataba rápido, Heming se iría, con una “Victoria” tan temprano en el semestre. No se le ocurrió nada para defender a sus amigos, nada al menos que no involucre querer corregir las costumbres racistas de este cerdo, así que pasaría a la ofensiva. El truco estaba en sonar pasivo-agresivo.
+Lander sabía que no podía tomarse mucho tiempo en responder, si no remataba rápido, Heming se iría, con una “Victoria” tan temprano en el semestre. No se le ocurrió nada para defender a sus amigos, nada al menos que no involucre querer corregir las costumbres racistas, así que pasaría a la ofensiva. El truco estaba en sonar pasivo-agresivo.
 
 -Debo disculparme, no te estaba escuchando, el aliento a mierda que larga tu boca me tenía hipontizado. Puedo observar, por el tallo de rúcula que se asoma por tu incisivo izquierdo y el aliento a lo que creo que es… ¿Ajo? que comiste una rica ensalada ayer. ¿La compraste con tu plata o te la pagaron tus papis?
 
 El trío nervioso de detrás se estalló. Los elfos no puderon evitar solatar alguna risita rápida también. 
 
 Faltaba ejecutar la última técnica para ganar la discusión, la definitiva, alejarse con la última palabra. Rápidamente, Lander esquivó por debajo del brazo extendido del elfo y se metió en el aula.
+
+
+- - -
+*19 años*
+
+
+
+
+- - - 
+
+*22 años*
+
+La lluvia no ayudaba no ayudaba a la visibilidad, pero al mismo tiempo los veía claramente. Enfrentados.
+
+El barro de las manos hacía que se resbalara de los barrotes, pero la lluvia ayudaba a ocultar las lágrimas. ¿Como pasó esto?
+
+Sokki fue el primero en saltar al ataque. Parecía cambiado, el último año sin verlo lo haía cambiado bastante, ahora tenía el pelo recortado y vestía otro tipo de ropa. Lanzó una Ola atronadora seguida de una pequeña y rápida bala de fuego. La ola levantó un tsunami de barro que explotó, llegando a mancharlo incluso a el.
+
+Lumen lo recibió de lleno, pero no se tambaleó, fue empujado unos centímetros atrás producto de la fricción del barro. La bola de fuego la esquivó moviendo el cuello.
+
+-No estoy acá para pelear Sokki, tampoco para recuperarte- Los gritos se perdían con el ruido -Sé que eso está fuera de mi alcance. Vengo a entender, quiero saber qué pasó en este año- Miró de reojo a Ari, que yacía a unos metros de distancia, inmóvil en el barro. El costado le sangraba y Lander se temía lo peor.
+
+La escencia de Sabott de la jaula absorbía la magia, así que sin la llave, no podía salir a ayuda a Lumen o a Ari. Su pecho ardió de furia, una que nunca había sentido. Por primera vez en su vida, quería lastimar a alguien, no por ser malo, había gente bastante mala que se había encontrado en sus viajes apenas terminó la academia; pero Sokki había traicionado su confianza de una manera que nadia había hecho antes. Esta furia, este dolor le era extraño, y por eso no podía parar de llorar.
+
+Sokki llamó al [[Pacto del filo]], e invocó del aire un tridente verdeoscuro. Los tres habían estado con el cuando logró invocar su primera daga del filo, que se evaporó luego de unos segundos.
+
+-¡¿Por qué, Sokki?!- Gritó el Semiorco- ¡Exijo una explicación!
+
+-Ya te dije que no les debo nada- Interrumpió Sokki, también gritando. Su voz parecía romperse -Les dije lo que iba a pasar si me seguían.
+
+Sokki arremetió con el tridente en alto, cargando en su mano derecha con un [[Eldritch Blast]]. El arma impactó con el antebrazo de Lumen, que lo deflectó hacia el cielo.
+
+Ambos medían lo mismo, siempre habían sido más altos que Ari y Lander.
+
+Sokki apuntó su ataque sobrenatural al pecho de Lumen. Lander intentó gritó, pero entre el ruido, no se escuchó ni el mismo. A la distancia pudo notar la potencia de el impacto, todo el cuerpo del semiorco se sacudió hacia atrás. Pero Lumen permaneció de pie, mirándolo. Sokki no se sorprendió, pero si se enfureció bastante al ver que Lumen seguía actuando igual que siempre, negándose a caer con los golpes, haciéndose el fuerte. Sokki gritó, y una sucesión de unos diez disparos siguieron, algunos llegando a fallar incluso. Sokki estaba cegado por el enojo.
+
+Los que sí impactaron, Lumen intentó deflectarlos también con la armadura, en vez de esquivarlos. Podía verse mas imponente, pero estaba recibiendo mucho daño.
+
+Ari se sacudió en el piso, agarrándose el costado. Estaba viva, pero sin ayuda, no duraría mucho, y probablemente no tenría fuerzas para lanzarse un hechizo curativo a sí misma.
+
+Lumen miró a Ari, retrociéndose en el piso, pero aún así, contuvo la ira. Era extraño verlo contenerse tanto, solo ocurría en ocasiones serias, como en la [[Batalla de Aidenn]] o en la pelea con Heming. Volvió su vista a Sokki, sin decir nada.
+
+Sokki gritó una última vez más al cargar directamente.
+
+- - -
+*18 años*
+
+- - -
+*20 años*
+
+---
+*22 años*
+
+- - -
+*22 años*
 
 
 ### El Objetivo
