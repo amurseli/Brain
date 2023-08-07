@@ -9,6 +9,8 @@ Pero Nemeia no era una asesina, Gorrión había sido su compañero mas fiel desd
 
 “Voy a matar a ese elfo inútil”
 
+![[Nemeia.png]]
+
 ### Theme
 ```spotify
 url: 'https://open.spotify.com/playlist/48NLNuYBxZOQVUXjdYs3nT?si=d99f1500917a4c97'
