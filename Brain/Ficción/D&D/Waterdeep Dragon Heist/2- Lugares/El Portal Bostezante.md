@@ -3,7 +3,7 @@
 ### Entrada
 **El Portal Bostezante**, o el **Portal del Brecho** es la taberna y posada mas conocída de todo [[Waterdeep]], quizás incluso de todo [[Faerûn]].
 
-### Historia y proósito del Portal Bostezante
+### Historia y propósito del Portal Bostezante
 
 El Portal Bostezante, o el Portal del Brecho fue establecido en el 1306 CV para limitar el acceso al [[Calabozo de Halaster el Mago Loco]] y para mantener a sus monstruos de alguna forma contenidos. Este también fue el año en que [[Waterdeep]] comenzó la práctica de exiliar a sus peores criminales a las profundidades de [[Bajomontaña]].
 
