@@ -13,7 +13,7 @@ un cartel de "Se busca ayuda" que quizá lo llevaría más cerca de su objetivo.
 ### Academia Eviterna de lo Oculto y Mágico
 Lander entró en la academia a los 15 años de edad. Seguro de sí mismo y hábil socialmente, se hizo de un grupo de amigos muy cercano, compuesto por [[Sokki]], un semi-elfo, [[Ariadna]], una humana y [[Lumen]], un semi-orco. Se volvieron rápidamente inseparables.
 
-*15 años*
+##### *15 años*
 Los pasillos de la academia eran ruidosos y extraños, un crisol de razas increíble, donde todos estaban un poco tocados de la cabeza, creando invocaciones o lanzando hechizos en medio de los corredores. Sin embargo, acostumbrado después de su primer semestre, Lander caminaba perdido en sus pensamientos. Estaba en medio del recreo largo entre el cuarto y quinto boque de clases, así que tenía un tiempo para ir tranquilo, pensado para sí mis…
 Alguien le eructó en el oido.
 
@@ -70,14 +70,14 @@ Faltaba ejecutar la última técnica para ganar la discusión, la definitiva, al
 
 
 - - -
-*19 años*
+##### *18 años*
 
 
 
 
 - - - 
 
-*22 años*
+##### *22 años*
 
 La lluvia no ayudaba no ayudaba a la visibilidad, pero al mismo tiempo los veía claramente. Enfrentados.
 
@@ -112,16 +112,47 @@ Lumen miró a Ari, retrociéndose en el piso, pero aún así, contuvo la ira. Er
 Sokki gritó una última vez más al cargar directamente.
 
 - - -
-*18 años*
+##### *19 años*
+
+Sokki invocó una lanza del Pacto y se avalanzó contra Lumen.
+
+El Semiorco sonrió, y esquivó el golpe con la contura, tomó a Sokki del brazo y lo lanzó por encima de su hombro. Luego, invocó un proyectil de fuego verde y lo lanzó para seguir al elfo.
+Sokki lo cortó con la lanza y volvió a embestir.
+
+-Están mejorando mucho, y muy rápido- El doctor Rathimov miraba absorto el combate, rascandose la barbilla.
+
+-Si, a este paso Ari y yo vamos a tener que subir el nivel bastante si siguen así- Lander también miraba, pero, acostumbrado a ver a sus amigos tener duelos todas las semanas, su concentración estaba en la conversación.
+
+El campo de pelea grande solía estar mas lleno de gente para practicar o para ver, así que el cuarteto y su profesor, Rathimov, solían ir a un segundo campo de entrenamiento a diez minutos de la Academia.
+
+-Esperemos, me estoy empezando a aburrir de ganarte una y otra vez- Dijo Ari, mirándolo de reojo con una sonrisa, como esperando hacerlo enojar. Lander sabía lo que estaba haciendo.
+
+Ari había cambiado bastante en el último año. había pasado de ser una chica tímida y retraída, que solo confiaba en sus tres amigos , aunque le fuese difícil mirarlos a los ojos; a la mujer orgullosa y arrogante (y bastante poderosa, por cierto) que es ahora. Se había teñido el pelo de negro para ocultar los rizos pelirrojos que tenía antes y vestía túnicas largas y a la moda que solían llevar los Hechiceros como ella.
+
+-Que no se te suban mucho los humos, ganaste las últimas ¿Tres…
+
+-Seis- Interrumpió, ahora con una sonrisa gigante y mirádolo directamente.
+
+-…Seis veces, sigo habiendo ganado la mayoría y por mucha diferencia
+
+-¿Q…? ¿Que…?  ¿Que es ese olor? ¿Lo sentís? Ah, es el olor a llanto del gran Lander Severian
+
+-Eso no tiene mucho sentido… Mejoraste en la magia pero tu sarcasmo sigue dejando que desear.
+
+-¿Dejan de coquetear cinco minutos? Sus amigos están dejándolo todo- Interrumpió el Doc
+
+Y era totalmente verdad, habían pasado directamente a un combate cuerpo a cuerpo, Lumen con sus [[Manos Ardientes]] y Sokki todavía con la lanza. Sus armas chocaban sin parar directamente, ambos sangrando y sudando al mismo timepo y cada impacto dejaba atrás una nube transparente-rosada en el aire. Un error, de cualquiera y la batalla habría terminado, sin embargo, la concentración que ambos mantenían era total, y ninguno daba espacio para una equivocación.
+
+
 
 - - -
-*20 años*
+##### *20 años*
 
 ---
-*22 años*
+##### *22 años*
 
 - - -
-*22 años*
+##### *22 años*
 
 
 ### El Objetivo

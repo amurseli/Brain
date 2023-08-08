@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
-                "mode": "preview",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md"
               }
             }
           },
@@ -170,13 +170,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6816e75aee07d7f4",
+  "active": "ff6a10a0cbdf5eed",
   "lastOpenFiles": [
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nat.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Renaer Neverember.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Talisolvanar ”Tally” Fellbranch.md",
     "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/El Portal Bostezante.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
     "z_attachments/Nemeia.png",
     "z_attachments/D&D/Nemeia.png",
     "Diario/2023/08-August/2023-08-06-Sunday.md",
@@ -211,7 +212,6 @@
     "z_attachments/D&D/some mf tiefling.png",
     "Programación/Laburo/Twillio/Lambda.md",
     "Programación/Laburo/Twillio/Conexión inicial.md",
-    "Programación/Laburo/Twillio/Inicio de sesión Guiado.md",
     "z_attachments/D&D/Shock2.jpg",
     "z_attachments/Daily Note Images/Dwaing.png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
