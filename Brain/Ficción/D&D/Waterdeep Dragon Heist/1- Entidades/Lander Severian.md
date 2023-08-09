@@ -14,14 +14,14 @@ un cartel de "Se busca ayuda" que quizá lo llevaría más cerca de su objetivo.
 Lander entró en la academia a los 15 años de edad. Seguro de sí mismo y hábil socialmente, se hizo de un grupo de amigos muy cercano, compuesto por [[Sokki]], un semi-elfo, [[Ariadna]], una humana y [[Lumen]], un semi-orco. Se volvieron rápidamente inseparables.
 
 ##### *15 años*
-Los pasillos de la academia eran ruidosos y extraños, un crisol de razas increíble, donde todos estaban un poco tocados de la cabeza, creando invocaciones o lanzando hechizos en medio de los corredores. Sin embargo, acostumbrado después de su primer semestre, Lander caminaba perdido en sus pensamientos. Estaba en medio del recreo largo entre el cuarto y quinto boque de clases, así que tenía un tiempo para ir tranquilo, pensado para sí mis…
+Los pasillos de la academia reverberaban con la cacofonía de voces e idiomas diversos y el fulgor de hechizos danzantes. Un crisol de razas, en el que cada esquina ofrecía un encuentro con estudiantes de orígenes tan variados como sus vestimentas y conjuros, creando una atmósfera fascinante y llena de vida. Sin embargo, acostumbrado después de su primer semestre, Lander caminaba perdido en sus pensamientos. Estaba en medio del recreo largo entre el cuarto y quinto boque de clases, así que tenía un tiempo para ir tranquilo, pensado para sí mis…
 Alguien le eructó en el oido.
 
 -Lumen, sos un desagradable- Dijo Sokki, sosteniendo sus libros en el pecho. Caminaba recto, elegante.
 
 Lumen echó a reirse y abrazó a Lander por el cuello. Él lo imitó. Ariadna camianba detrás del grupo, leyendo un largo papel.
 
--Bueno- dijo, sin separar los ojos del papel -Hice una lista curada de los 44 talleres a los que nos podemos inscribir este cuatrimestre, todos juntos esta vez, to diría que cada uno elija 5.
+-Bueno- dijo, sin separar los ojos del papel -Hice una lista curada de los 44 talleres a los que nos podemos inscribir este cuatrimestre, todos juntos esta vez, yo diría que cada uno elija 5.
 
 -¿¡¡Veinte talleres!!?- Dijeron los tres al unísono
 
@@ -62,7 +62,7 @@ Hemming le sacaba una cabeza entera, y eso que tenía unas finas alpargatas.
 
 Lander sabía que no podía tomarse mucho tiempo en responder, si no remataba rápido, Heming se iría, con una “Victoria” tan temprano en el semestre. No se le ocurrió nada para defender a sus amigos, nada al menos que no involucre querer corregir las costumbres racistas, así que pasaría a la ofensiva. El truco estaba en sonar pasivo-agresivo.
 
--Debo disculparme, no te estaba escuchando, el aliento a mierda que larga tu boca me tenía hipontizado. Puedo observar, por el tallo de rúcula que se asoma por tu incisivo izquierdo y el aliento a lo que creo que es… ¿Ajo? que comiste una rica ensalada ayer. ¿La compraste con tu plata o te la pagaron tus papis?
+-Debo disculparme, no te estaba escuchando, el aliento a mierda que larga tu boca me tenía hipontizado. Puedo observar, por el tallo de rúcula que se asoma por tu incisivo izquierdo y el aliento a lo que creo que es… ¿Ajo? que disfrutaste de una cena memorable ayer. ¿La compraste con tu plata o te la pagaron tus papis?
 
 El trío nervioso de detrás se estalló. Los elfos no puderon evitar solatar alguna risita rápida también. 
 
@@ -91,11 +91,11 @@ Lumen lo recibió de lleno, pero no se tambaleó, fue empujado unos centímetros
 
 La escencia de Sabott de la jaula absorbía la magia, así que sin la llave, no podía salir a ayuda a Lumen o a Ari. Su pecho ardió de furia, una que nunca había sentido. Por primera vez en su vida, quería lastimar a alguien, no por ser malo, había gente bastante mala que se había encontrado en sus viajes apenas terminó la academia; pero Sokki había traicionado su confianza de una manera que nadia había hecho antes. Esta furia, este dolor le era extraño, y por eso no podía parar de llorar.
 
-Sokki llamó al [[Pacto del filo]], e invocó del aire un tridente verdeoscuro. Los tres habían estado con el cuando logró invocar su primera daga del filo, que se evaporó luego de unos segundos.
+Sokki llamó al [[Pacto del filo]], e invocó del aire un tridente verdeoscuro. El resplandor que emanaba pareciía fundirse con la oscuridad del cielo, y cada movimiento dejaba una estela en el aire. Los tres habían estado con el cuando logró invocar su primera daga del Filo, pequeña y endeble, que se evaporó luego de unos segundos.
 
 -¡¿Por qué, Sokki?!- Gritó el Semiorco- ¡Exijo una explicación!
 
--Ya te dije que no les debo nada- Interrumpió Sokki, también gritando. Su voz parecía romperse -Les dije lo que iba a pasar si me seguían.
+-Ya te dije que no les debo nada- Interrumpió Sokki, también gritando. Su voz parecía romperse -Les advertí lo que iba a pasar si me seguían.
 
 Sokki arremetió con el tridente en alto, cargando en su mano derecha con un [[Eldritch Blast]]. El arma impactó con el antebrazo de Lumen, que lo deflectó hacia el cielo.
 
@@ -116,12 +116,12 @@ Sokki gritó una última vez más al cargar directamente.
 
 Sokki invocó una lanza del Pacto y se avalanzó contra Lumen.
 
-El Semiorco sonrió, y esquivó el golpe con la contura, tomó a Sokki del brazo y lo lanzó por encima de su hombro. Luego, invocó un proyectil de fuego verde y lo lanzó para seguir al elfo.
+El Semiorco sonrió, y esquivó el golpe con la cintura, tomó a Sokki del brazo y lo lanzó por encima de su hombro. Enseguida, invocó un proyectil de fuego y lo lanzó para seguir al elfo.
 Sokki lo cortó con la lanza y volvió a embestir.
 
 -Están mejorando mucho, y muy rápido- El doctor Rathimov miraba absorto el combate, rascandose la barbilla.
 
--Si, a este paso Ari y yo vamos a tener que subir el nivel bastante si siguen así- Lander también miraba, pero, acostumbrado a ver a sus amigos tener duelos todas las semanas, su concentración estaba en la conversación.
+-Si, a este paso Ari y yo vamos a tener que subir el nivel bastante si siguen así- Agregó Lander, aunque su atención se encontraba dividida entre la lucha y la charla, familiarizado con los duelos semanales de sus amigos.
 
 El campo de pelea grande solía estar mas lleno de gente para practicar o para ver, así que el cuarteto y su profesor, Rathimov, solían ir a un segundo campo de entrenamiento a diez minutos de la Academia.
 
@@ -141,9 +141,39 @@ Ari había cambiado bastante en el último año. había pasado de ser una chica 
 
 -¿Dejan de coquetear cinco minutos? Sus amigos están dejándolo todo- Interrumpió el Doc
 
-Y era totalmente verdad, habían pasado directamente a un combate cuerpo a cuerpo, Lumen con sus [[Manos Ardientes]] y Sokki todavía con la lanza. Sus armas chocaban sin parar directamente, ambos sangrando y sudando al mismo timepo y cada impacto dejaba atrás una nube transparente-rosada en el aire. Un error, de cualquiera y la batalla habría terminado, sin embargo, la concentración que ambos mantenían era total, y ninguno daba espacio para una equivocación.
+Y era totalmente verdad, habían pasado directamente a un combate cuerpo a cuerpo, Lumen con sus [[Manos Ardientes]] y Sokki todavía con la lanza. Sus armas chocaban sin parar directamente, ambos sangrando y sudando al mismo timepo y cada impacto dejaba atrás una nube transparente-rosada en el aire. Un error, de cualquiera, y la batalla habría terminado, sin embargo, la concentración que ambos mantenían era total, y ninguno daba espacio para una equivocación. Se conocían demasiado el uno al otro, habían peleado tantas veces que parecía un baile más que un combate.
 
+Sokki saltó hacia atrás, creando distancia contra Lumen, tiró el arma y juntó las manos en el aire. Sabíamos que oba a hacer, pero también sabíamos que nueve de cada diez veces, eso iba a salir mal. Del espacio entre sus manos, una luz verdeoscura se concentró, un [[Eldritch Blast]]. Lumen no se abalanzó sobre el, por más de que podría haberlo hecho tranquilamente. Parecía interesado en ver si su amigo podría lograr lo que estaba intentando.
 
+Sin aviso, un rayo instantáneo salió disparado de entre las manos, impactando directamente en el pecho de Lumen y mandándolo por los aires. Diez metros hacia atrás saltó, dejando una estela de humo saliendo de su torso, la placa de malla que llevaba brillaba incandescente por la potencia del ataque. Había quedado completamente afuera del ring, por lo que había perdido; así que todos corrimos a ayudarlo.
+
+Allí estaba, tirado en el piso, riendose a carcajadas, un poco de dolor y un poco de sorpresa, con un agujero del tamaño de una cabeza humana en la armadura y la ropa. La malla se había fundido, y se había soldado con la ropa, creando una especie de textura parecida a venas saliendo del agujero donde lo golpeo. Debía doler.
+
+-Me lo merecía- Dijo, secándose las lágrimas -En esta semana habré visto al elfito intentar hacer eso unas treinta veces, todas sin éxito.
+
+-Te pasa por subestimarme- Interrumpió Sokki, sentandose al lado del derrotado Lumen. Las piernas le temblaban de agotamiento, y su cara se le había manchado a causa de la mezcla de la tierra y el sudor. Las yemas de los dedos le sangraban. -Te lo dije muchas veces, no moverse cuando alguien te ataca es una falta de respeto, y en un combate honorable, el respeto lo es todo.
+
+-Las peleas reales, no estas escaramuzas entre compañeros, no son ningún juego elfito. En una pelea real, pones t vida y la de tu oponente en jeugo por tus ideales. Pensar así te va a costar la vida algún día- Miró al cielo y suspiró- Pero sí, te subestimé esta vez.
+
+El Doc se acercó y curó las heridas de ambos. Cada vez que lo hacía, un destello de luz azul emanaba de las heridas de la victima, cauterizandolas. El detello azul que el doc siempre usaba había inspirado a Lander a teñir sus hechizo de azul también, y lo hizo durante tanto tiempo que ya salían azules naturalmente. Coloración inconsciente la llamaban, no muchos magos podían hacerlo.
+
+-Nos toca, Lan. Intenta que no se convierta en la séptima- Dijo Ari, caminando hacia la arena.
+
+Ambos caminaron sin decir una palabra hacia la arena. Circular, y de treinta metros de radio, ambos se colocaron enfrentados. Y el combate comenzó.
+
+Ari, [[Hechicero|Hechicera]] , Saltó unos diez metros en el aire y conjuró simultáneamente dos [[Orbe Cromático|Orbes Cromaticos]], ambos de fuego y los lanzó sin dudar hacia Lander. Este, paro ambos simultáneamente, reaccionando con su escudo, y contraatacó con un proyecil de fuego azul. Ari siempre empezaba los combates igual, y estaba empezando a notar el patrón, en el aire, Ari perdía toda maniobrabilidad, y se vería obligada a recibir el golpe de lleno o usar algun hechizo para defenderse.
+
+Anticipando el imapcto, Ari hizo un gesto con la mano y se transformó en bruma. El proyectil atravesó la figura brumosa y la desintegró. Se materializó justo enfrente de lander y tomó el bo que tenía atado a su espalda. Ari había estado tomando lecciones con Sokki para el combate cuerpo a cuerpo, aún así, cualquiera era mejor que Lander.
+
+Ambos bastones chocaron, reverberando por el impacto y haciendolo doler. Ariadna tomó el otro extremó de su arma y la giró al rededor del bastón de Lander, propinándole un golpe de lleno en la cara. Un festejo de Sokki se escuchó a lo lejos. Con un rápido gesto y determinación, ignoró el corte que ahora tenía en el labio, rodó en el piso y tomó la pierna derecha de su rival. Una descarga electriga recorrió el cuerpo de Ari, haciéndola gemir de dolor y saltar hacia atras. La hechicera bramó y, con un gesto rápido, generó en su mano un fragmento de hielo como el mango de una espada.
+
+Justo antes de alcanzarlo, disparó la esquirla congelando el piso y sus pies evitándole moverse. Desde su hombro y con ambas manos, cargó el baston apuntando a la sien de Lander.
+
+Como una especie de examen, Lander sabía la solución, había vivido esta secuencia exacta decenas de veces. Podía romper el hielo con el bastón y rodar fuera del camino, ahí prepararse para otro proyectil de fuego. Era lo que hacía siempre, y sabía que funcionaría, pero también sabía que ella respondería con su arma y luego con otro orbe cromático, y sin su escudo iba a recibirlo de lleno; así fue como lo derrotaron las últimas dos veces. Tenía que cambiar algo, encontrar otra solución, pero…
+
+Lander soltó su bastón y levantó ambas manos lentamente, como alzando una bolsa pesada. De sus palmas, un aura violácea azulada emergió. iluminando sus alrededores. La expresión de furia de Ariadna se tornó rápidamente en temor, no tenía idea de lo que iba a hacer, y ese era el peor estado en el que uno se puede estar en estos combates repeptitivos. Sorprendida.
+
+Lander extendió los brazos, y de las palmas de sus manos, una onda explosiva se disparó, golpeando de lleno a Ari y enviándola por los aires, fuera del ring. Por el retroceso, el hielo de los peis de Lander se rompió, y el fue enviado unos metros atrás, pero se mantuvo de pie. Había ganado.
 
 - - -
 ##### *20 años*

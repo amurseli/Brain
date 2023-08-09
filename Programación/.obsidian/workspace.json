@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laburo/Twillio/Whatsapp Sender.md",
+                "file": "Laburo/PDFs/Nuevos Pdfs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laburo/Twillio/Whatsapp Sender.md",
+                "file": "Laburo/PDFs/Nuevos Pdfs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laburo/Twillio/Whatsapp Sender.md",
+                "file": "Laburo/PDFs/Nuevos Pdfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laburo/Twillio/Whatsapp Sender.md"
+                "file": "Laburo/PDFs/Nuevos Pdfs.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "6010c2a49b0a7945",
   "lastOpenFiles": [
+    "Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Laburo/PDFs/Nuevos Pdfs.md",
+    "Laburo/Twillio/Whatsapp Sender.md",
+    "Laburo/PDFs",
     "Laburo/Twillio/Upgradear.md",
     "Laburo/Twillio/Lambda.md",
-    "Laburo/Twillio/Inicio de sesión Guiado.md",
-    "Laburo/Twillio/Conexión inicial.md",
-    "Laburo/Twillio/Whatsapp Sender.md"
+    "Laburo/Twillio/Conexión inicial.md"
   ]
 }

@@ -11,8 +11,12 @@
             "id": "ff6a10a0cbdf5eed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 295.5
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md"
+              }
             }
           },
           {
@@ -164,6 +172,7 @@
   },
   "active": "ff6a10a0cbdf5eed",
   "lastOpenFiles": [
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
     "Diario/2023/08-August/2023-08-09-Wednesday.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
@@ -173,7 +182,6 @@
     "z_attachments/Nemeia.png",
     "z_attachments/D&D/Nemeia.png",
     "Diario/2023/08-August/2023-08-06-Sunday.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades",
     "Diario/2023/08-August/2023-08-07-Monday.md",
     "Diario/2023/08-August/2023-08-04-Friday.md",

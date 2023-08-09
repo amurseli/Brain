@@ -1,7 +1,4 @@
 {
-  "spellcheckLanguages": [
-    "es",
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": false
 }
