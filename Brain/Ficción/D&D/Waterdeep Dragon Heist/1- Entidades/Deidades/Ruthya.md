@@ -7,5 +7,8 @@ Desde el evento en el pasado de [[Zarrai]], Ruthya lo estuvo vigilando y alentan
 ### Apariencia y Mundo
 Ruthya se vé como una [[Elfa]] de tez mas bien pálida, vestida con ropa ajustada y ligera. Su mundo es un panteón en las nubs, desde el que se puede ver claramente la luna.
 
+```spotify
+url: 'https://open.spotify.com/playlist/5AbxPuv1ORQ0CMZ2FTLYU7?si=87d2299b96884059'
+```
 
 #Entidad #NPC #Deidad

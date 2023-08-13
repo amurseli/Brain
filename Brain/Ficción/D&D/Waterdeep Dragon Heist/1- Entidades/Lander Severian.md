@@ -175,8 +175,97 @@ Lander soltó su bastón y levantó ambas manos lentamente, como alzando una bol
 
 Lander extendió los brazos, y de las palmas de sus manos, una onda explosiva se disparó, golpeando de lleno a Ari y enviándola por los aires, fuera del ring. Por el retroceso, el hielo de los peis de Lander se rompió, y el fue enviado unos metros atrás, pero se mantuvo de pie. Había ganado.
 
+
+
+La brisa hacía aletear salvajemente la largacapa de Lander, así que la envolvió en su mano y se sentó encima. Ari estaba parada delante del pizarron que habían sacado a la terraza. Estaba intentando convencer a Sokki, con dibujos, de que definitivamente había tomado la decisión correcta al lanzar la esquira congelada a los pies, mientras que el elfo aseguraba que, evidentemente, si había perdido no podía ser la respuesta correcta. Lumen dormía en el suelo, con el torso vendado al desnudo.
+
+Esta terraza era especial para los cuatro, era parte del séptimo edificio de dormitorios, pero nadie la usaba, nadie más que ellos. Habían dejado bastantes cosas para usarla como base de operaciones, ya que Ari y Lumen dormían en otros edificios. Un poco de estudiar con el pizarrón de tiza que habían robado el año pasado y unas bebidas frescas eran el día libre ideal.
+
+Definitivamente iba a echar esto de menos, el entrenamiento tambien, sí, pero esto… no había nada igual. Nunca pensó que llegaría a querer tanto a estos tres extraños. 
+
+-¿Vos no tenés nada que opinar?- Dijo Ari, con las manos en la cintura. La capa de Lander seguía aleteando con el viento.
+
+Había desarrollado un sentimiento… extraño hacia Ari. Ella se le había confesado en su cumpleaños, pero Lander no la había correspondido. Le dijo que necesitaba tiempo para pensar. Le dolía pensar en alguien románticamente, Deli siempre venía a su mente.
+
+No le había contado a ninguno de los tres sobre Deli.
+
+-Fuiste completamente destruida por el gran mago Lander, joven. Doy clases.
+
+Sokki se rió y Ari no pudo evitar sonrojarse.
+
+-Pero enserio- Dijo, exhalando despacio para relajarse- ¿De donde sacaste ese truco?
+
+-¿Que truco? Ah, sí, haces referencia a la “Legendaria e inigualable [[Ola Atronadora]] de Lander Severian” (Nombre temporal) ¿Que hay con ella?- Dijo, con una sonrisita. Antes odiaba a los engreídos, pero había aprendido que era divertido hacer este personaje con sus amigos. Odiaba cuando se lo hacían a el.
+
+Ari hizo un gesto de arcada. Sokki volvió a reirse.
+
+Este era su último año en la Academia, pero era obvio que iban a seguir juntos, los cuatro. Eran como uña y carne, y ya habían diseñado varios planes “solo en caso” de que lo de ser aventureros no resultara. No se lo contaba a los chicos, pero se imaginaba a los cuatro, de aventuras, tal vez montando dragones rojos o peleando contra hordas y hordas de demonios del [[Averno]], doblegando civilizaciones de Ilícidos o ayudando a reinos enteros.
+
+Todo era posible, solo debían mantenerse juntos.
+
 - - -
 ##### *20 años*
+
+-¡Hijos de puta! Somos un idiotas, unos imbeciles ¡¿A quién se le ocurrió confiar en el grupo de Heming?! ¡¡¡Cuatro años riéndonos de que eran unos idiotas, y vamos nosotros a apostar nuestra vida con ellos!!!- Ari gritaba, apoyada contra la única roca que los separaba a los cuatro de una muerte inminente, Ciff, uno de los compañeros de Heming, yacía muerto al lado de Lumen.
+
+Sokki estaba al borde del llanto, apoyado en contra de Ari. Lander no estaba seguro de porque estaba así, pero era probable que estuviera relacionado con la muerte de Ciff, después de todo, el tuvo que ponerlo fuera de su miseria. Nunca había matado a nadie.
+
+Heming los había abandonado a su suerte, en medio de una caza de Buhosos blancos. Eso no se hace, es un trabajo diseñado para grupos de más de doce, y sin los diez altos elfos de la secta de Heming, habían quedado en cuatro contra muchos de esas bestias salvajes. Bueno cinco, contando a Ciff, que se había negado escapar y quiso quedarse a ayudarlos. 
+
+No sirvió de mucho, dos zarpazos de esa bestia lo habían dejado completamente incapacitado, destinado a ahogarse con su sangre minutos después. Sokki se ocupó del trabajo difícil por el equipo.
+
+Un golpe mando al suelo a Ari, pero Lumen y Lander rapidamente tomaron su lugar, empujando la puerta.
+
+-Esto no puede estar pasando… ¿Como mierda vamos a salir de acá?- Lumen miró a Lander, sus ojos estaban atemorizados.
+
+Lander estaba haciendo un esfuerzo increíble para ignorar el pavor que estaba recorriendo su mente. Pensaba que estaba preparado para esto, para entregar su vida, solamente no pensó que ocurriría tan pronto. Hacía apenas dos meses se habían graduado de la academia. Alguien tenía que liderarlos, y los tres confiaban en Lander para eso.
+
+-Ari, hacé algo con Sokki
+
+-Pero no respon…
+
+-¡Ahora!- Lander gritó, intentando recordar el componente somático de [[Cerrojo Arcano]]. Doc se lo había enseñado hace dos años, pero jamás penso que iba a necesitarlo en una situación de vida o muerte.
+
+-¡*Arcana Bordatis*!- Gritó Lumen, haciendo un circulo con el dedo meñique de la mano derecha, para luego cortarlo con el indice, creando una serie de cadenas que salieron de el interior de la roca gigante y se unieron a la pared de detrás.- Ojalá eso aguante.
+
+Ari intentaba sacudir a Sokki, que miraba al suelo con la vista perdida. Ninguno se imaginó que le golpearía así matar a alguien.
+
+<*Okay Lander, pensá. ¿Como podemos salir de acá con vida*> Empezó a caminar por la “habitación”, si se le podía llamar así. Una formacion rocosa natural sin salidas más que la que habían acabado de cerrar. Había una gotera que caía encima del cuerpo inerte de Ciff. <*Ninguno tiene ninguna forma de teletransportarnos fuera de acá, y es probable que afuera nos estén esperando cuatro de esas bestias. ¿Podemos enfrentarnos a ellas? Los cuatro quizás si pero…*> Miró a Sokki, en silencio. Seguía paralizado. <*Los tres, en un espacio tan confinado no tenemos oportunidad, Lumen no podría frenarlos el tiempo suficiente por si solo*>
+
+Otro golpe de los fuertes golpeó la piedra y el lugar entero tembló. Si no los mataban las bestias, las rocas del techo lo harían.
+
+Nada se le ocurría, ninguna solución. Sokki seguía sin moverse. Lander se acercó, mirandolo de frente. Se puso en cuclillas para estar a su altura.
+
+-¿Que te pasa? Te necesitamos ahora, So- Le dijo, mirandolo. Los otros dos se quedaron en silencio.
+
+-N…n…no…- Estaba temblando, agarrándose el brazo izquierdo. -No pensé que matar a laguien se sentiría así. Intentaba decirme algo, ¿Sabés? O me estaba pidiendo algo, o estaba rezando. Pero su garganta estaba cortada, y la sangre ahogaba sus palabras. L…Lander- Rompió en llanto devuelta. Ninguno lo había visto así, nunca.
+
+Lander buscó en su interior algo que decir. Recorrió muchas de las conversaciones con sus padres, pero nunca habían sido personas muy elocuentes. ¿Alguna frase de algún libro quizás?
+
+-Es mi culpa- Siguió, limpiándose las lágrimas de los ojos -Podría haber reaccionado de alguna manera antes de que recibiera el primer golpe. Pero me paralicé. Podría… Haber usado alguna versión pequeña de [[Escudo]]… o hacernos invisibles, incluso mi anillo de [[Armadura de Agathys]] lo hubiese podido salvar… pero me quedé paralizado. Y alguien más pagó por ello…- La pera le temblaba.
+
+-U… un segundo ¿Dijiste algo de hacernos invisibles?- Lander lo tomó de los hombros y le sacudió la cebeza para que lo mirara.
+
+-Sí, en mi mochila tengo un pergamino de [[Invisibilidad Superior]]. 
+
+Lander tomó la mochila que estaba junto a él y empezó a buscar. Sokki tenía bastantes pergaminos, llevaba la mayoría de los del equipo, exceptuando algunos de uso personal que tenia cada uno. Sacó un pergamino largo de la bolsa y lo apoyó abierto en el piso. La punica página amarillenta tenía unos simbolos escritos en arcano antiguo. Ellos habían tenido una clase de eso alguna veez, alguno de los talleres de segundo año. Este hablaba de algo de laa Urdidumbre y su relación con la invisibilidad y la interacción con la luz.
+
+Después de unos segundos , el pergamino se disolvió, y dejó en el lugar un glifo de unos dos metros de diametro, casi tocaba la habitación de extremo a extremo. Ari hizo una seña para que lo pisen y Lumen ayudó a su amigo a pararse.
+
+Habían usado invisibilidad algunas veces en la academia, pero era la primera vez que experimentaban la invisibilidad avanzada. Lo primero extraño que notaron fue sus olores daparecer, ahora solo sentían unn aroma a cueeva y tierra húmeda. Lo verdaderamente raro vino después. 
+
+La luz interactúa con los ojos de una forma extraña cuando estas invisible, con la invisibilidad regular, el cambio no es muy notorio, y los ojos se acostumbran fácilmente. No es elcaso con la invisibilidad avanzada. Sin aviso, todo se tiño de un azul claro, y las líneas dijas de su alrededor empezaron a tambalearse, y luego a danzar. Empezó a marearse, pero se obligó a permanecer de pie. Notó que sus amigos intentaban lo mismo.
+
+Los contornos de sus extreminades de difuminaron como humo, desvaneciendose, y el glifo brillante del piso se apagó. 
+
+Lander le hizo una seña a Lumen, y con un gesto de mano, solto el cerrojo arcano. Un último golpe derribó la piedra.
+
+Dos buhosos blancos y carmesí se asomaron por el hueco, buscando una presa. Con la mano, Lander señaló que lo sigan. Con sumo cuidado, los cuatro contuvieron la respiración y pasaron por el costado de los animales, cuidado no hacer el más mínimo o ruido. No importaba realmente, el hechizo no permitiría que emitieran ningún ruido, y su respiración probablemente sería imperceptible. En el exterior, un sol negropúrpura (producto de la invisibilidad) se asomaba en el cielo, y sus pupilas tuvieron un duro trabajo ajustándose.
+
+Corrieron, evitándo cuanto les fue posible a los demás buhosos que caminaban por el lugar. Ari y Lumen estaban emocionadísimos, probablemente pensaron que no la contarían y estaban disfrutando de su nueva adquirida libertad. Lander y Sokki, ambos, sabían que tenían un asunto mas que atender antes de poder ponerse a festejar. Heming había escapado.
+
+
+
 
 ---
 ##### *22 años*

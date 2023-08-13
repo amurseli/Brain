@@ -14,6 +14,7 @@ Al baile atienden estos personajes, si bien están enmascarados, tanto Kruwen co
 - [[Deraxie Goneare]]: Deraxie atiende como sí mismo, jefe de la mas importante orden de joyeros y uno de los mercaderes mas conocidos de la ciudad. Emana un aura misteriosa que llama la atención de ambos, Kruwen lo reconoce.
 - [[Luslec Fiboreas]]: Al igual que Deraxie, atiende como sí mismo, llegando junto a su amigo. Ya está borracho
 - Varias parejas de nobles, todas bien vestidas y en algunos casos acompañadas por sirvientes
+- Grupo de paparazzis
 - [[Lady Phillomena Cuurstuck]] y [[Henry Terrisan]] vienen acompañados por 3 sirvientes haflings (Henry es un dracónido cobre sirviente)
 - [[Ea]]: Está usando un hechizo, para cambiar el color de su cabello así que nadie la reconoce.
 - Un Tabaxi que llega con una espada gigante y se niega a dejarla.
