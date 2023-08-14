@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0191ba0d6f6bac82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguajes/HTML/Manipular texto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd54ff05ece15081",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laburo/PDFs/Nuevos Pdfs.md",
+                "file": "Lenguajes/HTML/Manipular texto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laburo/PDFs/Nuevos Pdfs.md",
+                "file": "Lenguajes/HTML/Manipular texto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laburo/PDFs/Nuevos Pdfs.md"
+                "file": "Lenguajes/HTML/Manipular texto.md"
               }
             }
           }
@@ -146,14 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6010c2a49b0a7945",
+  "active": "0191ba0d6f6bac82",
   "lastOpenFiles": [
-    "Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Lenguajes/HTML/Manipular texto.md",
     "Laburo/PDFs/Nuevos Pdfs.md",
+    "Lenguajes/HTML/Todos los Elementos.md",
+    "Laburo/Twillio/Conexión inicial.md",
+    "Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Lenguajes/HTML",
+    "Lenguajes",
     "Laburo/Twillio/Whatsapp Sender.md",
     "Laburo/PDFs",
     "Laburo/Twillio/Upgradear.md",
-    "Laburo/Twillio/Lambda.md",
-    "Laburo/Twillio/Conexión inicial.md"
+    "Laburo/Twillio/Lambda.md"
   ]
 }
