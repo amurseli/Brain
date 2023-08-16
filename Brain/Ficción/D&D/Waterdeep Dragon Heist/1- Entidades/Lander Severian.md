@@ -195,13 +195,13 @@ Sokki se rió y Ari no pudo evitar sonrojarse.
 
 -Pero enserio- Dijo, exhalando despacio para relajarse- ¿De donde sacaste ese truco?
 
--¿Que truco? Ah, sí, haces referencia a la “Legendaria e inigualable [[Ola Atronadora]] de Lander Severian” (Nombre temporal) ¿Que hay con ella?- Dijo, con una sonrisita. Antes odiaba a los engreídos, pero había aprendido que era divertido hacer este personaje con sus amigos. Odiaba cuando se lo hacían a el.
+-¿Que truco? Ah, sí, haces referencia a la “Legendaria e inigualable [[Ola Atronadora]] de Lander Severian” (Nombre temporal) ¿Que hay con ella?- Dijo, con una sonrisita. Antes odiaba a los engreídos, pero había aprendido que era divertido hacer este personaje con sus amigos. Excepto cuando se lo hacían a el.
 
 Ari hizo un gesto de arcada. Sokki volvió a reirse.
 
 Este era su último año en la Academia, pero era obvio que iban a seguir juntos, los cuatro. Eran como uña y carne, y ya habían diseñado varios planes “solo en caso” de que lo de ser aventureros no resultara. No se lo contaba a los chicos, pero se imaginaba a los cuatro, de aventuras, tal vez montando dragones rojos o peleando contra hordas y hordas de demonios del [[Averno]], doblegando civilizaciones de Ilícidos o ayudando a reinos enteros.
 
-Todo era posible, solo debían mantenerse juntos.
+Cualquier cosa lo haría feliz, solo debían mantenerse juntos.
 
 - - -
 ##### *20 años*
@@ -262,7 +262,17 @@ Lander le hizo una seña a Lumen, y con un gesto de mano, solto el cerrojo arcan
 
 Dos buhosos blancos y carmesí se asomaron por el hueco, buscando una presa. Con la mano, Lander señaló que lo sigan. Con sumo cuidado, los cuatro contuvieron la respiración y pasaron por el costado de los animales, cuidado no hacer el más mínimo o ruido. No importaba realmente, el hechizo no permitiría que emitieran ningún ruido, y su respiración probablemente sería imperceptible. En el exterior, un sol negropúrpura (producto de la invisibilidad) se asomaba en el cielo, y sus pupilas tuvieron un duro trabajo ajustándose.
 
-Corrieron, evitándo cuanto les fue posible a los demás buhosos que caminaban por el lugar. Ari y Lumen estaban emocionadísimos, probablemente pensaron que no la contarían y estaban disfrutando de su nueva adquirida libertad. Lander y Sokki, ambos, sabían que tenían un asunto mas que atender antes de poder ponerse a festejar. Heming había escapado.
+Corrieron, evitándo cuanto les fue posible a los demás buhosos que caminaban por el lugar. Cuando la invisibilidad acabó, unos minutos después, ya estaban lo suficientemente lejos como para no ser encontrados, pero no parar de correr. Poco a poco, el piso de tierra y vegetación fue alisandose más para mostrar caminos, y luego empedrados.
+
+-Pensé que no la contábamos- Dijo Ari, volviéndose hacia el grupo. Estaba agitada todavía.
+
+-Fue una gran idea Lan- Lumen le dió una palmada en la espalda, sonriendo y mirando hacia el pueblo al que habían llegado. Cañonalto, un pueblo medianamente grande rodeado del Rarobosque, de donde venían. En los tablones de ayuda habían visto el trabajo, y ayudados por el gremio, se habían aliado con Heming y los suyos.
+
+-Voy a matarlo- Dijo Sokki, mirándose sus propias manos -El pedazo de mierda seguro se escapó de acá tambien.
+
+-Tarde o temprano lo vamos a encontrar Sokki- Lumen lo miró con preocupación en sus ojos, ninguno de los tres lo había visto así nunca. Pero todos compartían un poco eldeseo de venganza. El traidor los había abandonado a su suerte. -Lo podemos denunciar en Eviterna y nunca conseguirá otro trabajo de aventurero.
+
+-No, quiero hacerlo pagar yo- Se recompuso lentamente, volviendo a su postura erguida tan característica. Tenía una larga rasgadura en la ropa y la piel, por suerte no muy profunda.
 
 
 

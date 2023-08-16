@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/HTML/Manipular texto.md",
-                "mode": "source",
+                "file": "Laburo/Twillio/Inicio de sesión Guiado.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes/HTML/Manipular texto.md",
+                "file": "Laburo/Twillio/Inicio de sesión Guiado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes/HTML/Manipular texto.md",
+                "file": "Laburo/Twillio/Inicio de sesión Guiado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes/HTML/Manipular texto.md"
+                "file": "Laburo/Twillio/Inicio de sesión Guiado.md"
               }
             }
           }
@@ -167,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0191ba0d6f6bac82",
+  "active": "39339d170307958f",
   "lastOpenFiles": [
+    "Lenguajes/HTML/Todos los Elementos.md",
     "Lenguajes/HTML/Manipular texto.md",
     "Laburo/PDFs/Nuevos Pdfs.md",
-    "Lenguajes/HTML/Todos los Elementos.md",
     "Laburo/Twillio/Conexión inicial.md",
     "Laburo/Twillio/Inicio de sesión Guiado.md",
     "Lenguajes/HTML",
