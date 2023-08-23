@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd405553687f30a9",
+        "id": "d045785568f16cc4",
         "type": "tabs",
         "children": [
           {
-            "id": "af209bd45a1232df",
+            "id": "45b2426d6caaf190",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Para tí, que no no tiene que jugar/Guión.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Para tí, que no no tiene que jugar/Guión.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/Para tí, que no no tiene que jugar/Guión.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Para tí, que no no tiene que jugar/Guión.md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md"
               }
             }
           },
@@ -170,25 +170,31 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "af209bd45a1232df",
+  "active": "6816e75aee07d7f4",
   "lastOpenFiles": [
     "Videos/Para tí, que no no tiene que jugar/Guión.md",
     "Videos/Para tí, que no no tiene que jugar",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nemeia.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-    "Ficción/CloudCore/4 - Metafísica/Conceptos de Cloudcore/Nimbus.md",
-    "Ficción/CloudCore/4 - Metafísica/Objetos Deuteros/Los Objetos Deuteros.md",
-    "Ficción/CloudCore/7 - Líneas de tiempo/Agitación.md",
-    "Ficción/CloudCore/4 - Metafísica/Conceptos de Cloudcore/Agitación.md",
-    "Ficción/CloudCore/7 - Líneas de tiempo/Eras",
-    "Ficción/CloudCore/7 - Líneas de tiempo/Eras.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
-    "Ficción/CloudCore/4 - Metafísica/Objetos Deuteros",
-    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md",
+    "Ficción/Cloudcore/7 - Líneas de tiempo/Agitación.md",
+    "Ficción/Cloudcore/4 - Metafísica/Objetos Deuteros/Los Objetos Deuteros.md",
+    "Ficción/Cloudcore/4 - Metafísica/Objetos Deuteros",
+    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 7 Notas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
+    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Shadow.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Ataque a la fortaleza Ashrunner.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Fortaleza Ashrunner.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Ea.md",
     "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
@@ -196,20 +202,14 @@
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades",
     "Diario/2023/08-August/2023-08-09-Wednesday.md",
     "Diario/2023/08-August/2023-08-07-Monday.md",
-    "Diario/2023/08-August/2023-08-06-Sunday.md",
-    "Diario/2023/08-August/2023-08-03-Thursday.md",
-    "Diario/2023/08-August/2023-08-04-Friday.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
-    "Diario/2023/07-July/2023-07-24-Monday.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas",
-    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 6 Notas.md",
     "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas",
     "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias",
     "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones",
     "z_attachments/D&D/squiddly.png",
     "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
     "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos",
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew",
     "z_attachments/D&D/Shock2.jpg",
     "z_attachments/Daily Note Images/Dwaing.png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",

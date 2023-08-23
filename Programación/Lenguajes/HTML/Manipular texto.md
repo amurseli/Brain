@@ -1,5 +1,5 @@
 ---
-tags: Tutoriales, Borrable
+tags: Tutoriales, Borrable, HTML
 ---
 ## Cambiar Tamaños
 
@@ -83,6 +83,8 @@ En resumen, esta clase crea un diseño de cuadrícula con tres columnas, donde l
 
 
 ## Meta
+
+Informacion sobre el formatteo del texto en [[Html]]
 
 Todo el código es en relación a lo visto en [[Nuevos Pdfs]]. Powered by CHATGPT
 

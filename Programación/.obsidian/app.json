@@ -1,5 +1,6 @@
 {
   "spellcheckLanguages": null,
   "spellcheck": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }

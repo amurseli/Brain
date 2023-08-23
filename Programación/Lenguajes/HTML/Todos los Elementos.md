@@ -1,3 +1,7 @@
+---
+tags: html
+---
+Tabla de referencia rápida con todos los elementos que se pueden encontrar en [[Html]]
 
 |Tag|Description|
 |---|---|

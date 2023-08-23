@@ -1,4 +1,7 @@
 [
   "obsidian-code-block-enhancer",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "buttons",
+  "templater-obsidian",
+  "obsidian-icon-folder"
 ]

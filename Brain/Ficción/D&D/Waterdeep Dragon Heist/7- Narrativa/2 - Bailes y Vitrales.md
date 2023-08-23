@@ -31,7 +31,7 @@ Acá quiero un momento para interaccioens sociales, pueden ser algunas como:
 - Alguno de los chicos robando
 - Rumores: 
 	- *“Parece que no va a venir.”* Sobre Fourier, como no aparece, la gente parece sospechar.
-	- *“¿Te enteraste? Lady Philomenna esta teniendo un amorí con uno de sus sirviente”* Viejas hablando cerca de la mesa.
+	- *“¿Te enteraste? Lady Philomenna esta teniendo un amorío con uno de sus sirviente”* Viejas hablando cerca de la mesa.
 	- *“Tremendo lo que le ocurrió al jóven Neverember, el salvajismo en Waterdeep esta cada vez peor.”*
 - Goberto presentandose con Zarrai (Como Shock)
 - Zarrai ve a una joven intentando entrar a un cuarto al que no tiene llave en el cuarto palco nobles.
