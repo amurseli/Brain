@@ -1,5 +1,5 @@
 ---
- tags: Tutoriales, Clase, C
+ tags: Tutoriales, Clase, C, TallerDeProgramacion
 ---
 Clase 1 | 22-08-2023
 
