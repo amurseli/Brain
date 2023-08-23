@@ -74,3 +74,23 @@ Ejemplo: Un array de punteros vs un array con los elementos de interés.
 En el primer caso, la CPU va a leer el primer elemento, ir a buscar la dirección a la memoria, y traerse todo un bloque al cache. Así por cada elemento del array de punteros.
 En el segundo caso, los elementos de interés están directamente ahí, contiguos, acelerando mucho el proceso de busqueda y bajando un nivel de indirección.
 
+
+### Aritmética de punteros
+
+Ejemplo interesante:
+
+```C
+int a[10]; 
+int *p; 
+   
+p = &a[0]; 
+
+*p // a[0] 
+*(p+1) // a[1]   
+
+int *p; 
+p+1 // movete sizeof(int) bytes (4) 
+
+char *c; 
+c+2 // movete 2*sizeof(char) bytes (2)
+```
