@@ -1,4 +1,3 @@
-**FALTAN COSAS PORQUE ESTO NO SE JUGÓ TODAVÍA**
 
 ##### Lif y Emmek
 La party, preparándose para el trabajo en la [[Fortaleza Ashrunner]], Sigue conociendo el vecindario y preparádose para abrir la taberna. [[Lif Thallyworn]], el poltergeist que habita la taberna, les informa que mien enfrente, donde ven a [[Emmek Frewn]] con unos 4 [[Halfling|halflings]] colgando un cartel gigante con la descripción “Tragos de Emmek”.
@@ -24,23 +23,18 @@ Al baile atienden estos personajes, si bien están enmascarados, tanto Kruwen co
 - [[Yalah Gralhund]] y [[Orond Gralhund]]: Llaman la atención por venir acompañado por varios sirvientes de apariencia sospechosa, los chicos seguro le tengan q confiscar algun arma
 - Más y más grupos de nobles.
 
-Tanto Kruwen como Oro se ponen las máscaras y entran a el baile.
 
-Acá quiero un momento para interaccioens sociales, pueden ser algunas como:
-- Los chicos promocioanndo la taberna
-- Alguno de los chicos robando
 - Rumores: 
 	- *“Parece que no va a venir.”* Sobre Fourier, como no aparece, la gente parece sospechar.
 	- *“¿Te enteraste? Lady Philomenna esta teniendo un amorío con uno de sus sirviente”* Viejas hablando cerca de la mesa.
 	- *“Tremendo lo que le ocurrió al jóven Neverember, el salvajismo en Waterdeep esta cada vez peor.”*
 - Goberto presentandose con Zarrai (Como Shock)
 - Zarrai ve a una joven intentando entrar a un cuarto al que no tiene llave en el cuarto palco nobles.
-- Un Noble gordo, “Ramelion” reta a Lander (y quizás a nemeia) a un concurso de tomar alcohol
+- Un Noble gordo, “Ramelion” reta a Lander y a Nemeia a un concurso de tomar alcohol
 
+Mientras mas avanza la noche, más se van relajando, hasta que en un momento, Constanza se acerca a pedirle un baile a Oro. Ambos son interrumpidos por [[Rust Ashrunner]], quien crea un escándalo, humillando a Oro delante de todos. Oro intentó golpearlo, pero fue interrumpido primero por Constanza y luego por Fourier.
 
-Mientras mas avanza la noche, más se van relajando, hasta que en un momento, Constanza se acerca a pedirle un baile a Oro. Ambos son interrumpidos por [[Rust Ashrunner]], quien crea un escándalo, humillando a Oro delante de todos.
-
-Arrodillado, siendo pisado y pateado por Rust. [[Lord Fourier Ashrunner]] entra, y golpea a su hijo delante de todos, luego se arrodilla y obliga a Rust a arrodillarse, pidiéndole perdón a Oro por la actitud horrible de su hijo.
+[[Lord Fourier Ashrunner]] entra, y golpea a su hijo delante de todos, luego se arrodilla y obliga a Rust a arrodillarse, pidiéndole perdón a Oro por la actitud horrible de su hijo.
 
 Acá ocurre lo relatado en [[Ataque a la fortaleza Ashrunner]], para luego, una vez que Zarrai ve escapar a [[Garvan D'Luth]] por la terraza, ocurre lo descrito en [[Avril - Zarrai en el balcon Ashrunner]]. La escena, ocurra lo que ocurra, termina con Zarrai siendo arrojado por el vitral de la fortaleza y con Fourier muerto.
 

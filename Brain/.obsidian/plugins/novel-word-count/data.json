@@ -605,6 +605,20 @@
       "modifiedDate": 1689343526351,
       "sizeInBytes": 157
     },
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 7.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1692805836641,
+      "modifiedDate": 1692805836641,
+      "sizeInBytes": 0
+    },
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1039,6 +1053,20 @@
       "modifiedDate": 1690767016025,
       "sizeInBytes": 255
     },
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 116,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 715,
+      "nonWhitespaceCharacterCount": 596,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1692804604412,
+      "modifiedDate": 1692805825323,
+      "sizeInBytes": 723
+    },
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1053,21 +1081,7 @@
       "modifiedDate": 1689777473579,
       "sizeInBytes": 190
     },
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Ataque a la fortaleza Ashrunner.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 423,
-      "pageCount": 1.41,
-      "characterCount": 2531,
-      "nonWhitespaceCharacterCount": 2091,
-      "linkCount": 13,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689523474106,
-      "modifiedDate": 1692534799096,
-      "sizeInBytes": 2564
-    },
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Avril - Zarrai en el balcon Ashrunner.md": {
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Ideas Realizadas/Avril - Zarrai en el balcon Ashrunner.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 359,
@@ -1080,6 +1094,20 @@
       "createdDate": 1689268448944,
       "modifiedDate": 1691412154922,
       "sizeInBytes": 2332
+    },
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Ideas Realizadas/Ataque a la fortaleza Ashrunner.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 423,
+      "pageCount": 1.41,
+      "characterCount": 2531,
+      "nonWhitespaceCharacterCount": 2091,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689523474106,
+      "modifiedDate": 1692534799096,
+      "sizeInBytes": 2564
     },
     "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 7 Notas.md": {
       "isDirectory": false,
