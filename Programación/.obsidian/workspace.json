@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
+                "file": "Lenguajes/HTML/Todos los Elementos.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
+                "file": "Lenguajes/HTML/Todos los Elementos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
+                "file": "Lenguajes/HTML/Todos los Elementos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facultad/Sistemas Operativos/Clase 1/SisCall.md"
+                "file": "Lenguajes/HTML/Todos los Elementos.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "3cb8697befa753d7",
   "lastOpenFiles": [
-    "Facultad/Sistemas Operativos/Clase 1/Sistemas Operativos.md",
     "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
+    "Facultad/Sistemas Operativos/Clase 1/Sistemas Operativos.md",
     "Facultad/Taller de Programación/Repaso de C.md",
     "Facultad/Sistemas Operativos/Clase 1/Kernel.md",
     "Facultad/Sistemas Operativos/Clase 1",
