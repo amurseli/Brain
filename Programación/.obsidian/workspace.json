@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/HTML/Todos los Elementos.md",
+                "file": "Lenguajes/HTML/Handlebars.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes/HTML/Todos los Elementos.md",
+                "file": "Lenguajes/HTML/Handlebars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes/HTML/Todos los Elementos.md",
+                "file": "Lenguajes/HTML/Handlebars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes/HTML/Todos los Elementos.md"
+                "file": "Lenguajes/HTML/Handlebars.md"
               }
             }
           }
@@ -207,22 +207,23 @@
   "active": "3cb8697befa753d7",
   "lastOpenFiles": [
     "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
+    "Lenguajes/HTML/Manipular texto.md",
+    "Lenguajes/HTML/Handlebars.md",
+    "Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Laburo/PDFs/Nuevos Pdfs.md",
+    "Lenguajes/HTML/Todos los Elementos.md",
     "Facultad/Sistemas Operativos/Clase 1/Sistemas Operativos.md",
     "Facultad/Taller de Programación/Repaso de C.md",
     "Facultad/Sistemas Operativos/Clase 1/Kernel.md",
     "Facultad/Sistemas Operativos/Clase 1",
     "Facultad/Sistemas Operativos",
-    "Lenguajes/HTML/Todos los Elementos.md",
-    "Lenguajes/HTML/Manipular texto.md",
     "Pasted image 20230823121140.png",
     "z_templates/Clase template.md",
     "z_images",
     "z_images/Cvars.png",
     "z_templates",
     "Facultad/Taller de Programación",
-    "Laburo/Twillio/Inicio de sesión Guiado.md",
     "Facultad",
-    "Laburo/PDFs/Nuevos Pdfs.md",
     "Laburo/Twillio/Conexión inicial.md",
     "Lenguajes/HTML",
     "Lenguajes",

@@ -1,6 +1,6 @@
 Pasamos de usar los pdfs con el sistema de [[Reyngardt]] , a un sistema nuevo que utiliza [[Html]].
 
-La repositorio esta en el [[Lambda]] de AWS "Emisor-Factura". La estructura del template del Html es la siguiente
+La repositorio esta en el [[Lambda]] de AWS "Emisor-Factura". La estructura del template del Html es la siguiente. Los pdfs usan [[Handlebars]] para generar contenido dinámico desde las [[Query|Querys]] del [[SQL]].
 
 ## Container y Paginador
 
