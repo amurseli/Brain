@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md"
               }
             }
           },
@@ -154,6 +154,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "fantasy-content-generator:Fantasy Generators": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,17 +167,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "initiative-tracker:Intiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "45b2426d6caaf190",
+  "active": "6816e75aee07d7f4",
   "lastOpenFiles": [
+    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Talisolvanar ”Tally” Fellbranch.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Fighter.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 7.md",
@@ -197,9 +200,6 @@
     "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Shadow.md",
     "Ficción/D&D/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Ideas Realizadas/Ataque a la fortaleza Ashrunner.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Fortaleza Ashrunner.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
     "z_attachments/D&D/Nemeia.png",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas",

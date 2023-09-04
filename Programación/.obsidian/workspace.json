@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/HTML/Handlebars.md",
+                "file": "Lenguajes/C++/SegFault.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes/HTML/Handlebars.md",
+                "file": "Lenguajes/C++/SegFault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes/HTML/Handlebars.md",
+                "file": "Lenguajes/C++/SegFault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes/HTML/Handlebars.md"
+                "file": "Lenguajes/C++/SegFault.md"
               }
             }
           }
@@ -206,15 +206,21 @@
   },
   "active": "3cb8697befa753d7",
   "lastOpenFiles": [
-    "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
-    "Lenguajes/HTML/Manipular texto.md",
-    "Lenguajes/HTML/Handlebars.md",
-    "Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Lenguajes/C++/Links Interesantes.md",
+    "Lenguajes/C++/SegFault.md",
     "Laburo/PDFs/Nuevos Pdfs.md",
-    "Lenguajes/HTML/Todos los Elementos.md",
-    "Facultad/Sistemas Operativos/Clase 1/Sistemas Operativos.md",
-    "Facultad/Taller de Programación/Repaso de C.md",
+    "Lenguajes/Conceptos Generales/Padding.md",
+    "Facultad/Taller de Programación/MC Manejo de memoria en C++.md",
     "Facultad/Sistemas Operativos/Clase 1/Kernel.md",
+    "Lenguajes/Conceptos Generales",
+    "Lenguajes/C++",
+    "Facultad/Sistemas Operativos/Clase 1/Sistemas Operativos.md",
+    "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
+    "Facultad/Taller de Programación/Repaso de C.md",
+    "Lenguajes/HTML/Handlebars.md",
+    "Lenguajes/HTML/Manipular texto.md",
+    "Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Lenguajes/HTML/Todos los Elementos.md",
     "Facultad/Sistemas Operativos/Clase 1",
     "Facultad/Sistemas Operativos",
     "Pasted image 20230823121140.png",
@@ -228,7 +234,6 @@
     "Lenguajes/HTML",
     "Lenguajes",
     "Laburo/Twillio/Whatsapp Sender.md",
-    "Laburo/PDFs",
     "Laburo/Twillio/Upgradear.md",
     "Laburo/Twillio/Lambda.md"
   ]
