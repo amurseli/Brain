@@ -3,10 +3,10 @@
 La party, preparándose para el trabajo en la [[Fortaleza Ashrunner]], Sigue conociendo el vecindario y preparádose para abrir la taberna. [[Lif Thallyworn]], el poltergeist que habita la taberna, les informa que mien enfrente, donde ven a [[Emmek Frewn]] con unos 4 [[Halfling|halflings]] colgando un cartel gigante con la descripción “Tragos de Emmek”.
 
 ##### El Pre-Baile
-Una vez que la party llega a la fortaleza, son acompañados por la villa hasta llegar a el salón de baile. Es inmenso, como descrito en la página de la fortaleza. Ahí, se les pide que se formen en línea con otros varios contratados, entre los que se encuentra [[Goberto el Goblin (Shock)|Shock]]. Desde el primer palco, una mujer de unos 25 años aparece, con el pelo Gris moteado con manchas anaranjadas y doradas. Ella es [[Constanza Ashrunner]] y les informa a todos cual es su trabajo específico, y los diferentes eventos que van a ocurrir en la noche.
+Una vez que la party llega a la fortaleza, son acompañados por la villa hasta llegar a el salón de baile. Es inmenso, como descrito en la página de la fortaleza. Ahí, se les pide que se formen en línea con otros varios contratados, entre los que se encuentra [[Goberto el Goblin|Shock]]. Desde el primer palco, una mujer de unos 25 años aparece, con el pelo Gris moteado con manchas anaranjadas y doradas. Ella es [[Constanza Ashrunner]] y les informa a todos cual es su trabajo específico, y los diferentes eventos que van a ocurrir en la noche.
 
 ##### El Baile
-[[Oro Sammah]] y [[Kruwen Ferropie]] son enviados a custodiar la entrada, revisando las pertenencias de la gente y la servidumbre antes de entrar. [[Nemeia]] y [[Lander Severian]] son enviados, por el momento, a custodiar la planta principal. Una vez Oro y Kruwen terminen de revisar la entrada, se uniran a estos dos. [[Zarrai]] es enviado a custodiar los palcos junto con [[Goberto el Goblin (Shock)]].
+[[Oro Sammah]] y [[Kruwen Ferropie]] son enviados a custodiar la entrada, revisando las pertenencias de la gente y la servidumbre antes de entrar. [[Nemeia]] y [[Lander Severian]] son enviados, por el momento, a custodiar la planta principal. Una vez Oro y Kruwen terminen de revisar la entrada, se uniran a estos dos. [[Zarrai]] es enviado a custodiar los palcos junto con [[Goberto el Goblin]].
 
 Al baile atienden estos personajes, si bien están enmascarados, tanto Kruwen como Oro reconocen algunos:
 - Un grupo de 10 escorts. 

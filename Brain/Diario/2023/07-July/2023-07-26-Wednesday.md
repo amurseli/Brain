@@ -9,7 +9,7 @@ tags:: [[+Daily Notes]]
 
  - - -
 ### 😎 Breve descripción del día anterior a las 10:34
-Laburé en la oficina a la mañana, llegué a casa, discutí BASTANTE con rama sobre una estupidez q dijo el. Terminé (Creo) el dibujo de [[Goberto el Goblin (Shock)]] y Jugué bastante al modo arena del lol. También fui a lo de Mati a arreglar parlantes y vino Mateo a ksa a dormir. También cree toda la ingo de Shock en la Character Sheet y creé la subclase [[Samurai (Subclass)]] 
+Laburé en la oficina a la mañana, llegué a casa, discutí BASTANTE con rama sobre una estupidez q dijo el. Terminé (Creo) el dibujo de [[Goberto el Goblin]] y Jugué bastante al modo arena del lol. También fui a lo de Mati a arreglar parlantes y vino Mateo a ksa a dormir. También cree toda la ingo de Shock en la Character Sheet y creé la subclase [[Samurai (Subclass)]] 
 
 
 ---

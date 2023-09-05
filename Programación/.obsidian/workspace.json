@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/C++/SegFault.md",
+                "file": "Lenguajes/C++/Links Interesantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes/C++/SegFault.md",
+                "file": "Lenguajes/C++/Links Interesantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes/C++/SegFault.md",
+                "file": "Lenguajes/C++/Links Interesantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes/C++/SegFault.md"
+                "file": "Lenguajes/C++/Links Interesantes.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "3cb8697befa753d7",
   "lastOpenFiles": [
-    "Lenguajes/C++/Links Interesantes.md",
     "Lenguajes/C++/SegFault.md",
+    "Lenguajes/C++/Links Interesantes.md",
     "Laburo/PDFs/Nuevos Pdfs.md",
     "Lenguajes/Conceptos Generales/Padding.md",
     "Facultad/Taller de Programación/MC Manejo de memoria en C++.md",

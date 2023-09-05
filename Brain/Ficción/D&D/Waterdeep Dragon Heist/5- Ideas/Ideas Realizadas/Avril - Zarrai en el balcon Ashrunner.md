@@ -41,7 +41,7 @@ Durante la caída, quiero que Zarrai reflexione sobre su vida, recondándole tod
 ---
 *2023-07-27*
 
-Quiero agregar a [[Goberto el Goblin (Shock)]] en esta escena. Ambos van a estar en los palcos revisando por ahí
+Quiero agregar a [[Goberto el Goblin]] en esta escena. Ambos van a estar en los palcos revisando por ahí
 
 ---
 *2023-08-06*

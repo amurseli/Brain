@@ -1,3 +1,7 @@
+---
+aliases:
+  - Shock
+---
 
 ### Entrada
 Goberto el Goblin, conocido como “Orejón” en su pueblo. Es un [[Fighter]] [[Samurai (Subclass)]]. 

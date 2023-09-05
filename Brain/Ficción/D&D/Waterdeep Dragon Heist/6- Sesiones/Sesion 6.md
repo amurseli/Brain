@@ -16,7 +16,7 @@ El grupo se reune para organizarse en la tabera. Ahí le pregunta a Lif que quie
 
 Oro, enojadísimo, va a hablar con [[Vincent Trench]] en el [[Ojo de Tigre]] para que investigue a este tipo y el asunto del mazo de cartas, le cobra 7 dragones y le dice que tendrá noticias para mañana a la noche.
 
-La party, separados, salen hacia la [[Fortaleza Ashrunner]] (antes lander y oro tocan el timbre de una vecina para probar algo) y se encuentran con [[Goberto el Goblin (Shock)]], que está encapuchado y también consiguió el mismo trabajo que la party.
+La party, separados, salen hacia la [[Fortaleza Ashrunner]] (antes lander y oro tocan el timbre de una vecina para probar algo) y se encuentran con [[Goberto el Goblin]], que está encapuchado y también consiguió el mismo trabajo que la party.
 
 Luego de un rato, conocen a [[Constanza Ashrunner]], que parece ni siquiera querer ver a Oro. Les da instrucciones a todos de donde tienen que ir, que tienen que hacer y como vestir. Les da armas a cada uno.
 

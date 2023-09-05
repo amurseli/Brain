@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md"
               }
             }
           },
@@ -170,12 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6816e75aee07d7f4",
+  "active": "45b2426d6caaf190",
   "lastOpenFiles": [
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
     "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Talisolvanar ”Tally” Fellbranch.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin (Shock).md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
@@ -209,7 +210,6 @@
     "z_attachments/D&D/squiddly.png",
     "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
     "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew",
     "z_attachments/D&D/Shock2.jpg",
     "z_attachments/Daily Note Images/Dwaing.png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",

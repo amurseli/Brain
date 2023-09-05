@@ -21,7 +21,7 @@ Envuelto en la oscuridad, Oro empieza a sentir puñaladas, en su pecho pierna de
 
 Al acabar el hechizo, Oro ve, en shock, el escenario delante de sus ojos. Lord Fourier Ashrunner, descuartizado, yace en el piso, con cientos de puñaladas de espada. Nemeia y Zarrai ven a un grupo de personas correr al balcón.
 
-También en la pista de baile, 7 [[Shadow|sombras]] emergen del suelo, atacando a los invitados. A la pelea se unen todo el grupo menos Zarrai, [[Renaer Neverember]], cuatro guardias y [[Goberto el Goblin (Shock)]]. Mientras tanto, Zarrai persigue a los sospechosos al balcón.
+También en la pista de baile, 7 [[Shadow|sombras]] emergen del suelo, atacando a los invitados. A la pelea se unen todo el grupo menos Zarrai, [[Renaer Neverember]], cuatro guardias y [[Goberto el Goblin]]. Mientras tanto, Zarrai persigue a los sospechosos al balcón.
 
 Una de las mujeres, Avril, da un paso al frente, interrumpiendo un primer ataque de la otra mujer. Le dice a Zarrai que se marche, que no tiene ninguna oportunidad con gente como ellos. Cuando Zarrai está por irse, Avirl le cierra la puerta, se ríe, y comienza la batalla. Avril gana en el primer turno, pero dice que no va a matar a Zarrai por pedido de alguien llamado “Kama”. Lo apuñala con sus espadas de viento y le hechiza con algo llamado “Viento Honesto”.
 
