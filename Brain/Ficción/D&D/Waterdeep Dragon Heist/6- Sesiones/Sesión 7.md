@@ -23,7 +23,7 @@ Al acabar el hechizo, Oro ve, en shock, el escenario delante de sus ojos. Lord F
 
 También en la pista de baile, 7 [[Shadow|sombras]] emergen del suelo, atacando a los invitados. A la pelea se unen todo el grupo menos Zarrai, [[Renaer Neverember]], cuatro guardias y [[Goberto el Goblin]]. Mientras tanto, Zarrai persigue a los sospechosos al balcón.
 
-Una de las mujeres, Avril, da un paso al frente, interrumpiendo un primer ataque de la otra mujer. Le dice a Zarrai que se marche, que no tiene ninguna oportunidad con gente como ellos. Cuando Zarrai está por irse, Avirl le cierra la puerta, se ríe, y comienza la batalla. Avril gana en el primer turno, pero dice que no va a matar a Zarrai por pedido de alguien llamado “Kama”. Lo apuñala con sus espadas de viento y le hechiza con algo llamado “Viento Honesto”.
+Una de las mujeres, Avril, da un paso al frente, interrumpiendo un primer ataque de la otra mujer. Le dice a Zarrai que se marche, que no tiene ninguna oportunidad con gente como ellos. Cuando Zarrai está por irse, Avril le cierra la puerta, se ríe, y comienza la batalla. Avril gana en el primer turno, pero dice que no va a matar a Zarrai por pedido de alguien llamado “Kama”. Lo apuñala con sus espadas de viento y le hechiza con algo llamado “Viento Honesto”.
 
 Le pregunta lo siguiente:
 -¿Como te llamas?
@@ -31,11 +31,20 @@ Le pregunta lo siguiente:
 
 Zarrai es incapaz de mentir, probablemente por culpa del hechizo. Avril, diciendo algo de que “quiere probar su teoría”, arroja a Zarrai por el vitral, haciendolo caer hacia una muerte absoluta. Abajo, la pelea acababa de terminar, cuando ven al cuerpo de Zarrai caer del cielo y reventar contra el suelo, explotando en pedazos.
 
-Repentinamente, Zarrai, o una versión onírica de este, es llevado a un mundo violeta, donde cientos de personas lo observan como en un teatro. Una Elfa, que se presenta como Ruthya, le dice que es admiradora suya, y que lo estuvo observando todo este tiempo. Le muestra ua serie de pantallas, en donde se ven fragmentos de su vida, presente pasado y futuro.
+Repentinamente, Zarrai, o una versión onírica de este, es llevado a un mundo violeta, donde cientos de personas lo observan como en un teatro. Una Elfa, que se presenta como Ruthya, le dice que es admiradora suya, y que lo estuvo observando todo este tiempo. Le muestra una serie de pantallas, en donde se ven fragmentos de su vida, presente pasado y futuro.
 
 Ruthya le cuenta a Zarrai que en realidad, ella lo sigue a el por culpa de su hermana, que todavía está viva en algun lugar del [[Ardeepforest]].
 
-**FALTAN COSAS**
+Ruthya le ofrece firmar un contrato, que lo convertirá en su siervo, Zarrai no lo piensa dos veces antes de firmarlo, y revivir en el mundo real justo encima de su cadaver, que todavía yacía muerto en el suelo.
 
+[[Nemeia]] consigue el anillo duplicado del cadaver de Zarrai.
+
+La  [[Guardia de la Ciudad]] irrumpe en la escena y detiene a toda la party, a excepcion de, obviamente, Zarrai, que escapa a la azotea. 
+
+Tanto [[Lander Severian]] como [[Oro Sammah]] son interrogados.
+
+Zarrai vuelve a la [[Mansión Trollskull]], para encontrarse con 3 ninños, dos [[Humano|Humanos]] y un [[Tiefling]], vagueando en la mansión vacía. Los tres tiran una bomba de humo para escapar.
+
+La sesión termina con Zarrai en las puertas de la comisaría.
 #### Meta
 2023-08-23

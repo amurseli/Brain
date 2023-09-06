@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md"
               }
             }
           },
@@ -154,8 +154,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "fantasy-content-generator:Fantasy Generators": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,32 +161,31 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "templates:Insert template": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false
+      "templates:Insert template": false
     }
   },
   "active": "45b2426d6caaf190",
   "lastOpenFiles": [
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/La Costa Espada.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Talisolvanar ”Tally” Fellbranch.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Fighter.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 7.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Ideas Realizadas/Avril - Zarrai en el balcon Ashrunner.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 7.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lif Thallyworn.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Visión interna de Kruwen.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Fighter.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Ideas Realizadas/Avril - Zarrai en el balcon Ashrunner.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
     "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md",
     "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
@@ -198,9 +195,6 @@
     "Ficción/Cloudcore/4 - Metafísica/Objetos Deuteros/Los Objetos Deuteros.md",
     "Ficción/Cloudcore/4 - Metafísica/Objetos Deuteros",
     "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 7 Notas.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Shadow.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Ideas Realizadas/Ataque a la fortaleza Ashrunner.md",
     "z_attachments/D&D/Nemeia.png",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas",

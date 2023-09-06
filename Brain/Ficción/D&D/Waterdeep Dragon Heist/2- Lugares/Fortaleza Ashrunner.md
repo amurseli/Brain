@@ -1,7 +1,7 @@
 *[[Sea Ward]]*
 
 ### Entrada
-El castillo Ashrunner es conocido en todo [[Waterdeep]] por tener uno de los salones de baile mas grande y hermoso de toda la [[Costa de la Espada]], sino de todo el mundo. Su actual dueño, [[Lord Fourier Ashrunner]] lo heredó de su familia, quienes lo construyeron hace más de dos siglos.
+El castillo Ashrunner es conocido en todo [[Waterdeep]] por tener uno de los salones de baile mas grande y hermoso de toda la [[La Costa Espada]], sino de todo el mundo. Su actual dueño, [[Lord Fourier Ashrunner]] lo heredó de su familia, quienes lo construyeron hace más de dos siglos.
 
 ### El Gran Salón
 **[[Fortaleza Ashrunner]]**
