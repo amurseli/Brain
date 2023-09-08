@@ -3,5 +3,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "buttons",
   "templater-obsidian",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "sync-graph-settings",
+  "table-editor-obsidian"
 ]

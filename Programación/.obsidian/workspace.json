@@ -4,79 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "020e0773d8a2b720",
+        "id": "652596e7af2d62f7",
         "type": "tabs",
+        "dimension": 59.517766497461935,
         "children": [
           {
-            "id": "6010c2a49b0a7945",
+            "id": "c28d0f16096d12d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laburo/PDFs/Nuevos Pdfs.md",
+                "file": "Lenguajes/C/Sockets TCP-IP en C.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "0191ba0d6f6bac82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facultad/Sistemas Operativos/Clase 1/Sistemas Operativos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6cf320662ce86e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "298b6bb4724a511d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facultad/Sistemas Operativos/Clase 1/Kernel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cb8697befa753d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lenguajes/C++/Links Interesantes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd54ff05ece15081",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            },
+            "group": "75d25636beee9a3e"
           }
         ],
-        "currentTab": 4
+        "stacked": true
+      },
+      {
+        "id": "76cf12aff7d328e0",
+        "type": "tabs",
+        "dimension": 40.48223350253807,
+        "children": [
+          {
+            "id": "7ba4b0fbd23f7235",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Lenguajes/C/Sockets TCP-IP en C.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792587,
+                  "close": true
+                }
+              }
+            },
+            "group": "75d25636beee9a3e"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "816121121bcb51f2",
@@ -142,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes/C++/Links Interesantes.md",
+                "file": "Lenguajes/C/Sockets TCP-IP en C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes/C++/Links Interesantes.md",
+                "file": "Lenguajes/C/Sockets TCP-IP en C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes/C++/Links Interesantes.md"
+                "file": "Lenguajes/C/Sockets TCP-IP en C.md"
               }
             }
           }
@@ -201,25 +191,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3cb8697befa753d7",
+  "active": "39339d170307958f",
   "lastOpenFiles": [
-    "Lenguajes/C++/SegFault.md",
-    "Lenguajes/C++/Links Interesantes.md",
+    "Lenguajes/Conceptos Generales/Sockets TCP-IP.md",
+    "Lenguajes/C/Sockets TCP-IP en C.md",
+    "Lenguajes/C",
+    "Lenguajes/Linux/Comandos de Sockets y TCP-IP.md",
+    "Lenguajes/Linux/Hexdump.md",
     "Laburo/PDFs/Nuevos Pdfs.md",
-    "Lenguajes/Conceptos Generales/Padding.md",
+    "Laburo/Twillio/Whatsapp Sender.md",
+    "Laburo/Twillio/Upgradear.md",
+    "Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Laburo/Twillio/Lambda.md",
+    "Laburo/Twillio/Conexión inicial.md",
+    "Facultad/Taller de Programación/Repaso de C.md",
     "Facultad/Taller de Programación/MC Manejo de memoria en C++.md",
+    "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
     "Facultad/Sistemas Operativos/Clase 1/Kernel.md",
+    "Lenguajes/C++/Links Interesantes.md",
+    "Facultad/Sistemas Operativos/Clase 1/Sistemas Operativos.md",
+    "Lenguajes/Linux",
+    "Lenguajes/C++/SegFault.md",
+    "Lenguajes/HTML/Handlebars.md",
+    "Lenguajes/Conceptos Generales/Padding.md",
     "Lenguajes/Conceptos Generales",
     "Lenguajes/C++",
-    "Facultad/Sistemas Operativos/Clase 1/Sistemas Operativos.md",
-    "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
-    "Facultad/Taller de Programación/Repaso de C.md",
-    "Lenguajes/HTML/Handlebars.md",
     "Lenguajes/HTML/Manipular texto.md",
-    "Laburo/Twillio/Inicio de sesión Guiado.md",
     "Lenguajes/HTML/Todos los Elementos.md",
     "Facultad/Sistemas Operativos/Clase 1",
     "Facultad/Sistemas Operativos",
@@ -229,12 +230,6 @@
     "z_images/Cvars.png",
     "z_templates",
     "Facultad/Taller de Programación",
-    "Facultad",
-    "Laburo/Twillio/Conexión inicial.md",
-    "Lenguajes/HTML",
-    "Lenguajes",
-    "Laburo/Twillio/Whatsapp Sender.md",
-    "Laburo/Twillio/Upgradear.md",
-    "Laburo/Twillio/Lambda.md"
+    "Facultad"
   ]
 }

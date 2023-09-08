@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md"
               }
             }
           },
@@ -154,6 +154,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "fantasy-content-generator:Fantasy Generators": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,8 +172,12 @@
   },
   "active": "45b2426d6caaf190",
   "lastOpenFiles": [
-    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/La Costa Espada.md",
+    "z_attachments/Phalanya Kysse Fondoless.png",
+    "z_attachments/Phalanya Kysse.png",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md",
+    "z_templates/Entity Template.md",
     "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/La Costa Espada.md",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Talisolvanar ”Tally” Fellbranch.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
@@ -191,10 +201,7 @@
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
     "Videos/Para tí, que no no tiene que jugar/Guión.md",
     "Videos/Para tí, que no no tiene que jugar",
-    "Ficción/Cloudcore/7 - Líneas de tiempo/Agitación.md",
-    "Ficción/Cloudcore/4 - Metafísica/Objetos Deuteros/Los Objetos Deuteros.md",
     "Ficción/Cloudcore/4 - Metafísica/Objetos Deuteros",
-    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 7 Notas.md",
     "z_attachments/D&D/Nemeia.png",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas",
@@ -209,8 +216,6 @@
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
     "z_attachments/D&D/ConstanzaAshrunner.jpg",
     "z_attachments/D&D/Durnan.png",
-    "z_attachments/D&D/TrollskullAlley.png",
-    "z_attachments/D&D/RenaerNeverember.png",
-    "z_attachments/D&D/SímbolosAlcantarillas.png"
+    "z_attachments/D&D/TrollskullAlley.png"
   ]
 }

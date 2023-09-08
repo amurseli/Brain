@@ -1,3 +1,7 @@
+---
+tags:
+  - Entidad
+---
 
 ### Artículo 1
 
@@ -10,5 +14,3 @@
 
 ## Statblock
 
-
-#Entidad
