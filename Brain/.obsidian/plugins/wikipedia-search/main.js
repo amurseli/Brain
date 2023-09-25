@@ -30,7 +30,7 @@ var __publicField = (obj, key, value) => {
 // src/main.ts
 var main_exports = {};
 __export(main_exports, {
-  default: () => WikipediaSearch
+  default: () => WikipediaSearchPlugin
 });
 module.exports = __toCommonJS(main_exports);
 var import_obsidian6 = require("obsidian");
@@ -380,55 +380,49 @@ var languages = {
 // src/utils/wikipediaAPI.ts
 var import_obsidian = require("obsidian");
 async function getArticles(query, languageCode) {
-  var _a;
-  const response = (_a = await (0, import_obsidian.requestUrl)(getAPIBaseURL(languageCode) + `&action=opensearch&profile=fuzzy&search=${query}`).catch(
-    (e) => {
-      console.error(e);
-      return null;
-    }
-  )) == null ? void 0 : _a.json;
-  if (!response)
-    return null;
+  const url = getAPIBaseURL(languageCode) + "&action=opensearch&profile=fuzzy&search=" + query;
+  const response = await fetchData(url);
   return response[1].map((title, index) => ({ title, url: response[3][index] }));
 }
-async function getArticleDescription(titles, languageCode) {
-  var _a;
-  const response = (_a = await (0, import_obsidian.requestUrl)(
-    getAPIBaseURL(languageCode) + `&action=query&prop=description&titles=${encodeURIComponent(titles.join("|"))}`
-  ).catch((e) => {
-    console.error(e);
-    return null;
-  })) == null ? void 0 : _a.json;
-  if (!response)
-    return null;
+async function getArticleDescriptions(titles, languageCode) {
+  const url = getAPIBaseURL(languageCode) + "&action=query&prop=description&titles=" + encodeURIComponent(titles.join("|"));
+  const response = await fetchData(url);
+  if (!response.query)
+    return [];
+  return Object.values(response.query.pages).sort((a, b) => titles.indexOf(a.title) - titles.indexOf(b.title)).map((page) => page.description || null);
+}
+async function getArticleIntros(titles, languageCode) {
+  const url = getAPIBaseURL(languageCode) + "&action=query&prop=extracts&exintro&explaintext&titles=" + encodeURIComponent(titles.join("|"));
+  const response = await fetchData(url);
   if (!response.query)
     return [];
   return Object.values(response.query.pages).sort((a, b) => titles.indexOf(a.title) - titles.indexOf(b.title)).map((page) => {
-    var _a2;
-    return (_a2 = page.description) != null ? _a2 : null;
+    var _a;
+    return (_a = page.extract) != null ? _a : null;
   });
 }
-async function getArticleIntro(titles, languageCode) {
-  var _a;
-  const response = (_a = await (0, import_obsidian.requestUrl)(
-    getAPIBaseURL(languageCode) + `&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=${encodeURIComponent(
-      titles.join("|")
-    )}`
-  ).catch((e) => {
-    console.error(e);
-    return null;
-  })) == null ? void 0 : _a.json;
-  if (!response)
-    return null;
+async function getArticleThumbnails(titles, languageCode) {
+  const url = getAPIBaseURL(languageCode) + "&action=query&prop=pageimages&piprop=original|name&pilicense=any&titles=" + encodeURIComponent(titles.join("|"));
+  const response = await fetchData(url);
   if (!response.query)
-    return [];
+    return null;
   return Object.values(response.query.pages).sort((a, b) => titles.indexOf(a.title) - titles.indexOf(b.title)).map((page) => {
-    var _a2;
-    return (_a2 = page.extract) != null ? _a2 : null;
+    var _a, _b;
+    return (_b = (_a = page.original) == null ? void 0 : _a.source) != null ? _b : null;
   });
 }
 function getAPIBaseURL(languageCode) {
   return `https://${languageCode}.wikipedia.org/w/api.php?format=json`;
+}
+async function fetchData(url) {
+  var _a;
+  const response = (_a = await (0, import_obsidian.requestUrl)(url).catch((e) => {
+    console.error(e);
+    return null;
+  })) == null ? void 0 : _a.json;
+  if (!response)
+    return null;
+  return response;
 }
 
 // src/utils/searchModal.ts
@@ -476,7 +470,7 @@ var SearchModal = class extends import_obsidian2.SuggestModal {
     }
     this.emptyStateText = "No results found.";
     const searchResponses = await getArticles(query, languageCode);
-    const descriptions = await getArticleDescription(
+    const descriptions = await getArticleDescriptions(
       (_c = searchResponses == null ? void 0 : searchResponses.map((a) => a.title)) != null ? _c : [],
       languageCode
     );
@@ -537,18 +531,26 @@ var TemplateModal = class extends import_obsidian3.SuggestModal {
   }
 };
 async function insert(editor, settings, article, templateString) {
-  var _a, _b, _c;
+  var _a, _b, _c, _d, _e;
   const selection = editor.getSelection();
   let insert2 = templateString.replaceAll("{title}", settings.prioritizeArticleTitle || selection === "" ? article.title : selection).replaceAll("{url}", article.url).replaceAll("{description}", (_a = article.description) != null ? _a : "").replaceAll("{language}", languages[article.languageCode]).replaceAll("{languageCode}", article.languageCode);
   if (templateString.includes("{intro}")) {
-    const intro = (_c = (_b = await getArticleIntro([article.title], settings.language)) == null ? void 0 : _b[0]) != null ? _c : null;
-    if (intro)
-      insert2 = insert2.replaceAll("{intro}", intro);
-    else
-      new import_obsidian3.Notice("Could not fetch the articles introduction...");
+    const intro = (_c = (_b = await getArticleIntros([article.title], settings.language)) == null ? void 0 : _b[0]) != null ? _c : null;
+    insert2 = insert2.replaceAll("{intro}", intro != null ? intro : "");
+    if (!intro)
+      new import_obsidian3.Notice("Could not fetch the articles introduction.");
+  }
+  if (templateString.includes("{thumbnail}")) {
+    const thumbnailUrl = (_e = (_d = await getArticleThumbnails([article.title], settings.language)) == null ? void 0 : _d[0]) != null ? _e : null;
+    insert2 = insert2.replaceAll(
+      "{thumbnail}",
+      thumbnailUrl ? `![${article.title} Thumbnail${settings.thumbnailWidth ? ` | ${settings.thumbnailWidth}` : ""}](${thumbnailUrl})` : ""
+    );
+    if (!thumbnailUrl)
+      new import_obsidian3.Notice("Could not fetch the articles thumbnail.");
   }
   if (templateString.includes("{description}") && !article.description)
-    new import_obsidian3.Notice("The article has no description...");
+    new import_obsidian3.Notice("The article has no description.");
   const cursorPosition = editor.getCursor();
   editor.replaceSelection(insert2);
   if (settings.placeCursorInfrontOfInsert)
@@ -560,13 +562,15 @@ var import_obsidian4 = require("obsidian");
 var DEFAULT_SETTINGS = {
   language: "en",
   defaultTemplate: "[{title}]({url})",
+  thumbnailWidth: null,
   templates: [],
   additionalTemplatesEnabled: false,
   prioritizeArticleTitle: false,
   placeCursorInfrontOfInsert: false,
   autoInsertSingleResponseQueries: false,
   openArticleInFullscreen: false,
-  openArticleLinksInBrowser: false
+  openArticlesInBrowser: false,
+  showedSurfingMessage: false
 };
 var WikipediaSearchSettingTab = class extends import_obsidian4.PluginSettingTab {
   constructor(app2, plugin) {
@@ -595,10 +599,16 @@ var WikipediaSearchSettingTab = class extends import_obsidian4.PluginSettingTab 
       })
     );
     new import_obsidian4.Setting(containerEl).setName(`${settings.additionalTemplatesEnabled ? "Default " : ""}Template`).setDesc(
-      "The template for the insert. (all occurrences of '{title}', '{url}', '{language}', '{languageCode}', '{description} and '{intro}' will be replaced with the articles title (or the selection), url, language, language code, description (if available) and intro (first section) respectively)"
+      "The template for the insert. All occurrences of '{title}', '{url}', '{language}', '{languageCode}', '{description}', '{intro}' and '{thumbnail}' will be replaced with the articles title (or the selection), url, language, language code, description (if available), intro (first section) and thumbnail embed (if available) respectively."
     ).addTextArea(
       (text) => text.setPlaceholder("Template").setValue(settings.defaultTemplate).onChange(async (value) => {
         settings.defaultTemplate = value;
+        await this.plugin.saveSettings();
+      })
+    );
+    new import_obsidian4.Setting(containerEl).setName("Thumbnail Width").setDesc("The width of the thumbnail in pixels. Leave empty to use the original size.").addText(
+      (text) => text.setPlaceholder("Width").setValue(settings.thumbnailWidth ? settings.thumbnailWidth.toString() : "").onChange(async (value) => {
+        settings.thumbnailWidth = parseInt(value);
         await this.plugin.saveSettings();
       })
     );
@@ -668,86 +678,81 @@ var WikipediaSearchSettingTab = class extends import_obsidian4.PluginSettingTab 
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian4.Setting(containerEl).setName("Open Article In ...").setDesc("Whether or not to open links to articles in the browser instead of in-app.").addToggle(
-      (toggle) => toggle.setValue(settings.openArticleLinksInBrowser).onChange(async (value) => {
-        settings.openArticleLinksInBrowser = value;
+    new import_obsidian4.Setting(containerEl).setName("Open Article In Browser").setDesc(
+      "Whether or not to open articles in the browser instead of in-app if the Surfing plugin is installed and enabled."
+    ).addToggle(
+      (toggle) => toggle.setValue(settings.openArticlesInBrowser).onChange(async (value) => {
+        settings.openArticlesInBrowser = value;
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian4.Setting(containerEl).setName("Article Tab Placement").setDesc("Whether or not to open articles in a fullscreen tab instead of a split view.").addToggle(
+    new import_obsidian4.Setting(containerEl).setName("Article Tab Placement").setDesc(
+      "Whether or not to open articles in a fullscreen tab instead of a split view when using the Surfing plugin."
+    ).addToggle(
       (toggle) => toggle.setValue(settings.openArticleInFullscreen).onChange(async (value) => {
         settings.openArticleInFullscreen = value;
         await this.plugin.saveSettings();
       })
     );
-    containerEl.createEl("br");
-    containerEl.createEl("hr");
-    containerEl.createEl("h2", { text: "Feedback, Bug Reports and Feature Requests \u{1F33F}" });
-    const feedbackParagraph = containerEl.createEl("p");
-    feedbackParagraph.setText(
-      "If you have any kind feedback, please let me know! I want to make this plugin as useful as possible for everyone. I love to hear about your ideas for new features and all the bugs you found. Don't be shy! Just create an issue "
-    );
-    feedbackParagraph.createEl("a", {
-      text: "on GitHub",
-      href: "https://github.com/StrangeGirlMurph/obsidian-wikipedia-search"
-    });
-    feedbackParagraph.appendText(" and I'll get back to you ASAP. ~ Murphy :)");
-    containerEl.appendChild(feedbackParagraph);
-    containerEl.createEl("p", { text: "PS: Wikipedia also has a dark mode for everyone with an account." });
+    const appendix = `
+		<h2>Feedback, Bug Reports and Feature Requests \u{1F33F}</h2>
+		<p>If you have any kind of feedback, please let me know! I want to make this plugin as useful as possible for everyone. I love to hear about your ideas for new features and all the bugs you found. Don't be shy! Just create an issue <a href="https://github.com/StrangeGirlMurph/obsidian-wikipedia-search">on GitHub</a> and I'll get back to you ASAP. ~ Murphy :)</p>
+		<p>PS: Wikipedia also has a dark mode for everyone with an account.</p>`;
+    containerEl.createEl("div").innerHTML = appendix;
   }
 };
 
 // src/commands/openArticles.ts
 var import_obsidian5 = require("obsidian");
-async function openArticleView(workspace, settings, article) {
-  const leaf = await workspace.getLeaf(settings.openArticleInFullscreen ? "tab" : "split");
-  leaf.setViewState({
-    type: WIKIPEDIA_VIEW,
-    active: true,
-    state: { input: article }
-  });
-}
 var OpenArticleModal = class extends SearchModal {
-  constructor(app2, settings) {
-    super(app2, settings);
+  constructor(plugin, settings) {
+    super(app, settings);
     __publicField(this, "workspace");
-    this.workspace = app2.workspace;
+    __publicField(this, "plugin");
+    this.workspace = app.workspace;
+    this.plugin = plugin;
   }
   async onChooseSuggestion(article) {
-    openArticleView(this.workspace, this.settings, article);
+    if (app.plugins.enabledPlugins.has("surfing") && !this.settings.openArticlesInBrowser) {
+      app.workspace.getLeaf(this.settings.openArticleInFullscreen ? "tab" : "split").setViewState({
+        type: "surfing-view",
+        active: true,
+        state: { url: article.url }
+      });
+    } else {
+      if (this.settings.showedSurfingMessage) {
+        window.open(article.url, "_blank");
+      } else {
+        new SurfingInfoModal(article).open();
+        this.settings.showedSurfingMessage = true;
+        this.plugin.saveSettings();
+      }
+    }
   }
 };
-var WIKIPEDIA_VIEW = "wikipedia-article-view";
-var WikipediaView = class extends import_obsidian5.ItemView {
-  constructor(leaf) {
-    super(leaf);
+var SurfingInfoModal = class extends import_obsidian5.Modal {
+  constructor(article) {
+    super(app);
     __publicField(this, "article");
+    this.article = article;
   }
-  async setState(state, result) {
-    await super.setState(state, result);
-    this.article = state.input;
-    const container = this.containerEl;
-    container.empty();
-    const frame = document.createElement("iframe");
-    frame.setAttr("style", "height: 100%; width: 100%");
-    frame.setAttr("src", this.article.url);
-    container.appendChild(frame);
+  onOpen() {
+    const surfingLink = `<a href="obsidian://show-plugin?id=surfing">Surfing plugin</a>`;
+    const data = `<h2>Wikipedia Search plugin \u2665 ${surfingLink}</h2>
+			<p>The Wikipedia Search plugin integrates with the amazing Surfing plugin to enable you to open Wikipedia articles directly inside of Obsidian! You just need to install and enable it. It has tons of awesome features and does the heavy lifting of loading the website itself in Obsidian. In this case the Wikipedia Search plugin just provides the search functionality. Using the Surfing plugin is completely optional but I highly recommend you check it out! Note: This will only be shown to you once but you can always find the information later in the README on GitHub as well. ~ Murphy :)</p>
+			<b>tl;dr: Install and enable the amazing ${surfingLink} to open Wikipedia articles directly inside of Obsidian!</b>`;
+    this.contentEl.innerHTML = data;
   }
-  getState() {
-    return Object.assign(super.getState(), { input: this.article });
-  }
-  getIcon() {
-    return "wikipedia";
-  }
-  getViewType() {
-    return WIKIPEDIA_VIEW;
-  }
-  getDisplayText() {
-    if (!this.article)
-      return "";
-    return `${this.article.title} - Wikipedia`;
-  }
-  async onOpen() {
+  onClose() {
+    if (app.plugins.enabledPlugins.has("surfing")) {
+      app.workspace.getLeaf("split").setViewState({
+        type: "surfing-view",
+        active: true,
+        state: { url: this.article.url }
+      });
+    } else {
+      window.open(this.article.url, "_blank");
+    }
   }
 };
 
@@ -757,58 +762,29 @@ var wikipediaIcon = `<path fill="currentColor"" d="M 75.679688 18.679688 L 75.67
 
 // src/main.ts
 var originalOpen = window.open;
-var WikipediaSearch = class extends import_obsidian6.Plugin {
+var WikipediaSearchPlugin = class extends import_obsidian6.Plugin {
   constructor() {
     super(...arguments);
     __publicField(this, "settings");
   }
   async onload() {
     console.log("loading wikipedia-search plugin");
-    window.open = (URL, target, features) => {
-      if (this.settings.openArticleLinksInBrowser || !URL)
-        return originalOpen(URL, target, features);
-      const url = URL.toString() || "";
-      if (!url.match(/https?\:\/\/([\w]+).wikipedia.org\/wiki\//g))
-        return originalOpen(URL, target, features);
-      if (!window.navigator.onLine) {
-        new import_obsidian6.Notice("You're currently offline...");
-        return null;
-      }
-      (0, import_obsidian6.requestUrl)({ url, method: "HEAD" }).catch((e) => e).then((res) => {
-        if (res.status != 200) {
-          new import_obsidian6.Notice("Article doesn't exist...");
-        } else {
-          openArticleView(this.app.workspace, this.settings, {
-            title: decodeURIComponent(url.split("/").pop().replaceAll("_", " ")),
-            url
-          });
-        }
-      });
-      return null;
-    };
     await this.loadSettings();
-    this.registerView(WIKIPEDIA_VIEW, (leaf) => new WikipediaView(leaf));
     this.addCommand({
       id: "link-article",
       name: "Link Article",
       editorCallback: (editor) => {
-        new LinkingModal(this.app, this.settings, editor).open();
+        new LinkingModal(app, this.settings, editor).open();
       }
     });
     this.addCommand({
       id: "open-article",
       name: "Open Article",
-      callback: () => {
-        new OpenArticleModal(this.app, this.settings).open();
-      }
+      callback: () => new OpenArticleModal(this, this.settings).open()
     });
     (0, import_obsidian6.addIcon)("wikipedia", wikipediaIcon);
-    this.addRibbonIcon(
-      "wikipedia",
-      "Open Article",
-      () => new OpenArticleModal(this.app, this.settings).open()
-    );
-    this.addSettingTab(new WikipediaSearchSettingTab(this.app, this));
+    this.addRibbonIcon("wikipedia", "Open Article", () => new OpenArticleModal(this, this.settings).open());
+    this.addSettingTab(new WikipediaSearchSettingTab(app, this));
   }
   onunload() {
     window.open = originalOpen;

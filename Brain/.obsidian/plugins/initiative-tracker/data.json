@@ -86,16 +86,15 @@
   ],
   "unconsciousId": "Unconscious",
   "version": [
-    11,
+    12,
     2,
-    0
+    4
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
   "sync": false,
-  "leafletIntegration": false,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
@@ -129,6 +128,7 @@
   "useLegacy": false,
   "diplayPlayerHPValues": true,
   "rollHP": false,
+  "descending": true,
   "builder": {
     "showParty": true,
     "showXP": true,
@@ -155,5 +155,7 @@
         "type": 0
       }
     ]
-  }
+  },
+  "rollPlayerInitiatives": 0,
+  "leafletIntegration": false
 }

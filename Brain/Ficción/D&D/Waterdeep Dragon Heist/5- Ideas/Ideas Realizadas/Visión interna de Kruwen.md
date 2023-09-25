@@ -15,3 +15,17 @@ En algún momento, El va a ir solo, o acompañado hacia la iglesia de Gond, en e
 ---
 *2023-08-29*
 
+Esta idea esta realizada, al final salio bastante diferente a lo esperado. Improvisé bastante. Kruwen se encontró en un desierto en el que caminó por horas, hasta encontrarse con [[Tyr]], y 5 cadáveres.
+Tyr estaba tocando un instrumeto extraño, y le contó que los cadaveres que lso rodeaban eran los cadaveres de varios dioses.
+
+- [[Natanatan]]
+- [[Lathander]]
+- [[Gond]]
+- [[Shar]]
+- [[Selúne]]
+
+Algo extraño, negro y poderoso los había matado. Tyr también había sido golpeado, pero no había muerto todavía
+
+---
+*2023-09-25*
+

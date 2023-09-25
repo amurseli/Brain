@@ -5,3 +5,14 @@ Cada vez que cumpla los requisítos, un holograma de él mismo del pasado se le 
 ---
 *2023-08-23*
 
+Ya puse en marcha esta idea, e improvisé bastante los ingredientes para realizar el ritual, por ahora son los siguientes.
+- Un cadáver (Si se parece a Lander, puntos extra)
+- Un diamante, un Granate y un Zafiro. (Como el que [[Rishaal]] tiene en [[¡El Tesoro de Wyrm el Libro!]])
+- Hoja de papel (o un lugar donde escribir)
+- El Ojo tiene que disipar exitosamente 10 hechizos.
+
+El ojo uso como analogía un cofre cerrado con llave, al que se le hacen agujeros para recuperar los recuerdos.
+
+---
+*2023-09-25*
+

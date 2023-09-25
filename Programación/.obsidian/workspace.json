@@ -14,14 +14,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/C/Sockets TCP-IP en C.md",
+                "file": "Laburo/Lambda.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "75d25636beee9a3e"
+          },
+          {
+            "id": "54a647928066bf41",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       },
       {
@@ -35,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lenguajes/C/Sockets TCP-IP en C.md",
+                "file": "Laburo/Lambda.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "816121121bcb51f2",
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes/C/Sockets TCP-IP en C.md",
+                "file": "Laburo/Step-Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes/C/Sockets TCP-IP en C.md",
+                "file": "Laburo/Step-Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes/C/Sockets TCP-IP en C.md"
+                "file": "Laburo/Step-Functions.md"
+              }
+            }
+          },
+          {
+            "id": "0d7e11b5e6205be1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -195,10 +215,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39339d170307958f",
+  "active": "54a647928066bf41",
   "lastOpenFiles": [
-    "Lenguajes/Conceptos Generales/Sockets TCP-IP.md",
+    "Laburo/Lambda.md",
+    "Laburo/Step-Functions.md",
     "Lenguajes/C/Sockets TCP-IP en C.md",
+    "Lenguajes/Conceptos Generales/Sockets TCP-IP.md",
     "Lenguajes/C",
     "Lenguajes/Linux/Comandos de Sockets y TCP-IP.md",
     "Lenguajes/Linux/Hexdump.md",
@@ -206,7 +228,6 @@
     "Laburo/Twillio/Whatsapp Sender.md",
     "Laburo/Twillio/Upgradear.md",
     "Laburo/Twillio/Inicio de sesión Guiado.md",
-    "Laburo/Twillio/Lambda.md",
     "Laburo/Twillio/Conexión inicial.md",
     "Facultad/Taller de Programación/Repaso de C.md",
     "Facultad/Taller de Programación/MC Manejo de memoria en C++.md",
