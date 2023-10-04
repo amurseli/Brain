@@ -3,6 +3,7 @@ aliases:
   - Ardeep
   - Bosque Lejano
   - Reino de la Luna Profunda
+  - Ardeepforest
 tags:
   - Lugar
 ---
@@ -16,7 +17,7 @@ Una serie de [[Torres Flotantes]] han sido observadas sobre Ardeep en varias oca
 
 
 ### Lugares Inferiores
-- Lugar1
+- [[Fortaleza de Paladeas]]
 - Lugar2
 - Lugar3
 

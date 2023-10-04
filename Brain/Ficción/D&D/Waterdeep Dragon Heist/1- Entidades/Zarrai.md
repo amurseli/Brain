@@ -1,3 +1,7 @@
+---
+aliases:
+  - Zarrai Ozris
+---
 
 ### Backstory
 *[[La Costa Espada]]*
@@ -21,6 +25,7 @@ Zarrai corrió sin mirar atrás, abandonando todo lo que había creído una vez 
 Zarrai no fue el más fuerte esa noche tampoco, pero juró, por lo menos, no volver a correr.
 
 
+![[Zarrai Ozris Token.png]]
 ### Themes
 
 ```spotify
