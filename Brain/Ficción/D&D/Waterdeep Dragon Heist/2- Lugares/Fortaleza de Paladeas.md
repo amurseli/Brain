@@ -55,7 +55,7 @@ Si los jugadores decidieron hacer una investigacion a fondo DC 16 Pueden encontr
 ##### 8 Cuarto de paso
 Este cuarto también esta vacío, pero se escuchan chirrídos horribles viniendo de la habitación **9**
 
-##### 9 Sala del trono.
+##### 9 Sala del trono
 Una sala gigante, pero vacía, decorada con oro y cobre, columnas se abren delante, a sus lados pequeños asientos, que apuntan a un trono enorme, con un esqueleto gigante sentado allí. Sin corona, el esqueleto tiene varios anillos y esta sentado sobre una pila de 30 piezas de oro.
 
 Si los jugadores intentas sacarla, deben superar una prueba de DC18 Sleight of Hand o enfrentarse a un [[Minotauro Esqueleto]].
