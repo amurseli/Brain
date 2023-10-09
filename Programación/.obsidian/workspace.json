@@ -14,20 +14,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laburo/Lambda.md",
+                "file": "Laburo/Twillio/Whatsapp Sender.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "75d25636beee9a3e"
+            }
           },
           {
-            "id": "54a647928066bf41",
+            "id": "b29b0f5fa5c2cd94",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Laburo/Step-Functions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Laburo/Lambda.md",
+                "file": "Laburo/Step-Functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,8 +74,7 @@
                   "close": true
                 }
               }
-            },
-            "group": "75d25636beee9a3e"
+            }
           }
         ]
       }
@@ -215,20 +215,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54a647928066bf41",
+  "active": "b29b0f5fa5c2cd94",
   "lastOpenFiles": [
-    "Laburo/Lambda.md",
+    "Laburo/Twillio/Whatsapp Sender.md",
+    "Laburo/Twillio/Inicio de sesión Guiado.md",
+    "Laburo/Twillio/Conexión inicial.md",
+    "Laburo/AWS/Lambda.md",
     "Laburo/Step-Functions.md",
+    "Laburo/Twillio/Messaging Services.md",
+    "Laburo/AWS",
+    "Laburo/Twillio/Mensaje con Contenido Media.md",
+    "Laburo/Twillio/Upgradear.md",
     "Lenguajes/C/Sockets TCP-IP en C.md",
     "Lenguajes/Conceptos Generales/Sockets TCP-IP.md",
     "Lenguajes/C",
     "Lenguajes/Linux/Comandos de Sockets y TCP-IP.md",
     "Lenguajes/Linux/Hexdump.md",
     "Laburo/PDFs/Nuevos Pdfs.md",
-    "Laburo/Twillio/Whatsapp Sender.md",
-    "Laburo/Twillio/Upgradear.md",
-    "Laburo/Twillio/Inicio de sesión Guiado.md",
-    "Laburo/Twillio/Conexión inicial.md",
     "Facultad/Taller de Programación/Repaso de C.md",
     "Facultad/Taller de Programación/MC Manejo de memoria en C++.md",
     "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
@@ -250,7 +253,6 @@
     "z_images",
     "z_images/Cvars.png",
     "z_templates",
-    "Facultad/Taller de Programación",
-    "Facultad"
+    "Facultad/Taller de Programación"
   ]
 }
