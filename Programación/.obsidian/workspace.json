@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laburo/Step-Functions.md",
+                "file": "Facultad/Sistemas Operativos/Variables de entorno.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Laburo/Step-Functions.md",
+                "file": "Facultad/Sistemas Operativos/Variables de entorno.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laburo/Step-Functions.md",
+                "file": "Facultad/Sistemas Operativos/Variables de entorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laburo/Step-Functions.md",
+                "file": "Facultad/Sistemas Operativos/Variables de entorno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laburo/Step-Functions.md"
+                "file": "Facultad/Sistemas Operativos/Variables de entorno.md"
               }
             }
           },
@@ -217,11 +217,12 @@
   },
   "active": "b29b0f5fa5c2cd94",
   "lastOpenFiles": [
+    "Laburo/Step-Functions.md",
+    "Facultad/Sistemas Operativos/Variables de entorno.md",
     "Laburo/Twillio/Whatsapp Sender.md",
     "Laburo/Twillio/Inicio de sesión Guiado.md",
     "Laburo/Twillio/Conexión inicial.md",
     "Laburo/AWS/Lambda.md",
-    "Laburo/Step-Functions.md",
     "Laburo/Twillio/Messaging Services.md",
     "Laburo/AWS",
     "Laburo/Twillio/Mensaje con Contenido Media.md",
