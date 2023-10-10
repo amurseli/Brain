@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Opening Day.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Opening Day.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -238,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -255,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Opening Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Opening Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Opening Day.md"
               }
             }
           },
@@ -376,12 +375,13 @@
   },
   "active": "6f78a5dc24e7489b",
   "lastOpenFiles": [
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Opening Day.md",
     "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Fortaleza de Paladeas.md",
     "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Anguila Gigante.md",
     "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 10 notas.md",
     "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Fell y Row.md",
     "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Minotauro Esqueleto.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
     "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Esqueleto a Caballo.md",
     "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Esqueletos.md",
     "z_attachments/D&D/Fell y Row.png",
