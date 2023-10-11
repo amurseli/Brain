@@ -12,6 +12,11 @@ Buscando información durante sus viajes de lugares posiblemente encantados, par
 [[Volothamp Geddarm]] cedió la propiedad de la mansión a [[Oro Sammah]], [[Lander Severian]], [[Nemeia]], [[Kruwen Ferropie]] y [[Zarrai]], en partes iguales.
 
 ### Planos
+
+Renovacion Parcial
+![[z_attachments/Trollskull Renovated (partial).png]]
+
+
 ![[Waterdeep Dragon Heist Book.pdf#page=224]]
 
 
