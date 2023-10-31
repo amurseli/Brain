@@ -1,0 +1,9 @@
+¿Que tan lejos llegarías por venganza?
+¿Matarías a quien se te interpusiese, incluso destruyendo todo en lo que creés?
+¿O trabajarías por un mañana mjor, donde nadie sufra lo que vos sufirste?
+Estas son preguntas que hace Mageseeker, el juego de Digital Sun y Riot Forge, ambientado en el mundo de Runaterra.
+¿Y las responde?
+…
+…
+…
+Mehhhhh
