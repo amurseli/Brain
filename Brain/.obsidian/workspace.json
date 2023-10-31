@@ -4,22 +4,166 @@
     "type": "split",
     "children": [
       {
-        "id": "b75b8393e261ee07",
+        "id": "1334946d7ca58170",
         "type": "tabs",
+        "dimension": 52.57510729613733,
         "children": [
           {
-            "id": "8b71a7e7aa406643",
+            "id": "74258c1f9f0e4421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Mageseeker Video/Short Version.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aab34ba23f7affac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82e11ab79f8fc6cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0331606de79205c9",
+        "type": "split",
+        "dimension": 47.42489270386266,
+        "children": [
+          {
+            "id": "8553c9b64429f3d6",
+            "type": "tabs",
+            "dimension": 37.59469696969697,
+            "children": [
+              {
+                "id": "60ef754364b93098",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.06699744995282429,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "fcca584176bf3cc0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f5d5c7d11c1ff89a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Esqueletos.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "962d52c007e920d3",
+            "type": "tabs",
+            "dimension": 62.40530303030303,
+            "children": [
+              {
+                "id": "60038ef14492be39",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5f3c1b07babdc7eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cd187a959b7facbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -48,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 297.5
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -85,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Mageseeker Video/Short Version.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/Mageseeker Video/Short Version.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +269,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Mageseeker Video/Short Version.md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md"
               }
-            }
-          },
-          {
-            "id": "45f16e2740ad8887",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
             }
           },
           {
@@ -146,13 +282,44 @@
             }
           },
           {
-            "id": "08c1b5ed23438025",
+            "id": "04898af76650915c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "3cf8d1154627571c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "62398d13aa4d0379",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "584000631febbe62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ac2184c15ab224",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
             }
           }
         ]
@@ -164,12 +331,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "fantasy-content-generator:Fantasy Generators": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,48 +339,89 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "templates:Insert template": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8b71a7e7aa406643",
+  "floating": {
+    "id": "9142ab31ca30cd0a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c08959aef3bdff4a",
+        "type": "window",
+        "children": [
+          {
+            "id": "9124dd0cb62a592b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa460e5721b56ea5",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 586,
+        "y": 215,
+        "width": 748,
+        "height": 609,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "aab34ba23f7affac",
   "lastOpenFiles": [
-    "Videos/Mageseeker Video/Short Version.md",
-    "Videos/Mageseeker Video/Short Version.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Grum' Shar.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones/Alianza de Lores.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones/Zentharim.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos/Piedra de Golorr.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 7.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/Últimas Palabras.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Ideas Realizadas/Ataque a la fortaleza Ashrunner.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Jenks.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Nat.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Squiddly.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Zirzaj.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Casa de las Manos Inspiradas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md",
+    "Videos/Mageseeker Video/Short Version.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias/Gralhund.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Nimblewright.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 10 notas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Fortaleza de Paladeas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 7.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 9.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/0 - Timeline.md",
     "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
-    "z_attachments/Trollskull Renovated (partial).png",
-    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/La Costa Espada.md",
+    "z_attachments/D&D/TrollskullAlley.png",
     "z_attachments/D&D/Trollskull Renovated (partial).png",
-    "z_attachments/D&D/Trollskull Present.png",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Opening Day.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Talisolvanar ”Tally” Fellbranch.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
-    "z_attachments/Pasted image 20231007023333.png",
-    "z_attachments/Pasted image 20231007022738.png",
-    "z_attachments/D&D/Zarrai Ozris Token.png",
+    "z_attachments/D&D/MansiónTrollskullAfuera.png",
+    "z_attachments/Trollskull Renovated (partial).png",
+    "z_attachments/D&D/Fell y Row.png",
     "z_attachments/D&D/Phalanya Kysse.png",
     "z_attachments/D&D/Phalanya Kysse Fondoless.png",
-    "z_attachments/D&D/Oro Token.png",
-    "z_attachments/D&D/Nemeia Token.png",
-    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "z_attachments/Pasted image 20231007023333.png",
+    "z_attachments/Pasted image 20231007022738.png",
+    "z_attachments/D&D/Fortaleza de Paladeas map.png",
     "Videos/Para tí, que no no tiene que jugar",
     "Ficción/Cloudcore/4 - Metafísica/Objetos Deuteros",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades",
@@ -227,7 +429,6 @@
     "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas",
     "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias",
     "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos"
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos"
   ]
 }

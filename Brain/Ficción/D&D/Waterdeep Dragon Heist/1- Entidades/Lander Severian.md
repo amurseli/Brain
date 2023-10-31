@@ -83,13 +83,13 @@ La lluvia no ayudaba no ayudaba a la visibilidad, pero al mismo tiempo los veía
 
 El barro de las manos hacía que se resbalara de los barrotes, pero la lluvia ayudaba a ocultar las lágrimas. ¿Como pasó esto?
 
-Sokki fue el primero en saltar al ataque. Parecía cambiado, el último año sin verlo lo haía cambiado bastante, ahora tenía el pelo recortado y vestía otro tipo de ropa. Lanzó una Ola atronadora seguida de una pequeña y rápida bala de fuego. La ola levantó un tsunami de barro que explotó, llegando a mancharlo incluso a el.
+Sokki fue el primero en saltar al ataque. Parecía diferente, el último año sin verlo lo haía cambiado bastante, ahora tenía el pelo recortado y vestía otro tipo de ropa. Lanzó una Ola atronadora seguida de una pequeña y rápida bala de fuego. La ola levantó un tsunami de barro que explotó, llegando a mancharlo incluso a él.
 
 Lumen lo recibió de lleno, pero no se tambaleó, fue empujado unos centímetros atrás producto de la fricción del barro. La bola de fuego la esquivó moviendo el cuello.
 
 -No estoy acá para pelear Sokki, tampoco para recuperarte- Los gritos se perdían con el ruido -Sé que eso está fuera de mi alcance. Vengo a entender, quiero saber qué pasó en este año- Miró de reojo a Ari, que yacía a unos metros de distancia, inmóvil en el barro. El costado le sangraba y Lander se temía lo peor.
 
-La escencia de Sabott de la jaula absorbía la magia, así que sin la llave, no podía salir a ayuda a Lumen o a Ari. Su pecho ardió de furia, una que nunca había sentido. Por primera vez en su vida, quería lastimar a alguien, no por ser malo, había gente bastante mala que se había encontrado en sus viajes apenas terminó la academia; pero Sokki había traicionado su confianza de una manera que nadia había hecho antes. Esta furia, este dolor le era extraño, y por eso no podía parar de llorar.
+La escencia de Sabott de la jaula absorbía la magia, así que sin la llave, no podía salir a ayudar a Lumen o a Ari. Su pecho ardió de furia, una que nunca había sentido. Por primera vez en su vida, quería lastimar a alguien, no por ser malo, había gente bastante mala que se había encontrado en sus viajes apenas terminó la academia; pero Sokki había traicionado su confianza de una manera que nadia había hecho antes. Esta furia, este dolor le era extraño, y por eso no podía parar de llorar.
 
 Sokki llamó al [[Pacto del filo]], e invocó del aire un tridente verdeoscuro. El resplandor que emanaba pareciía fundirse con la oscuridad del cielo, y cada movimiento dejaba una estela en el aire. Los tres habían estado con el cuando logró invocar su primera daga del Filo, pequeña y endeble, que se evaporó luego de unos segundos.
 
@@ -99,9 +99,9 @@ Sokki llamó al [[Pacto del filo]], e invocó del aire un tridente verdeoscuro. 
 
 Sokki arremetió con el tridente en alto, cargando en su mano derecha con un [[Eldritch Blast]]. El arma impactó con el antebrazo de Lumen, que lo deflectó hacia el cielo.
 
-Ambos medían lo mismo, siempre habían sido más altos que Ari y Lander.
+Ambos medían lo mismo, siempre habían sido más altos que Ari y Lander. La lluvia no amainaba, caía dificultando la visibilidad y el repiqueteo de las gotas contra el techo de la jaula creaban un ruido que solo incrementaba la ansiedad de Lander más y más. Ellos eran su familia, y no entendían porque peleaban, si no hacía nada, iba a perder a alguien.
 
-Sokki apuntó su ataque sobrenatural al pecho de Lumen. Lander intentó gritó, pero entre el ruido, no se escuchó ni el mismo. A la distancia pudo notar la potencia de el impacto, todo el cuerpo del semiorco se sacudió hacia atrás. Pero Lumen permaneció de pie, mirándolo. Sokki no se sorprendió, pero si se enfureció bastante al ver que Lumen seguía actuando igual que siempre, negándose a caer con los golpes, haciéndose el fuerte. Sokki gritó, y una sucesión de unos diez disparos siguieron, algunos llegando a fallar incluso. Sokki estaba cegado por el enojo.
+Sokki apuntó su ataque sobrenatural al pecho de Lumen. Lander intentó gritar, pero entre el ruido, no se escuchó ni el mismo. A la distancia pudo notar la potencia de el impacto, todo el cuerpo del semiorco se sacudió hacia atrás. Pero Lumen permaneció de pie, mirándolo. Sokki no se sorprendió, pero si se enfureció bastante al ver que Lumen seguía actuando igual que siempre, negándose a caer con los golpes, haciéndose el fuerte. Sokki gritó, y una sucesión de unos diez disparos siguieron, algunos llegando a fallar incluso. Sokki estaba cegado por el enojo.
 
 Los que sí impactaron, Lumen intentó deflectarlos también con la armadura, en vez de esquivarlos. Podía verse mas imponente, pero estaba recibiendo mucho daño.
 

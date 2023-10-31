@@ -43,8 +43,9 @@ Estos es lo que todos dirían:
 
 - (CANTADO) "De Dock Ward la oscuridad dejé atrás, al norte llegué, un lugar sin igual. Este barrio hermoso, damas sin igual, adiós al pescado, al sol nos da paz. La luz brilla y brilla, como cerveza en cristal.".
 
-Fala les dice que vio a un cojo irse con algo que tomó de uno de lso cadáveres.
+Fala les dice que vio a algo, que no parecía ser un hombre, más una marioneta, el fue el que causó la explosión.
 
 Segundos despues, 12 guardias de la [[Guardia de la Ciudad]] llegan y acordonan toda la escena. Un [[Montagrifos]] se acerca y ronda la escena también.
 
-Veinte minutos después, [[Saeth Cromley]], sargento y [[Barnibus Blastwind]], alto miembro de la [[Observadora Orden de Magistas y Protectores]], llegan a escena.
+Veinte minutos después, [[Saeth Cromley]], sargento y [[Barnibus Blastwind]], alto miembro de la [[Observadora Orden de Magistas y Protectores]], llegan a escena y deciden interrogar a los dueños de la taberna minutos después.
+

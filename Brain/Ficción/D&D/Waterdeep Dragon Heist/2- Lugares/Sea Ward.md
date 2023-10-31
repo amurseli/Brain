@@ -5,5 +5,6 @@ El Sea Ward es el barrio más rico de todo [[Waterdeep]], a diferencia de [[Nort
 
 ### Lugares Inferiores
 - [[Fortaleza Ashrunner]]
+- [[Casa de las Manos Inspiradas]]
 
 #Lugar
