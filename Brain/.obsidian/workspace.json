@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+                "file": "Videos/Mageseeker Video/Short Version.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+                    "file": "Videos/Mageseeker Video/Short Version.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.06699744995282429,
+                      "scale": 1.4019828977761077,
                       "close": true
                     }
                   }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+                "file": "Videos/Mageseeker Video/Short Version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+                "file": "Videos/Mageseeker Video/Short Version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md"
+                "file": "Videos/Mageseeker Video/Short Version.md"
               }
             }
           },
@@ -348,45 +348,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "floating": {
-    "id": "9142ab31ca30cd0a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c08959aef3bdff4a",
-        "type": "window",
-        "children": [
-          {
-            "id": "9124dd0cb62a592b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aa460e5721b56ea5",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 586,
-        "y": 215,
-        "width": 748,
-        "height": 609,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "aab34ba23f7affac",
+  "active": "60ef754364b93098",
   "lastOpenFiles": [
-    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Videos/Mageseeker Video/Gameplay.md",
+    "Videos/Mageseeker Video/Narrativa.md",
+    "Videos/Mageseeker Video/Short Version.md",
     "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+    "Videos/Para tí, que no no tiene que jugar/Guión.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
     "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
     "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Casa de las Manos Inspiradas.md",
@@ -394,7 +363,6 @@
     "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew",
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
     "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md",
-    "Videos/Mageseeker Video/Short Version.md",
     "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias/Gralhund.md",
     "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Nimblewright.md",
     "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 10 notas.md",
@@ -410,8 +378,6 @@
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 3.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 4.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/0 - Timeline.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md",
     "z_attachments/D&D/TrollskullAlley.png",
     "z_attachments/D&D/Trollskull Renovated (partial).png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
