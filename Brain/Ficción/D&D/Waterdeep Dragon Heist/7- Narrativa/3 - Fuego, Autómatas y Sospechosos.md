@@ -2,7 +2,7 @@ El acto empieza con una descripcion de [[Zarrai]], que gracias al orbe de transp
 
 Descripción de lo que ve, hasta llegar a [[Callejón Trollskull]]:
 
-*Mientras avanzás por las concurridas calles de Waterdeep. A tu alrededor, ves a la gente de un lado a otro, desde vendedores que ofrecen sus mercancías en el mercado principal al comienzo de Caminoalto, hasta nobles elegantemente vestidos que pasean con desenfado.
+*Mientras avanzás por las concurridas calles de Waterdeep. A tu alrededor, ves a la gente moverse de un lado a otro, desde vendedores que ofrecen sus mercancías en el mercado principal al comienzo de Caminoalto, hasta nobles elegantemente vestidos que pasean con desenfado.
 
 *El sol del mediodía ilumina los edificios de piedra que se alzan a ambos lados de la avenida. Las fachadas de estos edificios están adornadas con intrincados detalles arquitectónicos, y algunos de ellos muestran letreros que anuncian tiendas de encantadoras fragancias y pociones mágicas. El aire está impregnado con los ricos aromas de las comidas que se cocinan en puestos de comida callejera, desde pasteles recién horneados hasta brochetas de carne a la parrilla.*
 
