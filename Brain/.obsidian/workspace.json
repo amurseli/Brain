@@ -38,36 +38,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Halcón.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ce22920bbdaddeb8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
-              }
-            }
-          },
-          {
-            "id": "ef302b4fe6dd0365",
+            "id": "9d19cf745d5c3873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Matón Zentharim.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faf71534c2ee498e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47413fc7ca316cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "0331606de79205c9",
@@ -85,7 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Halcón.md",
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -108,7 +122,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1.4019828977761077,
+                      "scale": 0.3628873693012138,
                       "close": true
                     }
                   }
@@ -182,6 +196,18 @@
                 }
               },
               {
+                "id": "77d927e7f0c09f21",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "cd187a959b7facbe",
                 "type": "leaf",
                 "state": {
@@ -194,7 +220,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -247,7 +273,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -263,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Halcón.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Halcón.md",
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Halcón.md"
+                "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md"
               }
             }
           },
@@ -382,16 +409,29 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8c4afeee40d88f25",
+  "active": "47413fc7ca316cc4",
   "lastOpenFiles": [
-    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Matón Zentharim.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Halcón.md",
     "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
-    "Videos/Mageseeker Video/Short Version.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md",
     "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Gralhund Villa.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Solo Session Zarrai.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Opening Day.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 5 Notas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 6 Notas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 7 Notas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 9 notas.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 10 notas.md",
     "Ficción/D&D/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Fell y Row.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Halcón.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Matón Zentharim.md",
+    "Videos/Mageseeker Video/Short Version.md",
+    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Gralhund Villa.md",
     "Ficción/D&D/Waterdeep Dragon Heist/3- Organizaciones/Familias/Gralhund.md",
     "Videos/Mageseeker Video/Gameplay.md",
     "Videos/Mageseeker Video/Narrativa.md",
@@ -399,19 +439,6 @@
     "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Casa de las Manos Inspiradas.md",
     "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md",
     "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew",
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/5- Ideas/Flashbacks de Lander.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Nimblewright.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 10 notas.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/2- Lugares/Fortaleza de Paladeas.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 7.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 9.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 6.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 5.md",
     "z_attachments/D&D/TrollskullAlley.png",
     "z_attachments/D&D/Trollskull Renovated (partial).png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",

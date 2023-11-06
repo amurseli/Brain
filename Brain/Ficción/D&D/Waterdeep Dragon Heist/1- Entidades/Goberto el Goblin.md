@@ -61,7 +61,7 @@ El Arquetipo Marcial de Goberto es [[Samurai (Subclass)]], ahí esta toda la inf
 
 | cp  | sp  | ep  | gp  | pp  |
 | --- | --- | --- | --- | --- |
-| 25   | 112    | 0   | 22   | 0   |
+| 25   | 112    | 0   | 4   | 0   |
 
 - Studded leather armor
 - Katana

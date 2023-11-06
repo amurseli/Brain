@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laburo/AWS/Lambda Layers.md",
+                "file": "Lenguajes/React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Laburo/AWS/Lambda Layers.md",
+                "file": "Lenguajes/React/React.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laburo/AWS/Lambda Layers.md",
+                "file": "Lenguajes/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laburo/AWS/Lambda Layers.md",
+                "file": "Lenguajes/React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laburo/AWS/Lambda Layers.md"
+                "file": "Lenguajes/React/React.md"
               }
             }
           },
@@ -216,8 +216,11 @@
   },
   "active": "b29b0f5fa5c2cd94",
   "lastOpenFiles": [
-    "Lenguajes/HTML/Handlebars.md",
+    "Lenguajes/HTML/Todos los Elementos.md",
+    "Lenguajes/React/React.md",
+    "Lenguajes/React",
     "Laburo/AWS/Lambda Layers.md",
+    "Lenguajes/HTML/Handlebars.md",
     "Facultad/Sistemas Operativos/Variables de entorno.md",
     "Laburo/Step-Functions.md",
     "Laburo/Twillio/Whatsapp Sender.md",
@@ -245,14 +248,11 @@
     "Lenguajes/Conceptos Generales/Padding.md",
     "Lenguajes/Conceptos Generales",
     "Lenguajes/C++",
-    "Lenguajes/HTML/Manipular texto.md",
-    "Lenguajes/HTML/Todos los Elementos.md",
     "Facultad/Sistemas Operativos/Clase 1",
     "Facultad/Sistemas Operativos",
     "Pasted image 20230823121140.png",
     "z_images",
     "z_images/Cvars.png",
-    "z_templates",
-    "Facultad/Taller de Programación"
+    "z_templates"
   ]
 }
