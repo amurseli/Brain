@@ -2629,14 +2629,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.28,
-      "characterCount": 626,
+      "characterCount": 596,
       "nonWhitespaceCharacterCount": 503,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690920439146,
-      "modifiedDate": 1690920439146,
-      "sizeInBytes": 627
+      "modifiedDate": 1699316180852,
+      "sizeInBytes": 597
     },
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Embric.md": {
       "isDirectory": false,
@@ -2709,14 +2709,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.46,
-      "characterCount": 2744,
+      "characterCount": 2700,
       "nonWhitespaceCharacterCount": 2157,
       "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690920439144,
-      "modifiedDate": 1690920439144,
-      "sizeInBytes": 2780
+      "modifiedDate": 1699316163935,
+      "sizeInBytes": 2736
     },
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md": {
       "isDirectory": false,
@@ -2741,14 +2741,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.6233333333333333,
-      "characterCount": 1171,
+      "characterCount": 1146,
       "nonWhitespaceCharacterCount": 936,
       "linkCount": 7,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1690920439134,
-      "modifiedDate": 1690920439134,
-      "sizeInBytes": 1192
+      "modifiedDate": 1699316163621,
+      "sizeInBytes": 1167
     },
     "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md": {
       "isDirectory": false,
@@ -2973,6 +2973,38 @@
       "createdDate": 1699316056253,
       "modifiedDate": 1699316056623,
       "sizeInBytes": 964
+    },
+    "Ficción/D&D/Héroes de un Reino Derrotado/1- Entidades/Harvey Buenbarril.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699316352713,
+      "modifiedDate": 1699316352713,
+      "sizeInBytes": 0
+    },
+    "Ficción/D&D/Héroes de un Reino Derrotado/2- Lugares/Neverwinter.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699316364679,
+      "modifiedDate": 1699316364679,
+      "sizeInBytes": 0
     }
   }
 }
