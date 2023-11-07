@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "7bbb2af3d702c63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art is dead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aab34ba23f7affac",
             "type": "leaf",
             "state": {
@@ -44,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0331606de79205c9",
@@ -62,7 +75,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                    "file": "Art is dead.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -228,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "file": "Art is dead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "file": "Art is dead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md"
+                "file": "Art is dead.md"
               }
             }
           },
@@ -347,8 +360,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "74258c1f9f0e4421",
+  "active": "7bbb2af3d702c63d",
   "lastOpenFiles": [
+    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "Art is dead.md",
     "Ficción/D&D/Héroes de un Reino Derrotado/2- Lugares/Neverwinter.md",
     "Ficción/D&D/Héroes de un Reino Derrotado/1- Entidades/Harvey Buenbarril.md",
     "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
@@ -381,8 +396,6 @@
     "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Matón Zentharim.md",
     "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Kenkus.md",
     "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Hombrew",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Esqueletos.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Halcón.md",
     "Ficción/D&D/Héroes de un Reino Derrotado/5- Ideas/Ideas Realizadas",
     "Ficción/D&D/Héroes de un Reino Derrotado/3- Organizaciones/Familias",
     "z_attachments/D&D/TrollskullAlley.png",
