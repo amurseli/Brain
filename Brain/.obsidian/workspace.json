@@ -12,33 +12,19 @@
             "id": "74258c1f9f0e4421",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-                "mode": "source",
-                "source": false
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
               }
             }
           },
           {
-            "id": "7bbb2af3d702c63d",
+            "id": "0ee541ce2a33ba5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art is dead.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aab34ba23f7affac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,16 +34,11 @@
             "id": "82e11ab79f8fc6cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0331606de79205c9",
@@ -75,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Art is dead.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -110,7 +91,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
                     "mode": "source",
                     "source": false
                   }
@@ -122,7 +103,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/8- Enemigos Normales/Esqueletos.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Esqueletos.md",
                     "mode": "source",
                     "source": false
                   }
@@ -141,7 +122,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
                     "mode": "source",
                     "source": false
                   }
@@ -153,7 +134,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                     "mode": "source",
                     "source": false
                   }
@@ -165,14 +146,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ficción/D&D/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -241,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art is dead.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art is dead.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art is dead.md"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
               }
             }
           },
@@ -360,13 +341,22 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7bbb2af3d702c63d",
+  "active": "74258c1f9f0e4421",
   "lastOpenFiles": [
-    "Ficción/D&D/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Ideas/Oro-Rust.md",
+    "Ficción/Spire/Facciones de Spire.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
+    "Ficción/Spire/Spire, Ciudad de los Hilos.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "Ficción/Amarath",
     "Art is dead.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/2- Lugares/Neverwinter.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/1- Entidades/Harvey Buenbarril.md",
-    "Ficción/D&D/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
+    "Ficción/Spire",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
+    "Ficción/Amarath/Héroes de un Reino Derrotado/2- Lugares/Neverwinter.md",
+    "Ficción/Amarath/Héroes de un Reino Derrotado/1- Entidades/Harvey Buenbarril.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
     "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
     "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Homebrew/Objetos Mágicos/Fell y Row.md",
     "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
@@ -389,15 +379,6 @@
     "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Código Legal.md",
     "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Hechizos Hombrew",
     "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Sargento.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Shadow.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Nimblewright.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Montagrifos.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Minotauro Esqueleto.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Matón Zentharim.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Kenkus.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Hombrew",
-    "Ficción/D&D/Héroes de un Reino Derrotado/5- Ideas/Ideas Realizadas",
-    "Ficción/D&D/Héroes de un Reino Derrotado/3- Organizaciones/Familias",
     "z_attachments/D&D/TrollskullAlley.png",
     "z_attachments/D&D/Trollskull Renovated (partial).png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
