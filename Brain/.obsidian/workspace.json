@@ -9,36 +9,43 @@
         "dimension": 52.57510729613733,
         "children": [
           {
-            "id": "74258c1f9f0e4421",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
-              }
-            }
-          },
-          {
-            "id": "0ee541ce2a33ba5a",
+            "id": "7bbb2af3d702c63d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2C - Dungeons & Letters.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82e11ab79f8fc6cc",
+            "id": "12b860d15fbcdd72",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4 -El que Llovía, Los que Danzaban, El que Observaba y El que Reía.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05e52360fdc99a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "0331606de79205c9",
@@ -56,7 +63,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -84,30 +91,6 @@
                     }
                   }
                 }
-              },
-              {
-                "id": "fcca584176bf3cc0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f5d5c7d11c1ff89a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Esqueletos.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ]
           },
@@ -117,43 +100,27 @@
             "dimension": 62.40530303030303,
             "children": [
               {
-                "id": "60038ef14492be39",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5f3c1b07babdc7eb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "cd187a959b7facbe",
                 "type": "leaf",
                 "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e6f3ed06d78ffaf4",
+                "type": "leaf",
+                "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -222,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md"
               }
             }
           },
@@ -341,44 +308,44 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "74258c1f9f0e4421",
+  "active": "05e52360fdc99a4a",
   "lastOpenFiles": [
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Ideas/Oro-Rust.md",
-    "Ficción/Spire/Facciones de Spire.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
-    "Ficción/Spire/Spire, Ciudad de los Hilos.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-    "Ficción/Amarath",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/5 - Overtüre der eiwgen Nacht - Epílogo.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4 -El que Llovía, Los que Danzaban, El que Observaba y El que Reía.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2C - Dungeons & Letters.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2B - El hombre que no podía para de llorar y otros cuentos cortos.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/1B - Arte.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Flashbacks de Lander.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Solo Session Zarrai.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Oro-Rust.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Opening Day.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/0 - Timeline.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md",
     "Art is dead.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 7 Notas.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 9 notas.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 6 Notas.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 5 Notas.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 10 notas.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Prueba.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas",
+    "Ficción/Spire/Spire, Ciudad de los Hilos.md",
+    "Ficción/Spire/Facciones de Spire.md",
     "Ficción/Spire",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
-    "Ficción/Amarath/Héroes de un Reino Derrotado/2- Lugares/Neverwinter.md",
-    "Ficción/Amarath/Héroes de un Reino Derrotado/1- Entidades/Harvey Buenbarril.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Homebrew/Objetos Mágicos/Fell y Row.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Objetos Mágicos/Piedra de Golorr.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Homebrew/Objetos Mágicos",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Hombrew/Kamaitachi.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Hechizos Hombrew/Últimas Palabras.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Hombrew/Esqueleto a Caballo.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Hombrew/Anguila Gigante.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/5- Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/5- Ideas/Ideas Realizadas/Avril - Zarrai en el balcon Ashrunner.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/5- Ideas/Ideas Realizadas/Ataque a la fortaleza Ashrunner.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/3- Organizaciones/Familias/Gralhund.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/10-Pdfs/Generales/Alexandrian Remix Dragon Heist.pdf",
-    "Ficción/D&D/Héroes de un Reino Derrotado/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
-    "Ficción/D&D/Héroes de un Reino Derrotado/10-Pdfs/CS y SB/Shock.pdf",
-    "Ficción/D&D/Héroes de un Reino Derrotado/1- Entidades/Deidades/Ruthya.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Objetos Mágicos",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Homebrew",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Código Legal.md",
-    "Ficción/D&D/Héroes de un Reino Derrotado/9- Objetos/Hechizos Hombrew",
-    "Ficción/D&D/Héroes de un Reino Derrotado/8- Enemigos Normales/Sargento.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Fell y Row.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos",
+    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew",
+    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa",
     "z_attachments/D&D/TrollskullAlley.png",
     "z_attachments/D&D/Trollskull Renovated (partial).png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",

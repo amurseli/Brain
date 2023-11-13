@@ -1,3 +1,8 @@
+---
+tags:
+  - Narrativa
+---
+
 El acto empieza con una descripcion de [[Zarrai]], que gracias al orbe de transportación en la [[Fortaleza de Paladeas]], apareció repentinamente en [[Waterdeep]]
 
 Descripción de lo que ve, hasta llegar a [[Callejón Trollskull]]:
