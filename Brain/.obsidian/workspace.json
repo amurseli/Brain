@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md"
               }
             }
           },
@@ -295,11 +295,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "6816e75aee07d7f4",
+  "active": "7bbb2af3d702c63d",
   "lastOpenFiles": [
-    "z_attachments/D&D/SnakeParasite.png",
-    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md",
+    "Ficción/Amarath/La Espada de Alguien Más/2- Lugares/Neverwinter.md",
+    "Ficción/Amarath/La Espada de Alguien Más/1- Entidades/Dante Débonnaire.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
+    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md",
+    "z_attachments/D&D/SnakeParasite.png",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
@@ -317,13 +321,10 @@
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
-    "Ficción/Amarath/La Espada de Alguien Más/2- Lugares/Neverwinter.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Casa de las Manos Inspiradas.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md",
     "z_attachments/Pasted image 20231007022738.png",
     "z_attachments/Pasted image 20231007023333.png",
     "z_attachments/Trollskull Renovated (partial).png",
@@ -341,7 +342,6 @@
     "z_attachments/D&D/Trollskull Renovated (partial).png",
     "z_attachments/D&D/MansiónTrollskullAfuera.png",
     "z_attachments/D&D/Fell y Row.png",
-    "z_attachments/D&D/Phalanya Kysse.png",
-    "z_attachments/D&D/Phalanya Kysse Fondoless.png"
+    "z_attachments/D&D/Phalanya Kysse.png"
   ]
 }
