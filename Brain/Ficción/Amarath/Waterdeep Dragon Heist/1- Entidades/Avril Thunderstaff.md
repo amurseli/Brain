@@ -46,18 +46,23 @@ Había algo en lo que era buena… o al menos mediocre. Rimar. Desde que sus tut
 
 Los ojos púrpura de Avril brillaron con la idea.
 
+##### Los [[Katars-Esmeralda]]
+Avril es la dueña de los Katars-Esmeralda, un única en el mundo, que le permite a su portador crear un [[Salto]] a [[Spire, Ciudad de los Hilos|Spire]].
+
 ### Bladesong
 Para poder invocar [[Bladesong]], si habilidad como [[Bladesinger]], Avril debe recitar un fragmento de poema o cancion escrito por ella. Estos son algunos de los que puede recitar.
 
-*“A Heartbest wihout Harmony,
+*“A Heartbeat wihout Harmony,
 Is Moonlight without Dark,
 The Heart seeketh Equillibrium,
-With Balance will your worry part.”**
+With Balance will your worry part.”
 
 ### Ea
 Nunca, ni por un segundo, Avril pensó que se enamoraría. Nunca, hasta que conoció a [[Ea]]. Si bien todavía no es correspondido, o eso cree, fue amor a primera vista. La madurez mezclada con la habilidad de la Tiefling hicieron que no pueda dejar de verla.
 A día de hoy, ya habiendose conocido por un año, Avril todavía la sigue todas las mañanas, al lugar donde Ea entrena, solo para verla escondida.
 
+
+![[Another Avril.png]]
 ### Mini Ea
 **[[Sesión 4]]**
 Después de completar de forma dudosa el encargo que Deraxie le había pedido, Avril se cruza con una cara familiar en el camino. Ea, su amiga e interés amoroso estaba justo acá, caminando tranquilamente por la calle principal del [[Trade Ward]].
@@ -71,8 +76,6 @@ Ea le había hablado solamente una vez de su hermana, de como había tenído que
 Cuando notó que “mini Ea” seguía persiguiendola, empezó a desesperar; Si su amiga se enterase que le dió una pista importantísima a su hermana para seguirla. Pensó en matarla, pero claramente no era una opción, Ea la mataría a ella después, además, ya había matado bastante gente por le día ¿Hasta que punto ella seguía siendo de los buenos?
 
 Intentó un corte al suelo, derribandola y rezando para que no muera.
-
-Su conejo parece 
 
 
 ## Relaciones
@@ -133,6 +136,8 @@ spells:
 actions:
   - name: Multiattack
     desc: Avril makes two weapon attacks. It can cast a cantrip in place of one of these attacks.
+  - name: Emerald-Katars
+    desc: Avril can spend an action creating a Jump.
   - name: Shortsword
     desc: Melee Weapon Attack +5 to hit, reach 5ft, one target. 1d6 + 2 piercing damage, or 1d6 + 2 + 5 during Bladesong
 bonus_actions:

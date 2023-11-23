@@ -18,25 +18,22 @@
                 "source": false
               }
             }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "ab6a47f4c583b271",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a634b585ff4f24dd",
+            "id": "29f6f5f39cb309e5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Análisis Matemático/a-quick-guide-to-latex.pdf"
+                "file": "Análisis Matemático/Circulación y Campos Vectoriales.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático/Integrales de línea.md",
+                "file": "Análisis Matemático/Circulación y Campos Vectoriales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis Matemático/Integrales de línea.md",
+                "file": "Análisis Matemático/Circulación y Campos Vectoriales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático/Integrales de línea.md"
+                "file": "Análisis Matemático/Circulación y Campos Vectoriales.md"
               }
             }
           },
@@ -175,17 +172,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b136a2b14088232",
+  "active": "29f6f5f39cb309e5",
   "lastOpenFiles": [
-    "z_images/Pasted image 20231107193736.png",
     "Análisis Matemático/Integrales de línea.md",
+    "Lenguajes/C/Sockets TCP-IP en C.md",
+    "Pasted image 20231108185537.png",
+    "Pasted image 20231108183536.png",
+    "Análisis Matemático/Circulación y Campos Vectoriales.md",
+    "Análisis Matemático/Circulación y campos Vectoriales.md",
+    "Lenguajes/C++/SegFault.md",
+    "Html.md",
+    "Lenguajes/HTML/Todos los Elementos.md",
     "Análisis Matemático/a-quick-guide-to-latex.pdf",
+    "z_images/Pasted image 20231107193736.png",
     "z_images/Pasted image 20231107181711.png",
     "Análisis Matemático",
     "z_images/Pasted image 20231107175437.png",
     "Lenguajes/React/React.md",
     "Laburo/Twillio/Whatsapp Sender.md",
-    "Lenguajes/HTML/Todos los Elementos.md",
     "Lenguajes/React",
     "Laburo/AWS/Lambda Layers.md",
     "Lenguajes/HTML/Handlebars.md",
@@ -198,7 +202,6 @@
     "Laburo/AWS",
     "Laburo/Twillio/Mensaje con Contenido Media.md",
     "Laburo/Twillio/Upgradear.md",
-    "Lenguajes/C/Sockets TCP-IP en C.md",
     "Lenguajes/Conceptos Generales/Sockets TCP-IP.md",
     "Lenguajes/C",
     "Lenguajes/Linux/Comandos de Sockets y TCP-IP.md",
@@ -206,10 +209,6 @@
     "Laburo/PDFs/Nuevos Pdfs.md",
     "Facultad/Taller de Programación/Repaso de C.md",
     "Facultad/Taller de Programación/MC Manejo de memoria en C++.md",
-    "Facultad/Sistemas Operativos/Clase 1/SisCall.md",
-    "Facultad/Sistemas Operativos/Clase 1/Kernel.md",
-    "Lenguajes/C++/Links Interesantes.md",
-    "Facultad/Sistemas Operativos/Clase 1/Sistemas Operativos.md",
     "Lenguajes/Linux",
     "Lenguajes/Conceptos Generales",
     "Lenguajes/C++",

@@ -9,30 +9,29 @@
         "dimension": 52.57510729613733,
         "children": [
           {
-            "id": "7bbb2af3d702c63d",
+            "id": "74258c1f9f0e4421",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-                "mode": "source",
-                "source": false
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
               }
             }
           },
           {
-            "id": "12b860d15fbcdd72",
+            "id": "0ee541ce2a33ba5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4 -El que Llovía, Los que Danzaban, El que Observaba y El que Reía.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0331606de79205c9",
@@ -50,7 +49,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -73,9 +72,33 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.45050811767578197,
+                      "scale": 0.3213363860503596,
                       "close": true
                     }
+                  }
+                }
+              },
+              {
+                "id": "fcca584176bf3cc0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f5d5c7d11c1ff89a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Esqueletos.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -87,27 +110,43 @@
             "dimension": 62.40530303030303,
             "children": [
               {
-                "id": "cd187a959b7facbe",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "e6f3ed06d78ffaf4",
+                "id": "60038ef14492be39",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5f3c1b07babdc7eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cd187a959b7facbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -176,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md"
               }
             }
           },
@@ -295,53 +334,53 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7bbb2af3d702c63d",
+  "active": "60ef754364b93098",
   "lastOpenFiles": [
-    "Ficción/Amarath/La Espada de Alguien Más/2- Lugares/Neverwinter.md",
-    "Ficción/Amarath/La Espada de Alguien Más/1- Entidades/Dante Débonnaire.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
-    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md",
-    "z_attachments/D&D/SnakeParasite.png",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md",
-    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0B - Apoptosis.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md",
-    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lord Dagult Neverember.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-    "Ficción/Spire/Facciones de Spire.md",
-    "Ficción/Spire/Spire, Ciudad de los Hilos.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/Zentharim.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Yvyn Sammah.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Shock, La Guardia Roja y Xanathar.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - Eliminar.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4C - Llover.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4D - Observar.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4B - Danzar.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/5 - Overtüre der eiwgen Nacht - Epílogo.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4 -El que Llovía, Los que Danzaban, El que Observaba y El que Reía.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Casa de las Manos Inspiradas.md",
-    "z_attachments/Pasted image 20231007022738.png",
-    "z_attachments/Pasted image 20231007023333.png",
-    "z_attachments/Trollskull Renovated (partial).png",
-    "z_attachments/Daily Note Images/Dwaing.png",
-    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas",
-    "Ficción/Spire",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos",
-    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew",
-    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales",
-    "z_attachments/D&D/TrollskullAlley.png",
-    "z_attachments/D&D/Trollskull Renovated (partial).png",
-    "z_attachments/D&D/MansiónTrollskullAfuera.png",
-    "z_attachments/D&D/Fell y Row.png",
-    "z_attachments/D&D/Phalanya Kysse.png"
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Embric.md",
+    "z_attachments/D&D/ConstanzaAshrunner.jpg",
+    "z_attachments/Another Avril.png",
+    "Ficción/Amarath/Héroes de un Reino Derrotado/10- Pdfs/dragon-of-iscepire-peak.pdf",
+    "Ficción/Amarath/Héroes de un Reino Derrotado/10- Pdfs",
+    "Ficción/Amarath/Héroes de un Reino Derrotado",
+    "Diario/2023/11-November/2023-11-09-Thursday.md",
+    "Diario/2023/11-November",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Solo Session Zarrai.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Opening Day.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Avril - Zarrai en el balcon Ashrunner.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Ataque a la fortaleza Ashrunner.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Oro-Rust.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Flashbacks de Lander.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas",
+    "z_attachments/D&D/SnakeParasite.png",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2C - Dungeons & Letters.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2B - El hombre que no podía para de llorar y otros cuentos cortos.md",
+    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0B - Apoptosis.md",
+    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md",
+    "Ficción/Amarath/La Espada de Alguien Más/2- Lugares/Neverwinter.md",
+    "Ficción/Amarath/La Espada de Alguien Más/1- Entidades/Harvey Buenbarril.md",
+    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa",
+    "Ficción/Amarath/La Espada de Alguien Más/2- Lugares",
+    "Ficción/Amarath/La Espada de Alguien Más/1- Entidades",
+    "Ficción/Amarath/La Espada de Alguien Más",
+    "z_attachments/D&D/RenaerNeverember.png",
+    "z_attachments/D&D/Phalanya Kysse Fondoless.png",
+    "z_attachments/D&D/Nemeia Token.png",
+    "z_attachments/D&D/Nemeia.png",
+    "z_attachments/D&D/Oro Token.png",
+    "z_attachments/D&D/LanderSeverian.png",
+    "z_attachments/D&D/FortAshrunnerLight.jpg"
   ]
 }
