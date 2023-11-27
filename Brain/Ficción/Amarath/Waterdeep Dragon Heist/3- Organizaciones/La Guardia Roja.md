@@ -7,7 +7,7 @@ Buscan ser los primeros en [[Waterdeep]] en resolver el [[El enigma de Neverembe
 ## Miembros
 
 #### [[Sylvannas Nexteon]]
-Sylvannas es una [[Elfo|Elfa]] [[Paladín]]. Dice haberle jurado su alianza a [[Tyr]], el dios de la justicia, y blande su espada en pos de la justicia para los inocentes y el castigo para los malvados.
+Sylvannas es una [[Humano|Humana]] [[Paladín]]. Dice haberle jurado su alianza a [[Tyr]], el dios de la justicia, y blande su espada en pos de la justicia para los inocentes y el castigo para los malvados.
 
 #### [[Kat Erinniel]]
 Kat es un [[Tiefling]] [[Pícaro]], que disfruta de engañar, robar a los ricos para repartir las ganancias con sus amigos. Esta profundamente enamorado de Zel.

@@ -14,7 +14,7 @@ Buscando información durante sus viajes de lugares posiblemente encantados, par
 ### Planos
 
 Renovacion Parcial
-![[z_attachments/Trollskull Renovated (partial).png]]
+![[Trollskull Renovated (partial) 1.png]]
 
 
 ![[Waterdeep Dragon Heist Book.pdf#page=224]]

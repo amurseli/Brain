@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#PC",
@@ -64,9 +64,9 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.5,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 2.06510416666667,
   "lineSizeMultiplier": 0.814583333333333,
   "collapse-forces": true,
@@ -74,6 +74,6 @@
   "repelStrength": 14.375,
   "linkStrength": 0.458333333333333,
   "linkDistance": 267,
-  "scale": 0.059326171875000853,
-  "close": false
+  "scale": 0.17089711915840466,
+  "close": true
 }

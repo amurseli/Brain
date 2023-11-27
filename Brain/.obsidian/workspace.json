@@ -19,19 +19,43 @@
             }
           },
           {
-            "id": "0ee541ce2a33ba5a",
+            "id": "ded1a1a0e5c3483e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos/Piedra de Golorr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cea96ab4053cfc4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fdb5dabfdbe6e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kat Erinniel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0331606de79205c9",
@@ -49,7 +73,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -139,7 +163,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
+                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md",
                     "mode": "source",
                     "source": false
                   }
@@ -178,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "informe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md"
               }
             }
           },
@@ -334,9 +358,33 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "60ef754364b93098",
+  "active": "cea96ab4053cfc4c",
   "lastOpenFiles": [
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
+    "z_attachments/D&D/Fell y Row.png",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Fell y Row.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Informe Sisop.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos/Piedra de Golorr.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/Zentharim.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md",
+    "z_templates/Entity Template.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
+    "z_attachments/FLoxin.png",
+    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kat Erinniel.md",
+    "z_attachments/D&D/Trollskull Renovated (partial) 1.png",
+    "z_attachments/Pasted image 20231007022738.png",
+    "z_attachments/Pasted image 20231007023333.png",
+    "z_attachments/D&D/Kat Erinniel.png",
+    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Matón Zentharim.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 12.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Minotauro Esqueleto.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Shadow.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Shock, La Guardia Roja y Xanathar.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - Eliminar.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4C - Llover.md",
@@ -346,41 +394,17 @@
     "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4 -El que Llovía, Los que Danzaban, El que Observaba y El que Reía.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Durnan.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Embric.md",
     "z_attachments/D&D/ConstanzaAshrunner.jpg",
-    "z_attachments/Another Avril.png",
-    "Ficción/Amarath/Héroes de un Reino Derrotado/10- Pdfs/dragon-of-iscepire-peak.pdf",
+    "z_attachments/D&D/Another Avril.png",
+    "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs/dragon-of-iscepire-peak.pdf",
     "Ficción/Amarath/Héroes de un Reino Derrotado/10- Pdfs",
     "Ficción/Amarath/Héroes de un Reino Derrotado",
-    "Diario/2023/11-November/2023-11-09-Thursday.md",
     "Diario/2023/11-November",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Solo Session Zarrai.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Opening Day.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Avril - Zarrai en el balcon Ashrunner.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Ataque a la fortaleza Ashrunner.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Oro-Rust.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Flashbacks de Lander.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas",
     "z_attachments/D&D/SnakeParasite.png",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2C - Dungeons & Letters.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2B - El hombre que no podía para de llorar y otros cuentos cortos.md",
-    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0B - Apoptosis.md",
-    "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0A - Caído del Cielo.md",
-    "Ficción/Amarath/La Espada de Alguien Más/2- Lugares/Neverwinter.md",
-    "Ficción/Amarath/La Espada de Alguien Más/1- Entidades/Harvey Buenbarril.md",
     "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa",
     "Ficción/Amarath/La Espada de Alguien Más/2- Lugares",
-    "Ficción/Amarath/La Espada de Alguien Más/1- Entidades",
-    "Ficción/Amarath/La Espada de Alguien Más",
-    "z_attachments/D&D/RenaerNeverember.png",
-    "z_attachments/D&D/Phalanya Kysse Fondoless.png",
-    "z_attachments/D&D/Nemeia Token.png",
-    "z_attachments/D&D/Nemeia.png",
-    "z_attachments/D&D/Oro Token.png",
-    "z_attachments/D&D/LanderSeverian.png",
-    "z_attachments/D&D/FortAshrunnerLight.jpg"
+    "z_attachments/D&D/RenaerNeverember.png"
   ]
 }
