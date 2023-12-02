@@ -6,10 +6,21 @@
       {
         "id": "1334946d7ca58170",
         "type": "tabs",
-        "dimension": 52.57510729613733,
         "children": [
           {
             "id": "9fdb5dabfdbe6e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Blue Alley/Lest Hopefinder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25d1f9e6ed042b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,87 +30,47 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "0331606de79205c9",
-        "type": "split",
-        "dimension": 47.42489270386266,
-        "children": [
-          {
-            "id": "8553c9b64429f3d6",
-            "type": "tabs",
-            "dimension": 19.230769230769234,
-            "children": [
-              {
-                "id": "60ef754364b93098",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Ficción/Amarath/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.3213363860503596,
-                      "close": true
-                    }
-                  }
-                }
-              },
-              {
-                "id": "fcca584176bf3cc0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
           },
           {
-            "id": "962d52c007e920d3",
-            "type": "tabs",
-            "dimension": 80.76923076923077,
-            "children": [
-              {
-                "id": "cd187a959b7facbe",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Ficción/Amarath/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf"
-                  }
-                }
+            "id": "c27885dca281f212",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf"
               }
-            ]
+            }
+          },
+          {
+            "id": "0bcdffbe5a0e1793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Blue Alley/Solas, Blade of Forgiveness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "76794483e66ba35f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd187a959b7facbe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ficción/Amarath/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf",
+                "file": "Ficción/Amarath/Blue Alley/Blue Alley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf",
+                "file": "Ficción/Amarath/Blue Alley/Blue Alley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf"
+                "file": "Ficción/Amarath/Blue Alley/Blue Alley.md"
               }
             }
           },
@@ -284,11 +255,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "cd187a959b7facbe",
+  "active": "25d1f9e6ed042b4f",
   "lastOpenFiles": [
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md",
     "Ficción/Amarath/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf",
     "Ficción/Amarath/Blue Alley/Blue Alley.md",
+    "Ficción/Amarath/Blue Alley/Untitled.md",
+    "Ficción/Amarath/Blue Alley/Lest Hopefinder.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/Amarath/Blue Alley/Solas, Blade of Forgiveness.md",
+    "z_attachments/hbxt6bosq7k61.jpg",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",
     "Ficción/Amarath/Blue Alley",
     "Ficción/Amarath/Untitled.md",
@@ -309,7 +285,6 @@
     "z_templates/Entity Template.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md",
     "z_attachments/FLoxin.png",
-    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
     "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs",
     "z_attachments/D&D/Trollskull Renovated (partial) 1.png",
     "z_attachments/Pasted image 20231007022738.png",
@@ -320,11 +295,7 @@
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Minotauro Esqueleto.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Shadow.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Shock, La Guardia Roja y Xanathar.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - Eliminar.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4C - Llover.md",
     "z_attachments/D&D/ConstanzaAshrunner.jpg",
-    "z_attachments/D&D/Another Avril.png",
     "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs/dragon-of-iscepire-peak.pdf",
     "Ficción/Amarath/Héroes de un Reino Derrotado/10- Pdfs",
     "Ficción/Amarath/Héroes de un Reino Derrotado",
