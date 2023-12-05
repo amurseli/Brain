@@ -22,7 +22,7 @@ ___
 |10 (+0)|14 (+2)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
 
 ___
-
+	 
 - **Damage Vulnerabilities** bludgeoning
 
 - **Damage Immunities** poison
