@@ -16,3 +16,25 @@ El Décimo Círculo tiene la fachada de un bar, pero debajo se encuentra una are
 ---
 *2023-11-22*
 
+Okay, a la mierda todo.
+
+Shock no fue secuestrado, esta como rehen en Trollskull manor. Una organización llamada SEDE está esperando a que la party vuelva de la Villa Gralhund para robarle la Piedra de Golorr. Al mismo tiempo, la organización va a robarle su Ojo a la Guardia Roja. También robo los Ojos de Xanathar y de los Zentharim. Pero, va invitarlos a todos a un juego por la colección casi completa, la piedra y los tres ojos, en al isla flotante que lleva el [[Carnaval Errante]]. Para llegar allí, la invitación tiene unas instrucciones para crear un círculo de teleportación.
+
+### 1er Juego: Supervivencia
+
+El objetivo del primer juego, que empieza inmediatamente después de la teleportación, se llama supervivencia. Los participantes rondan los 200, pero solo pueden quedar 64. Además del paso a la siguiente ronda, se ofrecen dos premios. la persona con más eliminaciones ganará el objeto mágico [[Misty Boots]], y la primera persona en eliminar a otra ganará [[World Ender]].
+
+### 2er Juego: Duelos
+Duelos en parejas, hasta que solo queden 32 personas. Cada duelo va a tenr sus propias reglas especiales.
+
+### 3do Juego: Laberinto
+Este juego va a ser un laberinto, con 16 puertas. Cada puerta va a estar bloqueada detrás de una pregunta o una prueba pequeña, y solo una persona puede estar detrás de cada puerta.
+
+### Juego Final: Rey de la colina
+La piedra y los ojos van a estar en una colina en el centro del mapa. El primero en tomarla y aguantarla por 3 rondas, gana.
+
+---
+*2023-12-05*
+
+
+

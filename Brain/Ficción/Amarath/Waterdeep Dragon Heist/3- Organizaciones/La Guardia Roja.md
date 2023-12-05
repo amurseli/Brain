@@ -16,7 +16,13 @@ Kat es un [[Tiefling]] [[Pícaro]], que disfruta de engañar, robar a los ricos 
 Zelennya, o Zel, es una [[Clérigo]] [[Humano]], y es el alma del grupo. Fue la que los unió en primer lugar, aunque no se considera la líder, ella le cedió ese espacio a Ronnin.
 
 #### [[Ronnin Gracewind]]
-Ronnin es un [[Mago]] [[Humano]].
+Ronnin es un [[Mago]] [[Humano]], de pelo marron y cara amable. Es el lider de los Guardia Roja.
+
+### [[Finn Linnear]]
+Finn es una [[Bardo]] [[Tiefling]]. Es la más débil del grupo.
+
+### [[Sakreavus Rep]]
+Sak es un [[Dracónido]] [[Artificiero]] de piel Azul y gran inteligencia.
 
 
 #Organización

@@ -1,0 +1,1 @@
+Eliminar es la primera de las 3 partes del acto 4. Su objetivo principal es salvar a [[Goberto el Goblin|Shock]] y a [[Zelennya Adarbrent]]. El Antagonista principal es [[El Gremio de Xanathar]] y uno de los agentes mas fieles del propio Xanathar.
