@@ -19,10 +19,10 @@ Zelennya, o Zel, es una [[Clérigo]] [[Humano]], y es el alma del grupo. Fue la 
 Ronnin es un [[Mago]] [[Humano]], de pelo marron y cara amable. Es el lider de los Guardia Roja.
 
 ### [[Finn Linnear]]
-Finn es una [[Bardo]] [[Tiefling]]. Es la más débil del grupo.
+Finn es una [[Bardo]] [[Tiefling]]. Es la más débil del grupo. Viste ropa común, y lleva siempre consigo su cítara.
 
 ### [[Sakreavus Rep]]
-Sak es un [[Dracónido]] [[Artificiero]] de piel Azul y gran inteligencia.
+Sak es un [[Dracónido]] [[Artificiero]] de piel Azul y gran intelecto. Su campo de estudio es la alquimia
 
 
 #Organización
