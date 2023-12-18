@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,24 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d47db6bb55ccd9c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8900a9067b74fc9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/SEDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -115,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md"
               }
             }
           },
@@ -236,8 +219,8 @@
   },
   "active": "c27885dca281f212",
   "lastOpenFiles": [
-    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 12.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 12.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",

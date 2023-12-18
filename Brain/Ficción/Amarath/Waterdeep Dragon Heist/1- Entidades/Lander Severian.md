@@ -70,7 +70,25 @@ Faltaba ejecutar la última técnica para ganar la discusión, la definitiva, al
 
 
 - - -
-##### *18 años*
+##### *16 años*
+
+Lander caminaba unos pasos por delante del grupo, emocionado. Con el pecho inflado, esquivaba sin reparar en mirar a los estudaintes que, como él, caminaban los pasillos para llegar de un aula a otra.
+
+-Calmáte un poco, estás caminando muy rápido- Avi le gritó, un poco frustrada por estar siendo totalmente ignorada. -Él no se va a ir a ningún lado.
+
+-Dejalo, está que explota de la emoción, todos lo estuvimos cuando conocimos al director de la Academia, una de las personas mas poderosas de la Costa de la Espada- Lumen comía una fruta mientras hablaba. A diferencia de Lander, no esquivaba a los transeúntes, caminaba en línea recta, obligando al resto a frenarse o moverse para no chocarse con el semi-orco de dos metros que tenían delante.
+
+Avi se calmó, pero se estiró para agarrar de la capa a Lander, usándola como una correa.
+
+-Y recuerden, porfavor- Sokki interrumpió- No me hagan pasar verguenza, quizás no es necesario decirtelo a vos, Lan, pero al resto…
+
+-¿Que estas tratando de decir?- Respondió Ariadna, probablemente alzando una ceja. Lumen empezó a reirse con la boca llena de fruta.
+
+Lander sonrió, sin dejar de mirar adelante. No necesitaba voltearse para saber exactamente los gestos de sus amigos. Ya había pasado año y medio desde que se conocieron, y si bien quizás no querían admitirlo abiertamente, eran inseparables.
+
+El patrón de decoraciones de las paredes y el techo cambiaron, a medida que las aulas también se convertían en oficinas personales. Habían pasado del tercer entrepiso al ala derecha del cuarto entrepiso, la sala de direcciones. Lander se había vuelto familiar con los enrevesados pasillos y pisos de la academia mas rápido de lo que habría podido imaginar. Sin embargo, era la primera vez que se dirigiría al final de este pasillo. La sala del director [[Olrid]], El Caudillo de Las Estrellas. Un hombre con ese sobrenombre no podía ser un tipo normal. Una persona sola, que había fundado desde su concepcion a la Academia Eviterna de lo Oculto y Mágico, hace ya 300 años. Lander se había preguntado varias veces como un tipo de esa edad seguía vivo (y como seguía dedicandose a lo mismo), pero había llegado a la conclusión de que un tipo de sus cualidades habría descubierto alguna forma de alargar su vida.
+
+Lo que le parecía extraño, era la poca mención que se hacía de él, su fundador y director, en la propia academia. Salvando la ocasional mención en algún evento, o en alguna charla en el pasillo, solo sabía de el a través de lo que sus amigos llamaban “La Bienvenida”. La Bienvenida era un evento que todos habían tenido hace ya un año, cerca de la mitad de su primer ciclo lectivo. Uno por uno, sus amigos y compañeros habían sido invitados a la sala del director a conocerlo, todos menos Lander. Todo el mundo le decía que tarde o temprano, el director iba a llamarlo para conocerlo, ero ese día se había hecho esperar todo un año adicional. Sin embargo, había algo todavía mas raro que la extrañez de sus métodos de presentación. Estaba el hecho de que todos sus amigos, y todos los docentes y compañeros a los que había interrogado para obtener informacion sobre su apariencia, habían esquivado, o simplemente ignorado, la pregunta. Había creado una imagen mental, por supuesto, un anciano, con un largo gorro de colores llamativos y un largo bastón; lo que había leído desde niño en cuentos de legendarios magos, eruditos de la urdidumbre y la magia; verdaderos conocedores de lo arcano. Pero esta imagen mental no era más que eso, un prejuicio.
 
 
 
