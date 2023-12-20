@@ -1,0 +1,1 @@
+Atma nació en las hostiles tierras nevadas de [[Icewind Dale]], al sur de la Columna del Mundo.

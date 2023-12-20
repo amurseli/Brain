@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md"
               }
             }
           },
@@ -219,6 +218,8 @@
   },
   "active": "c27885dca281f212",
   "lastOpenFiles": [
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 12.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md",
@@ -249,8 +250,6 @@
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
     "z_attachments/Sylvannas Nexteon.png",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
     "z_attachments/D&D/Fell y Row.png",
     "z_attachments/FLoxin.png",
     "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs",
