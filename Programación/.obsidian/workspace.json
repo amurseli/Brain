@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sisop/Parcial.md",
+                "file": "Lenguajes/HTML/Todos los Elementos.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sisop/Parcial.md",
+                "file": "Lenguajes/HTML/Todos los Elementos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sisop/Parcial.md",
+                "file": "Lenguajes/HTML/Todos los Elementos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sisop/Parcial.md"
+                "file": "Lenguajes/HTML/Todos los Elementos.md"
               }
             }
           },
@@ -159,10 +159,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29f6f5f39cb309e5",
+  "active": "39339d170307958f",
   "lastOpenFiles": [
-    "Análisis Matemático/Circulación y Campos Vectoriales.md",
     "Sisop/Parcial.md",
+    "Análisis Matemático/Circulación y Campos Vectoriales.md",
     "Análisis Matemático/Integrales de línea.md",
     "Lenguajes/C/Sockets TCP-IP en C.md",
     "Pasted image 20231108185537.png",

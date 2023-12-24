@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -218,8 +219,12 @@
   },
   "active": "c27885dca281f212",
   "lastOpenFiles": [
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Emmek Frewn.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Orond Gralhund.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 12.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md",
@@ -244,11 +249,7 @@
     "Ficción/Amarath/Blue Alley/Untitled.md",
     "z_attachments/hbxt6bosq7k61.jpg",
     "Ficción/Amarath/Blue Alley",
-    "Ficción/Amarath/Untitled.md",
     "z_attachments/EventHorizon.png",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kat Erinniel.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
     "z_attachments/Sylvannas Nexteon.png",
     "z_attachments/D&D/Fell y Row.png",
     "z_attachments/FLoxin.png",
