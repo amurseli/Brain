@@ -6,7 +6,7 @@ Salvarse era una idea que casi todos habían abandonado ya. No había noticias d
 
 El sub-general, Kaito, partió por orden de Midolin, que miraba a sus soldados, sucios y asustados, sumirse lentamente en la desesperación. Siempre había logrado mantener la calma y la templanza en este tipo de situaciones. *“Aunque si hay un momento para desesperar, es este”*. La oleada de enemigos, la que esta vez los derrotaría a todos, estaba a pocos minutos, y no había absolutamente ningún lugar donde correr o esconderse. ¿Qué harían con ellos? ¿Los matarían directamente, o torturarían a algunos por información? Pero había una pregunta más inquietante dentro de su cabeza. Atma era la única mujer que quedaba del pelotón, ¿Tendrían los bárbaros la decencia de acabar con ella como con el resto? Atma iba a asegurarse de que eso no pasara. Solo quedaba pelear hasta el final.
 
-*Enfrenta tus debilidades, y nace nuevamente*
+*Enfrenta tus debilidades*
 
 Le había dicho un hombre hace ya más de diez años. Nunca había conocido el significado de esas palabras.
 
