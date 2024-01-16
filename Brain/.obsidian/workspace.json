@@ -13,7 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - Eliminar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce7a49ffaca97b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4d9e8f6640e2bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8b716d3a19c43528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98e59f68377458ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Team Attacks/Balance caótico.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -86,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md"
               }
             }
           },
@@ -144,7 +186,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -205,36 +249,38 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c27885dca281f212",
+  "active": "a4d9e8f6640e2bcc",
   "lastOpenFiles": [
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
+    "z_attachments/Sylvannas Nexteon 1.png",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - Eliminar.md",
+    "z_attachments/D&D/Kat Erinniel.png",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Team Attacks/Balance caótico.md",
+    "z_templates/Team Attacks Template.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Entrenamiento con la Guardia Roja.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Team Attacks",
+    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Emmek Frewn.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Orond Gralhund.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 12.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/NOtas Rapidosda.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Matón Zentharim.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
     "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/SEDE.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Shock, La Guardia Roja y Xanathar.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - Eliminar.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/0 - Timeline.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Esqueletos.md",
     "Ficción/Amarath/Blue Alley/Lest Hopefinder.md",
     "Ficción/Amarath/Blue Alley/Blue Alley.md",
-    "Ficción/Amarath/Blue Alley/Solas, Blade of Forgiveness.md",
-    "Untitled 1.md",
     "Ficción/Amarath/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf",
-    "Untitled.md",
-    "Ficción/Amarath/Blue Alley/Untitled.md",
     "z_attachments/hbxt6bosq7k61.jpg",
     "Ficción/Amarath/Blue Alley",
     "z_attachments/EventHorizon.png",
@@ -245,13 +291,10 @@
     "z_attachments/D&D/Trollskull Renovated (partial) 1.png",
     "z_attachments/Pasted image 20231007022738.png",
     "z_attachments/Pasted image 20231007023333.png",
-    "z_attachments/D&D/Kat Erinniel.png",
-    "z_attachments/D&D/ConstanzaAshrunner.jpg",
     "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs/dragon-of-iscepire-peak.pdf",
     "Ficción/Amarath/Héroes de un Reino Derrotado/10- Pdfs",
     "Ficción/Amarath/Héroes de un Reino Derrotado",
     "Diario/2023/11-November",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas"
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas"
   ]
 }

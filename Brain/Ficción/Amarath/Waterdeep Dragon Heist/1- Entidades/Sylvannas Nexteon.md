@@ -14,3 +14,4 @@ tags:
 
 ## Statblock
 
+![[Sylvannas Nexteon 1.png]]
