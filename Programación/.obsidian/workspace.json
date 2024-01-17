@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/HTML/Todos los Elementos.md",
+                "file": "Análisis Matemático/Circulación y Campos Vectoriales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes/HTML/Todos los Elementos.md",
+                "file": "Análisis Matemático/Circulación y Campos Vectoriales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes/HTML/Todos los Elementos.md",
+                "file": "Análisis Matemático/Circulación y Campos Vectoriales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes/HTML/Todos los Elementos.md"
+                "file": "Análisis Matemático/Circulación y Campos Vectoriales.md"
               }
             }
           },
@@ -136,7 +136,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -159,19 +161,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39339d170307958f",
+  "active": "29f6f5f39cb309e5",
   "lastOpenFiles": [
-    "Sisop/Parcial.md",
-    "Análisis Matemático/Circulación y Campos Vectoriales.md",
     "Análisis Matemático/Integrales de línea.md",
+    "Análisis Matemático/Circulación y Campos Vectoriales.md",
+    "Análisis Matemático/a-quick-guide-to-latex.pdf",
+    "Lenguajes/HTML/Todos los Elementos.md",
+    "Sisop/Parcial.md",
     "Lenguajes/C/Sockets TCP-IP en C.md",
     "Pasted image 20231108185537.png",
     "Pasted image 20231108183536.png",
     "Análisis Matemático/Circulación y campos Vectoriales.md",
     "Lenguajes/C++/SegFault.md",
     "Html.md",
-    "Lenguajes/HTML/Todos los Elementos.md",
-    "Análisis Matemático/a-quick-guide-to-latex.pdf",
     "z_images/Pasted image 20231107193736.png",
     "z_images/Pasted image 20231107181711.png",
     "Análisis Matemático",
@@ -196,7 +198,6 @@
     "Lenguajes/Linux/Hexdump.md",
     "Laburo/PDFs/Nuevos Pdfs.md",
     "Facultad/Taller de Programación/Repaso de C.md",
-    "Facultad/Taller de Programación/MC Manejo de memoria en C++.md",
     "Lenguajes/Linux",
     "Lenguajes/Conceptos Generales",
     "Lenguajes/C++",

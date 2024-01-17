@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+                "file": "Ficción/Sword/01.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,24 +45,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "8b716d3a19c43528",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "98e59f68377458ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Team Attacks/Balance caótico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+                "file": "Ficción/Sword/01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+                "file": "Ficción/Sword/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md"
+                "file": "Ficción/Sword/01.md"
               }
             }
           },
@@ -251,6 +233,9 @@
   },
   "active": "a4d9e8f6640e2bcc",
   "lastOpenFiles": [
+    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+    "Ficción/Sword/01.md",
+    "Ficción/Sword",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
     "z_attachments/Sylvannas Nexteon 1.png",
     "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - Eliminar.md",
@@ -258,7 +243,6 @@
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Team Attacks/Balance caótico.md",
     "z_templates/Team Attacks Template.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Entrenamiento con la Guardia Roja.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Team Attacks",
     "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
@@ -294,7 +278,6 @@
     "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs/dragon-of-iscepire-peak.pdf",
     "Ficción/Amarath/Héroes de un Reino Derrotado/10- Pdfs",
     "Ficción/Amarath/Héroes de un Reino Derrotado",
-    "Diario/2023/11-November",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas"
+    "Diario/2023/11-November"
   ]
 }
