@@ -18,6 +18,22 @@
     "excludeComments": false
   },
   "cachedCounts": {
+    "z_templates/Article Template.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 34,
+      "nonWhitespaceCharacterCount": 29,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017309734,
+      "modifiedDate": 1694017309734,
+      "sizeInBytes": 34
+    },
     "z_templates/Team Attacks Template.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -33,6 +49,54 @@
       "createdDate": 1705328865678,
       "modifiedDate": 1705328905165,
       "sizeInBytes": 46
+    },
+    "z_templates/Organizations Template.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 229,
+      "nonWhitespaceCharacterCount": 111,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017309739,
+      "modifiedDate": 1694017309739,
+      "sizeInBytes": 230
+    },
+    "z_templates/Session Notes Template.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 61,
+      "nonWhitespaceCharacterCount": 41,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017309740,
+      "modifiedDate": 1694017309740,
+      "sizeInBytes": 61
+    },
+    "z_templates/Location Template.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 118,
+      "nonWhitespaceCharacterCount": 83,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017309738,
+      "modifiedDate": 1694017309738,
+      "sizeInBytes": 118
     },
     "z_templates/Session Article Template.md": {
       "isDirectory": false,
@@ -66,53 +130,21 @@
       "modifiedDate": 1694017309739,
       "sizeInBytes": 148
     },
-    "z_templates/Session Notes Template.md": {
+    "z_templates/Entity Template.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 9,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03,
-      "characterCount": 61,
-      "nonWhitespaceCharacterCount": 41,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 51,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017309740,
-      "modifiedDate": 1694017309740,
-      "sizeInBytes": 61
-    },
-    "z_templates/Organizations Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 39,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 229,
-      "nonWhitespaceCharacterCount": 111,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017309739,
-      "modifiedDate": 1694017309739,
-      "sizeInBytes": 230
-    },
-    "z_templates/Location Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 15,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 118,
-      "nonWhitespaceCharacterCount": 83,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017309738,
-      "modifiedDate": 1694017309738,
-      "sizeInBytes": 118
+      "createdDate": 1694017309737,
+      "modifiedDate": 1701055317677,
+      "sizeInBytes": 95
     },
     "z_templates/Fast Ideas Template.md": {
       "isDirectory": false,
@@ -145,22 +177,6 @@
       "createdDate": 1694017309735,
       "modifiedDate": 1694017309735,
       "sizeInBytes": 6160
-    },
-    "z_templates/Entity Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 9,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 51,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017309737,
-      "modifiedDate": 1701055317677,
-      "sizeInBytes": 95
     },
     "z_templates/Daily Notes/Daily Note Template.md": {
       "isDirectory": false,
@@ -210,21 +226,21 @@
       "modifiedDate": 1694017309735,
       "sizeInBytes": 701
     },
-    "z_templates/Article Template.md": {
+    "Untitled 1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 34,
-      "nonWhitespaceCharacterCount": 29,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017309734,
-      "modifiedDate": 1694017309734,
-      "sizeInBytes": 34
+      "createdDate": 1701544134054,
+      "modifiedDate": 1701544134054,
+      "sizeInBytes": 0
     },
     "z_excalidraw/Drawing 2023-07-13 22.33.28.excalidraw.md": {
       "isDirectory": false,
@@ -242,7 +258,7 @@
       "modifiedDate": 1694017309732,
       "sizeInBytes": 27628
     },
-    "z_attachments/Sylvannas Nexteon 1.png": {
+    "z_attachments/EventHorizon.png": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -254,25 +270,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1705335873748,
-      "modifiedDate": 1705335873750,
-      "sizeInBytes": 174664
-    },
-    "z_attachments/FLoxin.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1701055278786,
-      "modifiedDate": 1701055278789,
-      "sizeInBytes": 84208
+      "createdDate": 1701187913446,
+      "modifiedDate": 1701187913446,
+      "sizeInBytes": 35655
     },
     "z_attachments/Sylvannas Nexteon.png": {
       "isDirectory": false,
@@ -290,7 +290,7 @@
       "modifiedDate": 1701187913460,
       "sizeInBytes": 568328
     },
-    "z_attachments/EventHorizon.png": {
+    "z_attachments/FLoxin.png": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -302,9 +302,41 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1701187913446,
-      "modifiedDate": 1701187913446,
-      "sizeInBytes": 35655
+      "createdDate": 1701055278786,
+      "modifiedDate": 1701055278789,
+      "sizeInBytes": 84208
+    },
+    "z_attachments/Sylvannas Nexteon 1.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1705335873748,
+      "modifiedDate": 1705335873750,
+      "sizeInBytes": 174664
+    },
+    "z_attachments/D&D/Zarrai Ozris Token.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1696431356740,
+      "modifiedDate": 1696431356741,
+      "sizeInBytes": 29998
     },
     "z_attachments/D&D/WyrmListaLibros.png": {
       "isDirectory": false,
@@ -338,22 +370,6 @@
       "modifiedDate": 1694017309696,
       "sizeInBytes": 950827
     },
-    "z_attachments/D&D/Zarrai Ozris Token.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1696431356740,
-      "modifiedDate": 1696431356741,
-      "sizeInBytes": 29998
-    },
     "z_attachments/D&D/squiddly.png": {
       "isDirectory": false,
       "noteCount": 1,
@@ -369,38 +385,6 @@
       "createdDate": 1694017309710,
       "modifiedDate": 1694017309729,
       "sizeInBytes": 903642
-    },
-    "z_attachments/D&D/Phalanya Kysse Fondoless.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1695055093907,
-      "modifiedDate": 1695055093908,
-      "sizeInBytes": 1350551
-    },
-    "z_attachments/D&D/Phalanya Kysse.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1695055093927,
-      "modifiedDate": 1695055093928,
-      "sizeInBytes": 2842043
     },
     "z_attachments/D&D/Trollskull Renovated (partial) 1.png": {
       "isDirectory": false,
@@ -434,7 +418,7 @@
       "modifiedDate": 1700665759893,
       "sizeInBytes": 361789
     },
-    "z_attachments/D&D/Nemeia Token.png": {
+    "z_attachments/D&D/Phalanya Kysse.png": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -446,9 +430,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1696433947434,
-      "modifiedDate": 1696433947435,
-      "sizeInBytes": 31368
+      "createdDate": 1695055093927,
+      "modifiedDate": 1695055093928,
+      "sizeInBytes": 2842043
     },
     "z_attachments/D&D/Shock2.jpg": {
       "isDirectory": false,
@@ -482,6 +466,22 @@
       "modifiedDate": 1694017309683,
       "sizeInBytes": 137021
     },
+    "z_attachments/D&D/Phalanya Kysse Fondoless.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695055093907,
+      "modifiedDate": 1695055093908,
+      "sizeInBytes": 1350551
+    },
     "z_attachments/D&D/Nemeia.png": {
       "isDirectory": false,
       "noteCount": 1,
@@ -497,6 +497,22 @@
       "createdDate": 1694017309680,
       "modifiedDate": 1694017309681,
       "sizeInBytes": 691481
+    },
+    "z_attachments/D&D/Nemeia Token.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1696433947434,
+      "modifiedDate": 1696433947435,
+      "sizeInBytes": 31368
     },
     "z_attachments/D&D/MansiónTrollskullAfuera.png": {
       "isDirectory": false,
@@ -546,6 +562,22 @@
       "modifiedDate": 1701062945021,
       "sizeInBytes": 116642
     },
+    "z_attachments/D&D/Kamaitachi.pdf": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694017309651,
+      "modifiedDate": 1694017309652,
+      "sizeInBytes": 1047176
+    },
     "z_attachments/D&D/FortAshrunnerLight.jpg": {
       "isDirectory": false,
       "noteCount": 1,
@@ -577,38 +609,6 @@
       "createdDate": 1694017309633,
       "modifiedDate": 1694017309635,
       "sizeInBytes": 125277
-    },
-    "z_attachments/D&D/Fortaleza de Paladeas map.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1696857452431,
-      "modifiedDate": 1696857452432,
-      "sizeInBytes": 1111430
-    },
-    "z_attachments/D&D/Kamaitachi.pdf": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1694017309651,
-      "modifiedDate": 1694017309652,
-      "sizeInBytes": 1047176
     },
     "z_attachments/D&D/FortAshrunnerDark.jpg": {
       "isDirectory": false,
@@ -642,6 +642,22 @@
       "modifiedDate": 1696857452417,
       "sizeInBytes": 5535097
     },
+    "z_attachments/D&D/Fortaleza de Paladeas map.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1696857452431,
+      "modifiedDate": 1696857452432,
+      "sizeInBytes": 1111430
+    },
     "z_attachments/D&D/ElOjoCazaMagia.jpg": {
       "isDirectory": false,
       "noteCount": 1,
@@ -657,6 +673,22 @@
       "createdDate": 1694017309615,
       "modifiedDate": 1694017309615,
       "sizeInBytes": 91480
+    },
+    "z_attachments/D&D/ConstanzaAshrunner.jpg": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694017309607,
+      "modifiedDate": 1694017309607,
+      "sizeInBytes": 721271
     },
     "z_attachments/D&D/Another Avril.png": {
       "isDirectory": false,
@@ -674,21 +706,21 @@
       "modifiedDate": 1700853721985,
       "sizeInBytes": 481188
     },
-    "z_attachments/D&D/ConstanzaAshrunner.jpg": {
+    "Videos/Mageseeker Video/Gameplay.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 693,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordGoal": null,
+      "pageCount": 2.31,
+      "characterCount": 4003,
+      "nonWhitespaceCharacterCount": 3307,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1694017309607,
-      "modifiedDate": 1694017309607,
-      "sizeInBytes": 721271
+      "aliases": null,
+      "createdDate": 1694017309597,
+      "modifiedDate": 1694017309597,
+      "sizeInBytes": 4051
     },
     "Videos/Mageseeker Video/Short Version.md": {
       "isDirectory": false,
@@ -738,22 +770,6 @@
       "modifiedDate": 1694017309597,
       "sizeInBytes": 480
     },
-    "Videos/Mageseeker Video/Gameplay.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 693,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.31,
-      "characterCount": 4003,
-      "nonWhitespaceCharacterCount": 3307,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017309597,
-      "modifiedDate": 1694017309597,
-      "sizeInBytes": 4051
-    },
     "Videos/Mageseeker Video/Conclusión.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -802,22 +818,6 @@
       "modifiedDate": 1701542420637,
       "sizeInBytes": 45
     },
-    "Untitled 1.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1701544134054,
-      "modifiedDate": 1701544134054,
-      "sizeInBytes": 0
-    },
     "Ficción/Sword/01.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -825,14 +825,30 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.8633333333333333,
-      "characterCount": 1585,
+      "characterCount": 1579,
       "nonWhitespaceCharacterCount": 1316,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706050256841,
-      "modifiedDate": 1706050256841,
-      "sizeInBytes": 1642
+      "modifiedDate": 1706050321257,
+      "sizeInBytes": 1636
+    },
+    "Ficción/Sword/Alcantarillas.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 347,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1566666666666667,
+      "characterCount": 2026,
+      "nonWhitespaceCharacterCount": 1680,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706537421127,
+      "modifiedDate": 1706624636479,
+      "sizeInBytes": 2074
     },
     "Ficción/Spire/Facciones de Spire.md": {
       "isDirectory": false,
@@ -1001,166 +1017,6 @@
       "modifiedDate": 1694017307644,
       "sizeInBytes": 0
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 854,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.8466666666666667,
-      "characterCount": 5028,
-      "nonWhitespaceCharacterCount": 4090,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017309513,
-      "modifiedDate": 1694017309513,
-      "sizeInBytes": 5037
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Entrenamiento con la Guardia Roja.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 91,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.30333333333333334,
-      "characterCount": 511,
-      "nonWhitespaceCharacterCount": 418,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1705328079133,
-      "modifiedDate": 1705328583918,
-      "sizeInBytes": 514
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Flashbacks de Lander.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 206,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6866666666666666,
-      "characterCount": 1241,
-      "nonWhitespaceCharacterCount": 1011,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699884477425,
-      "modifiedDate": 1699884477425,
-      "sizeInBytes": 1253
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Shock, La Guardia Roja y Xanathar.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 489,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.63,
-      "characterCount": 2882,
-      "nonWhitespaceCharacterCount": 2338,
-      "linkCount": 14,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1700853721971,
-      "modifiedDate": 1701866891300,
-      "sizeInBytes": 2968
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Oro-Rust.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 220,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7333333333333333,
-      "characterCount": 1273,
-      "nonWhitespaceCharacterCount": 1024,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699884477440,
-      "modifiedDate": 1699884477440,
-      "sizeInBytes": 1286
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Solo Session Zarrai.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 134,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.44666666666666666,
-      "characterCount": 813,
-      "nonWhitespaceCharacterCount": 661,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699884477429,
-      "modifiedDate": 1699884477429,
-      "sizeInBytes": 819
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 314,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0466666666666666,
-      "characterCount": 1843,
-      "nonWhitespaceCharacterCount": 1485,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699884477430,
-      "modifiedDate": 1700665756531,
-      "sizeInBytes": 1885
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Ataque a la fortaleza Ashrunner.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 423,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.41,
-      "characterCount": 2565,
-      "nonWhitespaceCharacterCount": 2091,
-      "linkCount": 13,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699884477426,
-      "modifiedDate": 1699884477426,
-      "sizeInBytes": 2598
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Opening Day.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 42,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14,
-      "characterCount": 246,
-      "nonWhitespaceCharacterCount": 195,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699884477428,
-      "modifiedDate": 1699884477428,
-      "sizeInBytes": 282
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Avril - Zarrai en el balcon Ashrunner.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 358,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1933333333333334,
-      "characterCount": 2315,
-      "nonWhitespaceCharacterCount": 1887,
-      "linkCount": 14,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699884477427,
-      "modifiedDate": 1699884477427,
-      "sizeInBytes": 2372
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos/Piedra de Golorr.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1176,6 +1032,22 @@
       "createdDate": 1694017309595,
       "modifiedDate": 1701055741316,
       "sizeInBytes": 519
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 99,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.33,
+      "characterCount": 616,
+      "nonWhitespaceCharacterCount": 510,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1701101953527,
+      "modifiedDate": 1701533181107,
+      "sizeInBytes": 672
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md": {
       "isDirectory": false,
@@ -1209,22 +1081,6 @@
       "modifiedDate": 1697643441160,
       "sizeInBytes": 1327
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 99,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.33,
-      "characterCount": 616,
-      "nonWhitespaceCharacterCount": 510,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1701101953527,
-      "modifiedDate": 1701533181107,
-      "sizeInBytes": 672
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1240,6 +1096,22 @@
       "createdDate": 1696857452383,
       "modifiedDate": 1696956351895,
       "sizeInBytes": 366
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Código Legal.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 160,
+      "nonWhitespaceCharacterCount": 132,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1694017309592,
+      "modifiedDate": 1694017309592,
+      "sizeInBytes": 162
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Últimas Palabras.md": {
       "isDirectory": false,
@@ -1273,22 +1145,6 @@
       "modifiedDate": 1705329494284,
       "sizeInBytes": 475
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Código Legal.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 160,
-      "nonWhitespaceCharacterCount": 132,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1694017309592,
-      "modifiedDate": 1694017309592,
-      "sizeInBytes": 162
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Shadow.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1321,22 +1177,6 @@
       "modifiedDate": 1698249541441,
       "sizeInBytes": 2581
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Minotauro Esqueleto.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 660,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.2,
-      "characterCount": 4199,
-      "nonWhitespaceCharacterCount": 3456,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1696857452377,
-      "modifiedDate": 1697643441148,
-      "sizeInBytes": 4238
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Sargento.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1353,21 +1193,21 @@
       "modifiedDate": 1694017307703,
       "sizeInBytes": 0
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Montagrifos.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Minotauro Esqueleto.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 319,
+      "wordCount": 660,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.0633333333333332,
-      "characterCount": 2090,
-      "nonWhitespaceCharacterCount": 1723,
-      "linkCount": 2,
+      "pageCount": 2.2,
+      "characterCount": 4199,
+      "nonWhitespaceCharacterCount": 3456,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017309590,
-      "modifiedDate": 1694017309590,
-      "sizeInBytes": 2090
+      "createdDate": 1696857452377,
+      "modifiedDate": 1697643441148,
+      "sizeInBytes": 4238
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/NOtas Rapidosda.md": {
       "isDirectory": false,
@@ -1384,6 +1224,38 @@
       "createdDate": 1702230954384,
       "modifiedDate": 1702242862950,
       "sizeInBytes": 88
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Matón Zentharim.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 134,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44666666666666666,
+      "characterCount": 912,
+      "nonWhitespaceCharacterCount": 742,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699171167022,
+      "modifiedDate": 1701060575237,
+      "sizeInBytes": 915
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Montagrifos.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 319,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0633333333333332,
+      "characterCount": 2090,
+      "nonWhitespaceCharacterCount": 1723,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017309590,
+      "modifiedDate": 1694017309590,
+      "sizeInBytes": 2090
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Kenkus.md": {
       "isDirectory": false,
@@ -1417,22 +1289,6 @@
       "modifiedDate": 1699173376883,
       "sizeInBytes": 593
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Matón Zentharim.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 134,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.44666666666666666,
-      "characterCount": 912,
-      "nonWhitespaceCharacterCount": 742,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699171167022,
-      "modifiedDate": 1701060575237,
-      "sizeInBytes": 915
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Kamaitachi.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1449,22 +1305,6 @@
       "modifiedDate": 1694017309589,
       "sizeInBytes": 19
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Anguila Gigante.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 214,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7133333333333334,
-      "characterCount": 1140,
-      "nonWhitespaceCharacterCount": 908,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1696857452366,
-      "modifiedDate": 1697643441141,
-      "sizeInBytes": 1142
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Esqueleto a Caballo.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1480,6 +1320,22 @@
       "createdDate": 1696857452372,
       "modifiedDate": 1697643441154,
       "sizeInBytes": 850
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Hombrew/Anguila Gigante.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 214,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7133333333333334,
+      "characterCount": 1140,
+      "nonWhitespaceCharacterCount": 908,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696857452366,
+      "modifiedDate": 1697643441141,
+      "sizeInBytes": 1142
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/8- Enemigos Normales/Esqueletos.md": {
       "isDirectory": false,
@@ -1561,39 +1417,7 @@
       "modifiedDate": 1700665756532,
       "sizeInBytes": 32
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2B - El hombre que no podía para de llorar y otros cuentos cortos.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699884477445,
-      "modifiedDate": 1699884477445,
-      "sizeInBytes": 32
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4C - Llover.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1700853721972,
-      "modifiedDate": 1700853721972,
-      "sizeInBytes": 0
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4B - Danzar.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -1625,6 +1449,22 @@
       "modifiedDate": 1698248643525,
       "sizeInBytes": 1233
     },
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4B - Danzar.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700853721972,
+      "modifiedDate": 1700853721972,
+      "sizeInBytes": 0
+    },
     "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/3 - Fuego, Autómatas y Sospechosos.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1641,21 +1481,37 @@
       "modifiedDate": 1705324974380,
       "sizeInBytes": 4858
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2B - El hombre que no podía para de llorar y otros cuentos cortos.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 10,
-      "nonWhitespaceCharacterCount": 10,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017309585,
-      "modifiedDate": 1694017309585,
-      "sizeInBytes": 10
+      "createdDate": 1699884477445,
+      "modifiedDate": 1699884477445,
+      "sizeInBytes": 32
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 697,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3233333333333333,
+      "characterCount": 4167,
+      "nonWhitespaceCharacterCount": 3453,
+      "linkCount": 28,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017309587,
+      "modifiedDate": 1698248645858,
+      "sizeInBytes": 4224
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/0 - La Bóveda - Preludio.md": {
       "isDirectory": false,
@@ -1673,21 +1529,21 @@
       "modifiedDate": 1701055593535,
       "sizeInBytes": 2027
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/2 - Bailes y Vitrales.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/1 - Un Amigo en Apuros.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 697,
+      "wordCount": 1,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.3233333333333333,
-      "characterCount": 4167,
-      "nonWhitespaceCharacterCount": 3453,
-      "linkCount": 28,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 10,
+      "nonWhitespaceCharacterCount": 10,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017309587,
-      "modifiedDate": 1698248645858,
-      "sizeInBytes": 4224
+      "createdDate": 1694017309585,
+      "modifiedDate": 1694017309585,
+      "sizeInBytes": 10
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 9.md": {
       "isDirectory": false,
@@ -1785,6 +1641,22 @@
       "modifiedDate": 1694019923121,
       "sizeInBytes": 3647
     },
+    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 12.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 710,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3666666666666667,
+      "characterCount": 4267,
+      "nonWhitespaceCharacterCount": 3542,
+      "linkCount": 23,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1701693705816,
+      "modifiedDate": 1701701096023,
+      "sizeInBytes": 4367
+    },
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1817,21 +1689,21 @@
       "modifiedDate": 1705326254726,
       "sizeInBytes": 1807
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 12.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 710,
+      "wordCount": 469,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.3666666666666667,
-      "characterCount": 4267,
-      "nonWhitespaceCharacterCount": 3542,
+      "pageCount": 1.5633333333333332,
+      "characterCount": 2929,
+      "nonWhitespaceCharacterCount": 2448,
       "linkCount": 23,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1701693705816,
-      "modifiedDate": 1701701096023,
-      "sizeInBytes": 4367
+      "createdDate": 1698250086543,
+      "modifiedDate": 1699449227464,
+      "sizeInBytes": 3018
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 1.md": {
       "isDirectory": false,
@@ -1865,22 +1737,6 @@
       "modifiedDate": 1694019922817,
       "sizeInBytes": 1894
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 469,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.5633333333333332,
-      "characterCount": 2929,
-      "nonWhitespaceCharacterCount": 2448,
-      "linkCount": 23,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1698250086543,
-      "modifiedDate": 1699449227464,
-      "sizeInBytes": 3018
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/0 - Timeline.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1897,21 +1753,149 @@
       "modifiedDate": 1697643497445,
       "sizeInBytes": 33
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 6 Notas.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Shock, La Guardia Roja y Xanathar.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 489,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 64,
-      "nonWhitespaceCharacterCount": 50,
-      "linkCount": 0,
+      "pageCount": 1.63,
+      "characterCount": 2882,
+      "nonWhitespaceCharacterCount": 2338,
+      "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017309558,
-      "modifiedDate": 1699283055507,
-      "sizeInBytes": 65
+      "createdDate": 1700853721971,
+      "modifiedDate": 1701866891300,
+      "sizeInBytes": 2968
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Flashbacks de Lander.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 206,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6866666666666666,
+      "characterCount": 1241,
+      "nonWhitespaceCharacterCount": 1011,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699884477425,
+      "modifiedDate": 1699884477425,
+      "sizeInBytes": 1253
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Oro-Rust.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 220,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7333333333333333,
+      "characterCount": 1273,
+      "nonWhitespaceCharacterCount": 1024,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699884477440,
+      "modifiedDate": 1699884477440,
+      "sizeInBytes": 1286
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Entrenamiento con la Guardia Roja.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 91,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 511,
+      "nonWhitespaceCharacterCount": 418,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1705328079133,
+      "modifiedDate": 1705328583918,
+      "sizeInBytes": 514
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Opening Day.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 246,
+      "nonWhitespaceCharacterCount": 195,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699884477428,
+      "modifiedDate": 1699884477428,
+      "sizeInBytes": 282
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Ataque a la fortaleza Ashrunner.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 423,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.41,
+      "characterCount": 2565,
+      "nonWhitespaceCharacterCount": 2091,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699884477426,
+      "modifiedDate": 1699884477426,
+      "sizeInBytes": 2598
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 314,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0466666666666666,
+      "characterCount": 1843,
+      "nonWhitespaceCharacterCount": 1485,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699884477430,
+      "modifiedDate": 1700665756531,
+      "sizeInBytes": 1885
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Avril - Zarrai en el balcon Ashrunner.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 358,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1933333333333334,
+      "characterCount": 2315,
+      "nonWhitespaceCharacterCount": 1887,
+      "linkCount": 14,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699884477427,
+      "modifiedDate": 1699884477427,
+      "sizeInBytes": 2372
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Solo Session Zarrai.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 134,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44666666666666666,
+      "characterCount": 813,
+      "nonWhitespaceCharacterCount": 661,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699884477429,
+      "modifiedDate": 1699884477429,
+      "sizeInBytes": 819
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 7 Notas.md": {
       "isDirectory": false,
@@ -1928,6 +1912,22 @@
       "createdDate": 1694017309559,
       "modifiedDate": 1695576375170,
       "sizeInBytes": 213
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 6 Notas.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 64,
+      "nonWhitespaceCharacterCount": 50,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017309558,
+      "modifiedDate": 1699283055507,
+      "sizeInBytes": 65
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesion 9 notas.md": {
       "isDirectory": false,
@@ -2009,38 +2009,6 @@
       "modifiedDate": 1694017309557,
       "sizeInBytes": 99
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 252,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.84,
-      "characterCount": 1485,
-      "nonWhitespaceCharacterCount": 1223,
-      "linkCount": 22,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1700853721961,
-      "modifiedDate": 1702298972312,
-      "sizeInBytes": 1501
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/SEDE.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 74,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.24666666666666667,
-      "characterCount": 428,
-      "nonWhitespaceCharacterCount": 276,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1701866891273,
-      "modifiedDate": 1701866891273,
-      "sizeInBytes": 431
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/Zentharim.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2061,6 +2029,38 @@
       "modifiedDate": 1701055527443,
       "sizeInBytes": 471
     },
+    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/SEDE.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 74,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24666666666666667,
+      "characterCount": 428,
+      "nonWhitespaceCharacterCount": 276,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1701866891273,
+      "modifiedDate": 1701866891273,
+      "sizeInBytes": 431
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 252,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.84,
+      "characterCount": 1485,
+      "nonWhitespaceCharacterCount": 1223,
+      "linkCount": 22,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700853721961,
+      "modifiedDate": 1702298972312,
+      "sizeInBytes": 1501
+    },
     "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/Garvan D'Luth.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2076,22 +2076,6 @@
       "createdDate": 1694017309545,
       "modifiedDate": 1694017309556,
       "sizeInBytes": 1708
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/Alianza de Lores.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 157,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 999,
-      "nonWhitespaceCharacterCount": 754,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017309543,
-      "modifiedDate": 1694017309544,
-      "sizeInBytes": 1004
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/Familias/Gralhund.md": {
       "isDirectory": false,
@@ -2109,21 +2093,37 @@
       "modifiedDate": 1698672775439,
       "sizeInBytes": 1475
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Peabody's Ale.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/Alianza de Lores.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 84,
+      "wordCount": 157,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 520,
-      "nonWhitespaceCharacterCount": 421,
-      "linkCount": 4,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 999,
+      "nonWhitespaceCharacterCount": 754,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017309541,
-      "modifiedDate": 1694017309541,
-      "sizeInBytes": 529
+      "createdDate": 1694017309543,
+      "modifiedDate": 1694017309544,
+      "sizeInBytes": 1004
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 114,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38,
+      "characterCount": 847,
+      "nonWhitespaceCharacterCount": 715,
+      "linkCount": 8,
+      "embedCount": 3,
+      "aliases": null,
+      "createdDate": 1694017309539,
+      "modifiedDate": 1701062997182,
+      "sizeInBytes": 857
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md": {
       "isDirectory": false,
@@ -2141,24 +2141,37 @@
       "modifiedDate": 1695055093891,
       "sizeInBytes": 767
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/La Costa Espada.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 53,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 339,
+      "nonWhitespaceCharacterCount": 284,
+      "linkCount": 5,
       "embedCount": 0,
-      "aliases": [
-        "Costa de la Espada",
-        "La Costa de la Espada"
-      ],
-      "createdDate": 1694019988670,
-      "modifiedDate": 1694020077020,
-      "sizeInBytes": 82
+      "aliases": null,
+      "createdDate": 1694017309541,
+      "modifiedDate": 1698761209012,
+      "sizeInBytes": 341
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Peabody's Ale.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 84,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.28,
+      "characterCount": 520,
+      "nonWhitespaceCharacterCount": 421,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017309541,
+      "modifiedDate": 1694017309541,
+      "sizeInBytes": 529
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md": {
       "isDirectory": false,
@@ -2192,22 +2205,6 @@
       "modifiedDate": 1694017309542,
       "sizeInBytes": 170
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Sea Ward.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 53,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 339,
-      "nonWhitespaceCharacterCount": 284,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017309541,
-      "modifiedDate": 1698761209012,
-      "sizeInBytes": 341
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/North Ward.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2224,21 +2221,40 @@
       "modifiedDate": 1694017309540,
       "sizeInBytes": 326
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Mansión Trollskull.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/La Costa Espada.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 114,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.38,
-      "characterCount": 847,
-      "nonWhitespaceCharacterCount": 715,
-      "linkCount": 8,
-      "embedCount": 3,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Costa de la Espada",
+        "La Costa de la Espada"
+      ],
+      "createdDate": 1694019988670,
+      "modifiedDate": 1694020077020,
+      "sizeInBytes": 82
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Gralhund Villa.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 71,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 458,
+      "nonWhitespaceCharacterCount": 379,
+      "linkCount": 3,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1694017309539,
-      "modifiedDate": 1701062997182,
-      "sizeInBytes": 857
+      "createdDate": 1699171570407,
+      "modifiedDate": 1699171868600,
+      "sizeInBytes": 461
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Fortaleza de Paladeas.md": {
       "isDirectory": false,
@@ -2259,38 +2275,6 @@
       "createdDate": 1696433807359,
       "modifiedDate": 1697643441130,
       "sizeInBytes": 5161
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Gralhund Villa.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 71,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.23666666666666666,
-      "characterCount": 458,
-      "nonWhitespaceCharacterCount": 379,
-      "linkCount": 3,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1699171570407,
-      "modifiedDate": 1699171868600,
-      "sizeInBytes": 461
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Fortaleza Ashrunner.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 223,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7433333333333333,
-      "characterCount": 1440,
-      "nonWhitespaceCharacterCount": 1192,
-      "linkCount": 5,
-      "embedCount": 3,
-      "aliases": null,
-      "createdDate": 1694017309538,
-      "modifiedDate": 1694019996465,
-      "sizeInBytes": 1456
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Escondite Zentharim.md": {
       "isDirectory": false,
@@ -2324,6 +2308,22 @@
       "modifiedDate": 1694017309538,
       "sizeInBytes": 1425
     },
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Fortaleza Ashrunner.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 223,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7433333333333333,
+      "characterCount": 1440,
+      "nonWhitespaceCharacterCount": 1192,
+      "linkCount": 5,
+      "embedCount": 3,
+      "aliases": null,
+      "createdDate": 1694017309538,
+      "modifiedDate": 1694019996465,
+      "sizeInBytes": 1456
+    },
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/El Dragón Ensartado.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2355,27 +2355,6 @@
       "createdDate": 1694017309536,
       "modifiedDate": 1694017309537,
       "sizeInBytes": 1541
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 102,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.34,
-      "characterCount": 651,
-      "nonWhitespaceCharacterCount": 539,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": [
-        "Ardeep",
-        "Bosque Lejano",
-        "Reino de la Luna Profunda",
-        "Ardeepforest"
-      ],
-      "createdDate": 1694019953173,
-      "modifiedDate": 1696433804876,
-      "sizeInBytes": 774
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Departamento de Oro.md": {
       "isDirectory": false,
@@ -2409,22 +2388,6 @@
       "modifiedDate": 1694017309528,
       "sizeInBytes": 69
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 39,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 253,
-      "nonWhitespaceCharacterCount": 210,
-      "linkCount": 7,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1694017309527,
-      "modifiedDate": 1697494451840,
-      "sizeInBytes": 255
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Casa de las Manos Inspiradas.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2441,21 +2404,58 @@
       "modifiedDate": 1698761622450,
       "sizeInBytes": 661
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Alexandrian Remix Dragon Heist.pdf": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Ardeep Forest.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 102,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordGoal": null,
+      "pageCount": 0.34,
+      "characterCount": 651,
+      "nonWhitespaceCharacterCount": 539,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": [
+        "Ardeep",
+        "Bosque Lejano",
+        "Reino de la Luna Profunda",
+        "Ardeepforest"
+      ],
+      "createdDate": 1694019953173,
+      "modifiedDate": 1696433804876,
+      "sizeInBytes": 774
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Callejón Trollskull.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 253,
+      "nonWhitespaceCharacterCount": 210,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1694017309527,
+      "modifiedDate": 1697494451840,
+      "sizeInBytes": 255
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Samurai (Subclass).md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 854,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.8466666666666667,
+      "characterCount": 5028,
+      "nonWhitespaceCharacterCount": 4090,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1694017308177,
-      "modifiedDate": 1694017308198,
-      "sizeInBytes": 21910937
+      "aliases": null,
+      "createdDate": 1694017309513,
+      "modifiedDate": 1694017309513,
+      "sizeInBytes": 5037
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf": {
       "isDirectory": false,
@@ -2472,6 +2472,22 @@
       "createdDate": 1694017309414,
       "modifiedDate": 1694017309498,
       "sizeInBytes": 82929099
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Alexandrian Remix Dragon Heist.pdf": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694017308177,
+      "modifiedDate": 1694017308198,
+      "sizeInBytes": 21910937
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/CS y SB/Shock.pdf": {
       "isDirectory": false,
@@ -2524,21 +2540,23 @@
       "modifiedDate": 1694017307707,
       "sizeInBytes": 0
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Vox.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 102,
+      "wordCount": 314,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.34,
-      "characterCount": 631,
-      "nonWhitespaceCharacterCount": 513,
-      "linkCount": 10,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1701055104041,
-      "modifiedDate": 1702299102794,
-      "sizeInBytes": 687
+      "pageCount": 1.0466666666666666,
+      "characterCount": 1947,
+      "nonWhitespaceCharacterCount": 1623,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": [
+        "Voxalinem Corvin"
+      ],
+      "createdDate": 1695655964605,
+      "modifiedDate": 1695659484086,
+      "sizeInBytes": 2052
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Zarrai.md": {
       "isDirectory": false,
@@ -2590,74 +2608,21 @@
       "modifiedDate": 1694017307706,
       "sizeInBytes": 1329
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Urstul Floxin.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 13,
+      "wordCount": 102,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 120,
-      "nonWhitespaceCharacterCount": 100,
-      "linkCount": 0,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1701187913429,
-      "modifiedDate": 1705335875767,
-      "sizeInBytes": 145
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Vox.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 314,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0466666666666666,
-      "characterCount": 1947,
-      "nonWhitespaceCharacterCount": 1623,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": [
-        "Voxalinem Corvin"
-      ],
-      "createdDate": 1695655964605,
-      "modifiedDate": 1695659484086,
-      "sizeInBytes": 2052
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 416,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.3866666666666667,
-      "characterCount": 2599,
-      "nonWhitespaceCharacterCount": 2154,
-      "linkCount": 4,
-      "embedCount": 2,
-      "aliases": [
-        "Phala",
-        "Nya"
-      ],
-      "createdDate": 1695055093882,
-      "modifiedDate": 1697486262219,
-      "sizeInBytes": 2698
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Squiddly.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 162,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.54,
-      "characterCount": 953,
-      "nonWhitespaceCharacterCount": 756,
-      "linkCount": 7,
+      "pageCount": 0.34,
+      "characterCount": 631,
+      "nonWhitespaceCharacterCount": 513,
+      "linkCount": 10,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1694017307704,
-      "modifiedDate": 1695656127606,
-      "sizeInBytes": 964
+      "createdDate": 1701055104041,
+      "modifiedDate": 1702299102794,
+      "sizeInBytes": 687
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Talisolvanar ”Tally” Fellbranch.md": {
       "isDirectory": false,
@@ -2674,6 +2639,54 @@
       "createdDate": 1694017307705,
       "modifiedDate": 1694017307705,
       "sizeInBytes": 0
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Jenks.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 162,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.54,
+      "characterCount": 967,
+      "nonWhitespaceCharacterCount": 772,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017307687,
+      "modifiedDate": 1695658271165,
+      "sizeInBytes": 988
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 120,
+      "nonWhitespaceCharacterCount": 100,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1701187913429,
+      "modifiedDate": 1705335875767,
+      "sizeInBytes": 145
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Squiddly.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 162,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.54,
+      "characterCount": 953,
+      "nonWhitespaceCharacterCount": 756,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1694017307704,
+      "modifiedDate": 1695656127606,
+      "sizeInBytes": 964
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Saeth Cromley.md": {
       "isDirectory": false,
@@ -2707,53 +2720,24 @@
       "modifiedDate": 1694017307702,
       "sizeInBytes": 2201
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Nemeia.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 269,
+      "wordCount": 416,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.8966666666666666,
-      "characterCount": 1626,
-      "nonWhitespaceCharacterCount": 1349,
-      "linkCount": 3,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1694017307700,
-      "modifiedDate": 1696433795691,
-      "sizeInBytes": 1675
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Nat.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 158,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5266666666666666,
-      "characterCount": 939,
-      "nonWhitespaceCharacterCount": 723,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017307699,
-      "modifiedDate": 1694017307699,
-      "sizeInBytes": 954
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 210,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7,
-      "characterCount": 1332,
-      "nonWhitespaceCharacterCount": 1005,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017307698,
-      "modifiedDate": 1694017307699,
-      "sizeInBytes": 1344
+      "pageCount": 1.3866666666666667,
+      "characterCount": 2599,
+      "nonWhitespaceCharacterCount": 2154,
+      "linkCount": 4,
+      "embedCount": 2,
+      "aliases": [
+        "Phala",
+        "Nya"
+      ],
+      "createdDate": 1695055093882,
+      "modifiedDate": 1697486262219,
+      "sizeInBytes": 2698
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Orond Gralhund.md": {
       "isDirectory": false,
@@ -2786,6 +2770,54 @@
       "createdDate": 1694017307700,
       "modifiedDate": 1696431735595,
       "sizeInBytes": 438
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Nat.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 158,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5266666666666666,
+      "characterCount": 939,
+      "nonWhitespaceCharacterCount": 723,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017307699,
+      "modifiedDate": 1694017307699,
+      "sizeInBytes": 954
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Nemeia.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 269,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8966666666666666,
+      "characterCount": 1626,
+      "nonWhitespaceCharacterCount": 1349,
+      "linkCount": 3,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1694017307700,
+      "modifiedDate": 1696433795691,
+      "sizeInBytes": 1675
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 210,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7,
+      "characterCount": 1332,
+      "nonWhitespaceCharacterCount": 1005,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017307698,
+      "modifiedDate": 1694017307699,
+      "sizeInBytes": 1344
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lord Fourier Ashrunner.md": {
       "isDirectory": false,
@@ -2835,22 +2867,6 @@
       "modifiedDate": 1694017307695,
       "sizeInBytes": 3285
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 289,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9633333333333334,
-      "characterCount": 1896,
-      "nonWhitespaceCharacterCount": 1454,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017307691,
-      "modifiedDate": 1700670350148,
-      "sizeInBytes": 1929
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kat Erinniel.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2866,22 +2882,6 @@
       "createdDate": 1701060630963,
       "modifiedDate": 1701063653877,
       "sizeInBytes": 403
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6121,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 20.403333333333332,
-      "characterCount": 35767,
-      "nonWhitespaceCharacterCount": 29481,
-      "linkCount": 20,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1694017307694,
-      "modifiedDate": 1703087623071,
-      "sizeInBytes": 36642
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Krun Ferropie.md": {
       "isDirectory": false,
@@ -2899,21 +2899,37 @@
       "modifiedDate": 1701055300651,
       "sizeInBytes": 621
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Jenks.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Lander Severian.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 162,
+      "wordCount": 6121,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.54,
-      "characterCount": 967,
-      "nonWhitespaceCharacterCount": 772,
+      "pageCount": 20.403333333333332,
+      "characterCount": 35767,
+      "nonWhitespaceCharacterCount": 29481,
+      "linkCount": 20,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1694017307694,
+      "modifiedDate": 1703087623071,
+      "sizeInBytes": 36642
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kruwen Ferropie.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 289,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9633333333333334,
+      "characterCount": 1896,
+      "nonWhitespaceCharacterCount": 1454,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017307687,
-      "modifiedDate": 1695658271165,
-      "sizeInBytes": 988
+      "createdDate": 1694017307691,
+      "modifiedDate": 1700670350148,
+      "sizeInBytes": 1929
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Grum' Shar.md": {
       "isDirectory": false,
@@ -2949,21 +2965,21 @@
       "modifiedDate": 1699200940304,
       "sizeInBytes": 5090
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Emmek Frewn.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Fala Lefaliir.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 84,
+      "wordCount": 272,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 596,
-      "nonWhitespaceCharacterCount": 503,
-      "linkCount": 0,
+      "pageCount": 0.9066666666666666,
+      "characterCount": 1820,
+      "nonWhitespaceCharacterCount": 1530,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017307666,
-      "modifiedDate": 1695575646226,
-      "sizeInBytes": 597
+      "createdDate": 1694017307677,
+      "modifiedDate": 1695658154885,
+      "sizeInBytes": 1821
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Floon Blagmaar.md": {
       "isDirectory": false,
@@ -2997,21 +3013,21 @@
       "modifiedDate": 1694017307682,
       "sizeInBytes": 0
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Fala Lefaliir.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Emmek Frewn.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 272,
+      "wordCount": 84,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.9066666666666666,
-      "characterCount": 1820,
-      "nonWhitespaceCharacterCount": 1530,
-      "linkCount": 6,
+      "pageCount": 0.28,
+      "characterCount": 596,
+      "nonWhitespaceCharacterCount": 503,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694017307677,
-      "modifiedDate": 1695658154885,
-      "sizeInBytes": 1821
+      "createdDate": 1694017307666,
+      "modifiedDate": 1695575646226,
+      "sizeInBytes": 597
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Embric.md": {
       "isDirectory": false,
@@ -3045,22 +3061,6 @@
       "modifiedDate": 1695658151015,
       "sizeInBytes": 2308
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 68,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.22666666666666666,
-      "characterCount": 514,
-      "nonWhitespaceCharacterCount": 385,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017307664,
-      "modifiedDate": 1695658037366,
-      "sizeInBytes": 524
-    },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Durnan.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3076,6 +3076,22 @@
       "createdDate": 1694017307663,
       "modifiedDate": 1695658150104,
       "sizeInBytes": 716
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Démocles Ferropie.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 68,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 514,
+      "nonWhitespaceCharacterCount": 385,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017307664,
+      "modifiedDate": 1695658037366,
+      "sizeInBytes": 524
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deraxie Goneare.md": {
       "isDirectory": false,
@@ -3093,21 +3109,21 @@
       "modifiedDate": 1695658035426,
       "sizeInBytes": 2736
     },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md": {
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2908,
+      "wordCount": 124,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 9.693333333333333,
-      "characterCount": 16865,
-      "nonWhitespaceCharacterCount": 13906,
-      "linkCount": 0,
+      "pageCount": 0.41333333333333333,
+      "characterCount": 774,
+      "nonWhitespaceCharacterCount": 627,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1703087622741,
-      "modifiedDate": 1705324966045,
-      "sizeInBytes": 17285
+      "createdDate": 1694017307661,
+      "modifiedDate": 1694017307661,
+      "sizeInBytes": 783
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md": {
       "isDirectory": false,
@@ -3124,22 +3140,6 @@
       "createdDate": 1694017307660,
       "modifiedDate": 1695658034524,
       "sizeInBytes": 1167
-    },
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 124,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.41333333333333333,
-      "characterCount": 774,
-      "nonWhitespaceCharacterCount": 627,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017307661,
-      "modifiedDate": 1694017307661,
-      "sizeInBytes": 783
     },
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Avril Thunderstaff.md": {
       "isDirectory": false,
@@ -3172,6 +3172,22 @@
       "createdDate": 1694017307654,
       "modifiedDate": 1695658034043,
       "sizeInBytes": 1852
+    },
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2908,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.693333333333333,
+      "characterCount": 16865,
+      "nonWhitespaceCharacterCount": 13906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1703087622741,
+      "modifiedDate": 1705324966045,
+      "sizeInBytes": 17285
     },
     "Ficción/Amarath/La Espada de Alguien Más/7- Narrativa/0B - Apoptosis.md": {
       "isDirectory": false,
@@ -3269,22 +3285,6 @@
       "modifiedDate": 1700672149722,
       "sizeInBytes": 1637
     },
-    "Ficción/Amarath/Blue Alley/Blue Alley.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2189,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.296666666666667,
-      "characterCount": 12322,
-      "nonWhitespaceCharacterCount": 10080,
-      "linkCount": 12,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1701533183319,
-      "modifiedDate": 1701545141671,
-      "sizeInBytes": 12507
-    },
     "Ficción/Amarath/Blue Alley/Solas, Blade of Forgiveness.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3333,6 +3333,22 @@
       "modifiedDate": 1701693617845,
       "sizeInBytes": 1906
     },
+    "Ficción/Amarath/Blue Alley/Blue Alley.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2189,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.296666666666667,
+      "characterCount": 12322,
+      "nonWhitespaceCharacterCount": 10080,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1701533183319,
+      "modifiedDate": 1701545141671,
+      "sizeInBytes": 12507
+    },
     "Diario/Overview.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3364,6 +3380,22 @@
       "createdDate": 1700853721714,
       "modifiedDate": 1700853721714,
       "sizeInBytes": 1000
+    },
+    "Diario/2023/08-August/2023-08-09-Wednesday.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 137,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45666666666666667,
+      "characterCount": 1081,
+      "nonWhitespaceCharacterCount": 859,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017307641,
+      "modifiedDate": 1694017307642,
+      "sizeInBytes": 1125
     },
     "Diario/2023/08-August/2023-08-07-Monday.md": {
       "isDirectory": false,
@@ -3413,22 +3445,6 @@
       "modifiedDate": 1694017307636,
       "sizeInBytes": 1128
     },
-    "Diario/2023/08-August/2023-08-09-Wednesday.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 137,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.45666666666666667,
-      "characterCount": 1081,
-      "nonWhitespaceCharacterCount": 859,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017307641,
-      "modifiedDate": 1694017307642,
-      "sizeInBytes": 1125
-    },
     "Diario/2023/08-August/2023-08-03-Thursday.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3461,22 +3477,6 @@
       "modifiedDate": 1694017307632,
       "sizeInBytes": 1186
     },
-    "Diario/2023/07-July/2023-07-30-Sunday.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 120,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4,
-      "characterCount": 997,
-      "nonWhitespaceCharacterCount": 790,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694017307630,
-      "modifiedDate": 1694017307631,
-      "sizeInBytes": 1040
-    },
     "Diario/2023/07-July/2023-07-28-Friday.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3508,6 +3508,22 @@
       "createdDate": 1694017307631,
       "modifiedDate": 1694017307631,
       "sizeInBytes": 1153
+    },
+    "Diario/2023/07-July/2023-07-30-Sunday.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 120,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4,
+      "characterCount": 997,
+      "nonWhitespaceCharacterCount": 790,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694017307630,
+      "modifiedDate": 1694017307631,
+      "sizeInBytes": 1040
     },
     "Diario/2023/07-July/2023-07-27-Thursday.md": {
       "isDirectory": false,
