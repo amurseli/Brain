@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Prótesis de Mago.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Mercado Errante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Prótesis de Mago.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Mercado Errante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Prótesis de Mago.md"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Mercado Errante.md"
               }
             }
           },
@@ -231,11 +231,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "404b9ed2ec125c99",
+  "active": "9e56235f304b0441",
   "lastOpenFiles": [
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Colgantes del Fénix Ixt’Chultaran.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Oro's Trip.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Mercado Errante.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Prótesis de Mago.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Colgantes del Fénix Ixt’Chultaran.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Buscadores de Alma.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Colgante Etéreo.md",
     "z_templates/Magic Object Template.md",
@@ -243,7 +244,6 @@
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos/Piedra de Golorr.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Código Legal.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Oro's Trip.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
     "Ficción/Sword/Alcantarillas.md",

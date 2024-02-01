@@ -1,4 +1,4 @@
-*[[Spire, Ciudad de los Hilos]]*
+	  *[[Spire, Ciudad de los Hilos]]*
 
 ### Entrada
 El Mercado Errante es una organizacion de miles de personas que se juntan en lugares diferente, al rededor de todo Spire. Está compuesto por un mar de comerciantes y mercaderes, que ofrecen desde los servicios más extravagantes a los objetos mágicos más extraños. 
