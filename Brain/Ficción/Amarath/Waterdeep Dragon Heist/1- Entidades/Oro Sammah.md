@@ -1,3 +1,7 @@
+---
+aliases:
+  - Oro
+---
 
 ### Entrada
 
