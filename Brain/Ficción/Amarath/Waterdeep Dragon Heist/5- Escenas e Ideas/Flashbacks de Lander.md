@@ -11,7 +11,7 @@ Ya puse en marcha esta idea, e improvisé bastante los ingredientes para realiza
 - Hoja de papel (o un lugar donde escribir)
 - El Ojo tiene que disipar exitosamente 10 hechizos.
 
-El ojo uso como analogía un cofre cerrado con llave, al que se le hacen agujeros para recuperar los recuerdos.
+El ojo usó como analogía un cofre cerrado con llave, al que se le hacen agujeros para recuperar los recuerdos.
 
 ---
 *2023-09-25*

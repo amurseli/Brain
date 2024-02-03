@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático/Integrales Dobles.md",
+                "file": "Análisis Matemático/Integrales de Superficie.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático/Integrales Dobles.md",
+                "file": "Análisis Matemático/Integrales de Superficie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis Matemático/Integrales Dobles.md",
+                "file": "Análisis Matemático/Integrales de Superficie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático/Integrales Dobles.md"
+                "file": "Análisis Matemático/Integrales de Superficie.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   "active": "29f6f5f39cb309e5",
   "lastOpenFiles": [
     "Análisis Matemático/a-quick-guide-to-latex.pdf",
+    "Análisis Matemático/Integrales de Superficie.md",
     "Análisis Matemático/Integrales Dobles.md",
     "Análisis Matemático/Integrales de línea.md",
     "z_images/Pasted image 20231108183536.png",
@@ -220,7 +221,6 @@
     "Lenguajes/C",
     "Lenguajes/Linux/Comandos de Sockets y TCP-IP.md",
     "Lenguajes/Linux/Hexdump.md",
-    "Laburo/PDFs/Nuevos Pdfs.md",
     "Lenguajes/Linux",
     "Lenguajes/Conceptos Generales",
     "Lenguajes/C++",
