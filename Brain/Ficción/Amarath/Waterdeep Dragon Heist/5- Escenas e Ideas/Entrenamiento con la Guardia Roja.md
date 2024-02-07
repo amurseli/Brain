@@ -3,4 +3,4 @@ Me gustaría que empiecen con una pelea de 2 v 2, contra [[Kat Erinniel]] y [[Sy
 
 [[Zelennya Adarbrent]] se va a acercar a [[Lander Severian]] por un consejo, para que le enseñe a usar [[Inmovilizar Persona]]. A cambio, ella le dará la [[Tormenta Embotellada]]. 
 
-[[Sakreavus Rep]] se va a acercar a hacerle un cumplido a Nemeia sobre su nueva arma.
+[[Sakreavus Rep]] se va a acercar a hacerle un cumplido a Nemeia sobre su nueva arma. [[La Guardia Roja]]
