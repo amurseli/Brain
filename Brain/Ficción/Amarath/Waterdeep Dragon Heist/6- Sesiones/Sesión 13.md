@@ -10,4 +10,4 @@ Justo cuando Lander, Nemeia y Kruwen están por llegar a la mansión, se encuent
 
 ---
 
-Esta sesión concluye con [[3 - Fuego, Autómatas y Sospechosos]] y empieza [[4A - Eliminar]].
+Esta sesión concluye con [[3 - Fuego, Autómatas y Sospechosos]] y empieza [[4A - El Torneo de los Ladrones]].
