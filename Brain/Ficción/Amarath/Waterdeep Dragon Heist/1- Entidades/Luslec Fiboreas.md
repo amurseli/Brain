@@ -24,4 +24,4 @@ Luslec es el líder y co-fundador de [[Garvan D'Luth]]. Si bien sus objetivos so
 | [[Garvan D'Luth]] | Líder |
 
 
-#Entidad
+#Entidad #NPC 

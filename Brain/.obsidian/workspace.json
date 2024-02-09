@@ -6,19 +6,8 @@
       {
         "id": "215798ef47ba9832",
         "type": "tabs",
+        "dimension": 72.24334600760456,
         "children": [
-          {
-            "id": "53db1885535277d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Entrenamiento con la Guardia Roja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "7403dbe62b9cda5e",
             "type": "leaf",
@@ -44,16 +33,13 @@
             }
           },
           {
-            "id": "5f9c473812e36bb1",
+            "id": "6f3a62d8fe4800d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+              "type": "graph",
+              "state": {}
+            },
+            "group": "9fe2c6c59cce8c28"
           },
           {
             "id": "c6d8200b76022089",
@@ -61,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,64 +66,50 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
-        "id": "2bfb64878312a4b0",
-        "type": "split",
+        "id": "ba69b329e854b8ed",
+        "type": "tabs",
+        "dimension": 27.756653992395435,
         "children": [
           {
-            "id": "a7327f00f7a40e18",
-            "type": "tabs",
-            "dimension": 34.18013856812933,
-            "children": [
-              {
-                "id": "ee7a68bfb423b958",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Sesión 15.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "60327a1e0e343ead",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "507384a396b0cd54",
-            "type": "tabs",
-            "dimension": 65.81986143187068,
-            "children": [
-              {
-                "id": "c53db4663e1c75ce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kat Erinniel.md",
-                    "mode": "source",
-                    "source": false
-                  }
+            "id": "dc1d6d006cea7fc4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224432,
+                  "close": false
                 }
               }
-            ]
+            },
+            "group": "9fe2c6c59cce8c28"
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 255.5
   },
   "right": {
     "id": "fcc33a9b8a257313",
@@ -203,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +191,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +212,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md"
-              }
+              "state": {}
             }
           },
           {
@@ -324,10 +292,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c6d8200b76022089",
+  "active": "6f3a62d8fe4800d1",
   "lastOpenFiles": [
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
+    "Jester.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Hechizos Hombrew/Team Attacks/Balance caótico.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Entrenamiento con la Guardia Roja.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/¡El Tesoro de Wyrm el Libro!.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Phalanya Kysse.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Vox.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Embric.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Flashbacks de Lander.md",
@@ -336,9 +310,7 @@
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Kat Erinniel.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Hechizos Hombrew/Team Attacks/Balance caótico.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Entrenamiento con la Guardia Roja.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 13.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Oro's Trip.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Colgantes del Fénix Ixt’Chultaran.md",
@@ -348,10 +320,6 @@
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Colgante Etéreo.md",
     "z_templates/Magic Object Template.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Bufanda de Anguila Gigante.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Objetos Mágicos/Piedra de Golorr.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Código Legal.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Oro Sammah.md",
-    "Ficción/Sword/Alcantarillas.md",
     "Ficción/Sword",
     "z_attachments/Sylvannas Nexteon 1.png",
     "z_attachments/D&D/Kat Erinniel.png",
