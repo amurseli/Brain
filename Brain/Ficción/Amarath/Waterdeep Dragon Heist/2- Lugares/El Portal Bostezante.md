@@ -1,7 +1,7 @@
 *[[Castle Ward]]*
 
 ### Entrada
-**El Portal Bostezante**, o el **Portal del Brecho** es la taberna y posada mas conocída de todo [[Waterdeep]], quizás incluso de todo [[Faerûn]].
+**El Portal Bostezante**, o el **Portal del Brecho** es la taberna y posada mas conocída de todo [[Waterdeep]], quizás incluso de todo [[Daerun]].
 
 ### Historia y propósito del Portal Bostezante
 
@@ -9,7 +9,7 @@ El Portal Bostezante, o el Portal del Brecho fue establecido en el 1306 CV�
 
 Cuando las sombras crecen demasiado en La Ciudad de Waterdeep y la chimenea en la espita del Portal Bostezante se atenúa hasta un profundo resplandor carmesí, aventureros de todos los [[Reinos Olvidados]], e incluso de otros mundos, tiran historias y difunden relatos de oscuras mazmorras y tesoros perdidos. Algunos de los rumores espiados por el mismísimo Durnan, el cantinero de la posada del Portal Bostezante, están inspirados por lugares y eventos en tierras lejanas de todo el multiverso.
 
-El acceso conocido a las Ruinas de Bajomontaña es a travéz de una entrada en La posada de Portal Bostezante, pero también podría ser el umbral hacia la mayor tumba de masas conocida de Faerun actualmente.
+El acceso conocido a las Ruinas de Bajomontaña es a travéz de una entrada en La posada de Portal Bostezante, pero también podría ser el umbral hacia la mayor tumba de masas conocida de Daerun actualmente.
 
 ### [[Durnan]]
 Es el dueño actual del portal bostezante, pero también es el bartender.

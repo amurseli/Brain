@@ -1,4 +1,4 @@
-La idea general es que en su iglesia, [[Kruwen Ferropie]] tenga una visión y hable con su dios, [[Gond]]. Todavía no decidí si va a ser con el, o con algún otro dios.
+La idea general es que en su iglesia, [[Kruwen Ferropie]] tenga una visión y hable con su dios, [[Gond, El Hacedor de Prodigios]]. Todavía no decidí si va a ser con el, o con algún otro dios.
 
 ---
 *2023-07-13*
@@ -20,11 +20,11 @@ Tyr estaba tocando un instrumeto extraño, y le contó que los cadaveres que lso
 
 - [[Natanatan]]
 - [[Lathander]]
-- [[Gond]]
+- [[Gond, El Hacedor de Prodigios]]
 - [[Shar]]
 - [[Selúne]]
 
-Algo extraño, negro y poderoso los había matado. Tyr también había sido golpeado, pero no había muerto todavía
+Algo extraño, negro y poderoso los había matado. Tyr también había sido golpeado, pero no había muerto todavía. El lo llamó [[Esquirla Negra]]
 
 ---
 *2023-09-25*

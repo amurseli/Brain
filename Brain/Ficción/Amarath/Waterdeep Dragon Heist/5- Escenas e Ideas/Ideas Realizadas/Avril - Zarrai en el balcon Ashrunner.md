@@ -46,4 +46,4 @@ Quiero agregar a [[Goberto el Goblin]] en esta escena. Ambos van a estar en los 
 ---
 *2023-08-06*
 
-Una vez golpado, anuncio su muerte, para meterme dentro de la cabeza de Zarrai en un mundo onírico, y hacer que conozcoa a [[Ruthya]], ella lo quiere revivir, pero le ofrece hacerlo [[Warlock]]
+Una vez golpado, anuncio su muerte, para meterme dentro de la cabeza de Zarrai en un mundo onírico, y hacer que conozcoa a [[Ruthya, La Caótica]], ella lo quiere revivir, pero le ofrece hacerlo [[Warlock]]

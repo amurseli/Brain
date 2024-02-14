@@ -1,5 +1,5 @@
 
-Ahora mismo, [[Zarrai]] se encuentra en el medio del [[Ardeep Forest|Ardeepforest]], acompañado de [[Phalanya Kysse]]. La idea es que apenas empiece la sesion, el poder de [[Ruthya]] guíe a Zarrai una última vez, donde van a entrar en una mini-one session dungeon.
+Ahora mismo, [[Zarrai]] se encuentra en el medio del [[Ardeep Forest|Ardeepforest]], acompañado de [[Phalanya Kysse]]. La idea es que apenas empiece la sesion, el poder de [[Ruthya, La Caótica]] guíe a Zarrai una última vez, donde van a entrar en una mini-one session dungeon.
 
 ### 1 - Entrada
 

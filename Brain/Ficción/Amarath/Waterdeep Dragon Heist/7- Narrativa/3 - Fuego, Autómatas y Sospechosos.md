@@ -32,7 +32,7 @@ Cuando se acerquen a investigar [[Vincent Trench]] va a salir corriendo para su 
 Segundos después Vincent volvera con tres pergamino de [[Últimas Palabras]] y se lo va a dar a [[Kruwen Ferropie]].
 
 Estos es lo que todos dirían:
-- "Espero que a Izabel le guste el soldado de juguete que compré. Dicen que la Casa de las Manos Inspiradas es el mejor lugar para comprar esos lindos juguetes que se mueven solos. Me pregunto cómo lo hacen. ¿Será la voluntad de [[Gond]]?"
+- "Espero que a Izabel le guste el soldado de juguete que compré. Dicen que la Casa de las Manos Inspiradas es el mejor lugar para comprar esos lindos juguetes que se mueven solos. Me pregunto cómo lo hacen. ¿Será la voluntad de [[Gond, El Hacedor de Prodigios]]?"
 
 - Calvo Zhent: "Urstul dice que ese gnomo, Dalakhar, es nuestro boleto a la fortuna. Sea lo que sea esa piedra que tiene, nos va a hacer ricos."
 
