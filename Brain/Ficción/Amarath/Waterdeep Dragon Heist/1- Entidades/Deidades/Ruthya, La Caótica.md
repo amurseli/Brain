@@ -9,7 +9,7 @@ Ruthya es una deidad Élfica de la noche y el caos. A diferencia de muchos otros
 Desde el evento en el pasado de [[Zarrai]], Ruthya lo estuvo vigilando y alentando bien de cerca, a él y a su hermana, [[Rim]], que sobrevivió al atentado. 
 
 ### Apariencia y Mundo
-Ruthya se vé como una [[Elfa]] de tez mas bien pálida, vestida con ropa ajustada y ligera. Su mundo es un panteón en las nubs, desde el que se puede ver claramente la luna.
+Ruthya se vé como una [[Elfa]] de tez mas bien pálida, vestida con ropa ajustada y ligera. Su mundo es un panteón en las nubes, desde el que se puede ver claramente la luna.
 
 ```spotify
 url: 'https://open.spotify.com/playlist/5AbxPuv1ORQ0CMZ2FTLYU7?si=87d2299b96884059'

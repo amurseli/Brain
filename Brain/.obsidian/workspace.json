@@ -6,32 +6,8 @@
       {
         "id": "215798ef47ba9832",
         "type": "tabs",
-        "dimension": 56.54761904761905,
+        "dimension": 74.15384615384616,
         "children": [
-          {
-            "id": "7403dbe62b9cda5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbc162825d89f83f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "c0382ab3e699a255",
             "type": "leaf",
@@ -45,120 +21,48 @@
             }
           },
           {
-            "id": "261b556a3630afdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8ae36d2164469c6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Amarath/Panteón de Amarath.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - El Torneo de los Ladrones.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bee7d2145d99d066",
+            "id": "9c3385c3aa05cdd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Amarath/Panteón de Amarath.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b13d6dd247cd69d9",
+            "id": "3da6c37d898fbc09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Sword/Alcantarillas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fafc88726562532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya, La Caótica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "944da8660750419c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Amarath/Gond, El Hacedor de Prodigios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2416a5aad857db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya, La Caótica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6d8200b76022089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0459eca5f4ebef85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "ba69b329e854b8ed",
         "type": "tabs",
-        "dimension": 43.45238095238095,
+        "dimension": 25.846153846153847,
         "children": [
           {
             "id": "dc1d6d006cea7fc4",
@@ -166,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ficción/Sword/Alcantarillas.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Faer",
+                "query": "Uruk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Sword/Alcantarillas.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Sword/Alcantarillas.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Sword/Alcantarillas.md"
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md"
               }
             }
           },
@@ -382,21 +286,26 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "b13d6dd247cd69d9",
+  "active": "3da6c37d898fbc09",
   "lastOpenFiles": [
-    "Ficción/Amarath/Amarath/Calendario de Amarath.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - El Torneo de los Ladrones.md",
+    "Jester.md",
     "Ficción/Amarath/Amarath/Panteón de Amarath.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ruthya y Fell.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya, La Caótica.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 9.md",
+    "Ficción/Sword/Alcantarillas.md",
+    "Ficción/Amarath/Amarath/Calendario de Amarath.md",
     "Ficción/Amarath/Amarath/Gond, El Hacedor de Prodigios.md",
     "Ficción/Amarath/Amarath",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ruthya y Fell.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/El Portal Bostezante.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Daerun.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya, La Caótica.md",
     "Ficción/Amarath/Amarath/Esquirla Negra.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Buscadores de Alma.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 9.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 7.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 11.md",
@@ -406,11 +315,6 @@
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Fortaleza Ashrunner.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Waterdeep.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Hechizos Hombrew/Team Attacks/Balance caótico.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
-    "Jester.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Zarrai.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Luslec Fiboreas.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Entrenamiento con la Guardia Roja.md",
     "Ficción/Sword",
     "z_attachments/Sylvannas Nexteon 1.png",
     "z_attachments/D&D/Kat Erinniel.png",
