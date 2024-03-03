@@ -1,0 +1,6 @@
+- Mejora de [[Event Horizon]]. (listo)
+- Invención de [[Nemeia]]. 
+- Todo lo relacionado con los personajes del torneo.
+- Reglas de los Tandem Turns
+- Preparar el reencuentro entre [[Goberto el Goblin|Shock]] y [[Avril Thunderstaff]], y [[Oro Sammah|Oro]] y el equipo.
+- Resumen de la sesion 15
