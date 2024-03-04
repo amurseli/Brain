@@ -14,19 +14,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - El Torneo de los Ladrones.md",
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3da6c37d898fbc09",
+            "id": "6e56530c38c1cfdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Guía de Volo para los Turnos en Tándem.md",
+                "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1c048b67d98d7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Amarath/Calendario de Amarath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d38c4bca9ebe699a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00c850b74c8a197f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ruthya y Fell - Tyr y Kruwen.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Guía de Volo para los Turnos en Tándem.md",
+                    "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -73,7 +109,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.7132754626224432,
+                      "scale": 0.16348370567220522,
                       "close": true
                     }
                   }
@@ -166,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Guía de Volo para los Turnos en Tándem.md",
+                "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Guía de Volo para los Turnos en Tándem.md",
+                "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Guía de Volo para los Turnos en Tándem.md"
+                "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md"
               }
             }
           },
@@ -287,36 +323,38 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3da6c37d898fbc09",
+  "active": "6e56530c38c1cfdc",
   "lastOpenFiles": [
-    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Guía de Volo para los Turnos en Tándem.md",
+    "Ficción/Amarath/Amarath/Calendario de Amarath.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
+    "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/La Costa Espada.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - El Torneo de los Ladrones.md",
+    "Ficción/Amarath/Amarath/2- Reinos",
+    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/El Último Carnaval.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
+    "Ficción/Amarath/Amarath/1- Entidades",
+    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ruthya y Fell - Tyr y Kruwen.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Lista de cosas a terminar antes de la sesion 16.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Guía de Volo para los Turnos en Tándem.md",
+    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",
     "z_attachments/ps5D26.tmp",
-    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Lista de cosas a terminar antes de la sesion 16.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Prótesis de Mago.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ruthya y Fell.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - El Torneo de los Ladrones.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
     "Jester.md",
     "Ficción/Amarath/Amarath/Panteón de Amarath.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Deidades/Ruthya, La Caótica.md",
+    "Ficción/Amarath/Amarath/1- Entidades/Ruthya, La Caótica.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 9.md",
     "Ficción/Sword/Alcantarillas.md",
-    "Ficción/Amarath/Amarath/Calendario de Amarath.md",
-    "Ficción/Amarath/Amarath/Gond, El Hacedor de Prodigios.md",
+    "Ficción/Amarath/Amarath/1- Entidades/Gond, El Hacedor de Prodigios.md",
     "Ficción/Amarath/Amarath",
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/El Portal Bostezante.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Daerun.md",
     "Ficción/Amarath/Amarath/Esquirla Negra.md",
     "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Buscadores de Alma.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesion 10.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 7.md",
     "Ficción/Sword",
     "z_attachments/Sylvannas Nexteon 1.png",
     "z_attachments/D&D/Kat Erinniel.png",
@@ -332,8 +370,6 @@
     "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs",
     "z_attachments/D&D/Trollskull Renovated (partial) 1.png",
     "z_attachments/Pasted image 20231007022738.png",
-    "z_attachments/Pasted image 20231007023333.png",
-    "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs/dragon-of-iscepire-peak.pdf",
-    "Ficción/Amarath/Héroes de un Reino Derrotado/10- Pdfs"
+    "z_attachments/Pasted image 20231007023333.png"
   ]
 }

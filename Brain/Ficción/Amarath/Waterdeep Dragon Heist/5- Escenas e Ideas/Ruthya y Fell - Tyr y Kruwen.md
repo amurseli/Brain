@@ -5,8 +5,14 @@ En algun momento durante [[4A - El Torneo de los Ladrones]], Ruthya se comunicar
 
 “Necesito ayuda Zarrai”
 “Dale esto a [[Kruwen Ferropie]]”
-“Necesito que hagas algo por mí, y luego, destruye la **espada**”
+“…la **espada**”
 
 ---
 *2024-02-14*
+
+
+
+
+---
+*2024-03-04*
 
