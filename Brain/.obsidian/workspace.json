@@ -14,19 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e56530c38c1cfdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
+                "file": "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Amarath/Calendario de Amarath.md",
+                "file": "Ficción/Amaranth/Amaranth/Calendario de Amaranth.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,26 +38,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00c850b74c8a197f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ruthya y Fell - Tyr y Kruwen.md",
+                "file": "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Atma.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "acc1123f13bcc9f4",
@@ -86,7 +62,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
+                    "file": "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Atma.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -109,7 +85,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.16348370567220522,
+                      "scale": 0.6316046762907499,
                       "close": true
                     }
                   }
@@ -127,7 +103,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Lista de cosas a terminar antes de la sesion 16.md",
+                    "file": "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Oro's Trip.md",
                     "mode": "source",
                     "source": false
                   }
@@ -165,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Amarath",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
+                "file": "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Atma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
+                "file": "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Atma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md"
+                "file": "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Atma.md"
               }
             }
           },
@@ -323,51 +299,51 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "6e56530c38c1cfdc",
+  "active": "d38c4bca9ebe699a",
   "lastOpenFiles": [
-    "Ficción/Amarath/Amarath/Calendario de Amarath.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
-    "Ficción/Amarath/Amarath/2- Reinos/Los Reinos de Amarath.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/La Costa Espada.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/7- Narrativa/4A - El Torneo de los Ladrones.md",
-    "Ficción/Amarath/Amarath/2- Reinos",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/El Último Carnaval.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Atma.md",
-    "Ficción/Amarath/Amarath/1- Entidades",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ruthya y Fell - Tyr y Kruwen.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/4- Notas Rápidas/Lista de cosas a terminar antes de la sesion 16.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/11-Hombrew/Guía de Volo para los Turnos en Tándem.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/7- Narrativa/4A - El Torneo de los Ladrones.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Oro's Trip.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/Flashbacks de Lander.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Oro-Rust.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Shock, La Guardia Roja y Jester.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/4- Notas Rápidas/Lista de cosas a terminar antes de la sesion 16.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Constanza Ashrunner.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Atma.md",
+    "Ficción/Amaranth/Amaranth/2- Lugares/Los Reinos de Amarath.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/Ruthya y Fell - Tyr y Kruwen.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
+    "Ficción/Amaranth/Amaranth/Calendario de Amaranth.md",
+    "Ficción/Amaranth/Amaranth/Panteón de Amaranth.md",
+    "Ficción/Amaranth/Amaranth/1- Entidades/Gond, El Hacedor de Prodigios.md",
+    "Ficción/Spire/Facciones de Spire.md",
+    "Ficción/Amaranth/Amaranth/Esquirla Negra.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/2- Lugares/La Costa Espada.md",
+    "Ficción/Amaranth/Amaranth/2- Lugares",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/2- Lugares/El Último Carnaval.md",
+    "Ficción/Amaranth/Amaranth/1- Entidades",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/11-Hombrew/Guía de Volo para los Turnos en Tándem.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/3- Organizaciones/La Guardia Roja.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Event Horizon.md",
     "z_attachments/ps5D26.tmp",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Prótesis de Mago.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Prótesis de Mago.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
     "Jester.md",
-    "Ficción/Amarath/Amarath/Panteón de Amarath.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
-    "Ficción/Amarath/Amarath/1- Entidades/Ruthya, La Caótica.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/6- Sesiones/Sesión 9.md",
-    "Ficción/Sword/Alcantarillas.md",
-    "Ficción/Amarath/Amarath/1- Entidades/Gond, El Hacedor de Prodigios.md",
-    "Ficción/Amarath/Amarath",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/El Portal Bostezante.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/2- Lugares/Daerun.md",
-    "Ficción/Amarath/Amarath/Esquirla Negra.md",
-    "Ficción/Amarath/Waterdeep Dragon Heist/5- Escenas e Ideas/Ideas Realizadas/Visión interna de Kruwen.md",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Sylvannas Nexteon.md",
+    "Ficción/Amaranth/Amaranth",
     "Ficción/Sword",
     "z_attachments/Sylvannas Nexteon 1.png",
     "z_attachments/D&D/Kat Erinniel.png",
     "Ficción/Amarath/Waterdeep Dragon Heist/9- Objetos/Hechizos Hombrew/Team Attacks",
-    "Ficción/Amarath/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
-    "Ficción/Amarath/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf",
+    "Ficción/Amaranth/Waterdeep Dragon Heist/10-Pdfs/Generales/Waterdeep Dragon Heist Book.pdf",
+    "Ficción/Amaranth/Blue Alley/pdfcoffee.com_pudding-faire-pdf-free.pdf",
     "z_attachments/hbxt6bosq7k61.jpg",
-    "Ficción/Amarath/Blue Alley",
+    "Ficción/Amaranth/Blue Alley",
     "z_attachments/EventHorizon.png",
     "z_attachments/Sylvannas Nexteon.png",
     "z_attachments/D&D/Fell y Row.png",
     "z_attachments/FLoxin.png",
-    "Ficción/Amarath/La Espada de Alguien Más/10 - Pdfs",
+    "Ficción/Amaranth/La Espada de Alguien Más/10 - Pdfs",
     "z_attachments/D&D/Trollskull Renovated (partial) 1.png",
     "z_attachments/Pasted image 20231007022738.png",
     "z_attachments/Pasted image 20231007023333.png"

@@ -1,1 +1,0 @@
-[[Lord Dagult Neverember]], en alianza con los lores

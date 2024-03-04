@@ -4,3 +4,5 @@
 - Reglas de los Tandem Turns (listo)
 - Preparar el reencuentro entre [[Goberto el Goblin|Shock]] y [[Avril Thunderstaff]], y [[Oro Sammah|Oro]] y el equipo.
 - Resumen de la sesion 15
+- Discurso de Laeral
+- Diario de Watereeop (Listo)
