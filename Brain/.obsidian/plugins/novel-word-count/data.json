@@ -1424,14 +1424,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 9.693333333333333,
-      "characterCount": 16956,
+      "characterCount": 16865,
       "nonWhitespaceCharacterCount": 13906,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1705440188639,
-      "modifiedDate": 1705440188640,
-      "sizeInBytes": 17376
+      "modifiedDate": 1709596795252,
+      "sizeInBytes": 17285
     },
     "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Avi.md": {
       "isDirectory": false,
@@ -2720,14 +2720,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.6066666666666667,
-      "characterCount": 5680,
+      "characterCount": 5658,
       "nonWhitespaceCharacterCount": 2506,
       "linkCount": 42,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1709578470281,
-      "modifiedDate": 1709578470281,
-      "sizeInBytes": 5698
+      "modifiedDate": 1709596832281,
+      "sizeInBytes": 5676
     },
     "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/Flashbacks de Lander.md": {
       "isDirectory": false,
@@ -3981,6 +3981,22 @@
       "createdDate": 1707321992440,
       "modifiedDate": 1707801608598,
       "sizeInBytes": 445
+    },
+    "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/Guerra.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 364,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2133333333333334,
+      "characterCount": 2234,
+      "nonWhitespaceCharacterCount": 1864,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709596832236,
+      "modifiedDate": 1709597880672,
+      "sizeInBytes": 2262
     }
   }
 }
