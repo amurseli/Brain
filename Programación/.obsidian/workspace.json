@@ -13,29 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático/Integrales de Superficie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad3495adabd25a83",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Análisis Matemático/a-quick-guide-to-latex.pdf"
-              }
-            }
-          },
-          {
-            "id": "c6f95a7b33465b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis Matemático/Circulación y Campos Vectoriales.md",
+                "file": "Lenguajes/Rust/Introducción a RUST.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático/Integrales de Superficie.md",
+                "file": "Lenguajes/Rust/Introducción a RUST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis Matemático/Integrales de Superficie.md",
+                "file": "Lenguajes/Rust/Introducción a RUST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático/Integrales de Superficie.md"
+                "file": "Lenguajes/Rust/Introducción a RUST.md"
               }
             }
           },
@@ -185,8 +163,10 @@
   },
   "active": "29f6f5f39cb309e5",
   "lastOpenFiles": [
-    "Análisis Matemático/a-quick-guide-to-latex.pdf",
     "Análisis Matemático/Integrales de Superficie.md",
+    "Lenguajes/Rust/Introducción a RUST.md",
+    "Lenguajes/Rust",
+    "Análisis Matemático/a-quick-guide-to-latex.pdf",
     "Análisis Matemático/Integrales Dobles.md",
     "Análisis Matemático/Integrales de línea.md",
     "z_images/Pasted image 20231108183536.png",
@@ -225,7 +205,6 @@
     "Lenguajes/Conceptos Generales",
     "Lenguajes/C++",
     "Facultad/Sistemas Operativos/Clase 1",
-    "Facultad/Sistemas Operativos",
     "Pasted image 20230823121140.png",
     "z_images/Cvars.png"
   ]

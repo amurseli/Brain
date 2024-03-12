@@ -10,8 +10,18 @@ Según su memoria, debía estar justo entre medio de los calabozos de la fortale
 
 Sintió una puntada en el pecho. Si el metal tocaba el suelo, el ruido podría poner en alerta a los guardias. Casi como un reflejo, esperó a su siguiente latido y, al unísono con este, susurró:
 
--Arri - En su boca, sintió el sabor familiar de su habilidad, como si un leve humo se escapara de entre sus labios. Sintió su peso disminuir poco a poco. 
+-Sile - En su boca, sintió el sabor familiar de su habilidad, como si un leve humo se escapara de entre sus labios. De la yema de sus dedos, una esencia violácea corrió al lugar donde miraban, y creó una muy sutil esfera tranparente. El tubo entró a la esfera creada y golpeó contra el piso, pero no produjo ningún sonido. Estaba a salvo.
 
-Era una sensación familiar, sin embargo, siempre revolvía su interior. Su peso disminuyó, progresivamente, hasta llegar a flotar. Se planteó aprovechar el impulso, que pronto empezaría a impulsarla hacia arriba, para ahorrarse la subida, y tomar el pedazo de metal en el aire, pero rápidamente cambió de opinion. Frenó su habilidad -así la había llamado su padre- justo antes de notar que empezaba a subir. Metros abajo, escuchó un leve estrépito que reverberó en las paredes. Si habia tenido suerte, nadie en la mansión habría escuchado el metal caer. Al haber perdido su velocidad a mitad de camino, el golpe contra el fondo había sido mucho más leve.
+Su habilidad estaba resultando mucho más útil en su nueva vida de lo que había querido admitir. Siempre pensó que, de tener un poder único en el mundo, uno que haga “silencio” no era el más emocinante. Rencientemente había descuibierto que con mucha concentración, podía ocultar sus pisadas si caminaba al ritmo de su pálpito, y cada vez se le ocurían nuevas ideas en las que aplicarlo.
 
-Ganar su peso devuelta había sido terrible, sus brazos se soltaron, pero por suerte sus piernas estaba ahora apoyadas sobre la nueva apertura en el caño.
+Rena se relajó en el borde del tubo y asomó la cabeza. Se encontraba entre dos paredes de piedra, y varios caños diferentes se movían parlelos al suyo. Con un gentil empujón, saltó hasta uno de los caños adyacentes y comenzó a trepar, a un paso mucho más acelerado. Tardó poco en llegar al techo, una gruesa e inmóvil capa de adoquines que la separaban, probablemente del cielo. Rápidamente divisó la placa de madera diferente al resto del techo de la que su patrón le había hablado, y parada en el caño (que se giraba justo antes de llegar al techo, probablemente en dirección a un último baño) empujó hasta que la pesada placa cedió. ¿Quién era su patrón, que conocia con tanta exactitud el castilo? ¿Trabajaba para el Lord? Rena sacudió la cabeza y se centró exclusivamente en su misión.
+
+
+
+# Persecución
+
+Rena se le levantó al unísono con el hombre, que todavía no había percatado su presencia. Había estado bebiendo un café los últimos treinta minutos, mientras leía un diario tranquilamente. El hombre salió por la puerta y segundos después, Rena lo imitó.
+
+El Alto Paso, como siemrpe, estaba explotado de gente a estas horas del mediodía, y el sol calentaba tanto que Rena se mareó con solo exponerse a él. Sin perder el rastro, lo divisó alejandose, tranquilamente, entre la multitud. Una mujer que vendía fruta por la calle se le acercó, agarrandolo por sorpresa. Rena notó que, como reflejo, el hombre puso la mano por encima de su morral, como protegiéndolo. Si bien disimulaba no estarlo, mantenía la alerta ante gente que se le acercaba a hablar con calma, por lo que un rápido juego de manos no iba a ser la solución. Iba a ser bastante difícil de robar.
+
+No demasiado.
