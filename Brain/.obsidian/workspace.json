@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficción/Sword/Alcantarillas.md",
+                "file": "Ficción/Sword/Guja.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ficción/Sword/Alcantarillas.md",
+                    "file": "Ficción/Sword/Guja.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficción/Sword/Alcantarillas.md",
+                "file": "Ficción/Sword/Guja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficción/Sword/Alcantarillas.md",
+                "file": "Ficción/Sword/Guja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficción/Sword/Alcantarillas.md"
+                "file": "Ficción/Sword/Guja.md"
               }
             }
           },
@@ -302,6 +302,8 @@
   },
   "active": "2922a5adf5de83c6",
   "lastOpenFiles": [
+    "Ficción/Sword/Alcantarillas.md",
+    "Ficción/Sword/Guja.md",
     "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/El Último Carnaval y el Torneo de Ladrones.md",
     "Ficción/Amaranth/Amaranth/Calendario de Amaranth.md",
     "Ficción/Amaranth/Waterdeep Dragon Heist/5- Escenas e Ideas/Guerra.md",
@@ -331,7 +333,6 @@
     "z_attachments/ps5D26.tmp",
     "Ficción/Amaranth/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Prótesis de Mago.md",
     "Ficción/Amaranth/Waterdeep Dragon Heist/9- Objetos/Homebrew/Objetos Mágicos/Ojo Caza-Magia.md",
-    "Ficción/Amaranth/Waterdeep Dragon Heist/1- Entidades/Goberto el Goblin.md",
     "Ficción/Amaranth/Amaranth",
     "Ficción/Sword",
     "z_attachments/Sylvannas Nexteon 1.png",

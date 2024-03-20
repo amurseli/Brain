@@ -1,0 +1,4 @@
+- Gonza y Linnene suben a ver el mar de nubes, donde hablan de los exploradores y sus tareas y su entrenamiento.
+- Gonza y Linnene vuelven a la posada donde duermen y reciben a noticia de que Azula, su ciudad, esta siendo asediada, y deciden volver de inmediato
+- Unos ladrones atacan a Gonza que se defiende usando su Guja, pero un ladron oculto se apresura y lo apuñala, mientras el lresto corre a esperar que el hombre se desangre
+- Gonza y Linnene tienen unas últimas palabras, Linnene toma la Guja y, usando su entrenamiento, derrota a los hombres hasta que los guardias de la ciudad llegan.
