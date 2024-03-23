@@ -6,6 +6,12 @@
         "Mod"
       ],
       "key": "T"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "AltGraph"
     }
   ],
   "editor:insert-wikilink": [

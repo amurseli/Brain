@@ -1,6 +1,5 @@
 ---
 tags:
-  - Clase
   - AM2
 ---
 Toda la info se sacó de [Acá](https://www.youtube.com/watch?v=X2pYXeSdFIQ&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=19&ab_channel=MartinMaulhardt)

@@ -1,3 +1,8 @@
+---
+tags:
+  - AM2
+---
+
 ### Teorema de Fubini
 
 Sea $f : H = [a, b] \space x \space [c, d] \subset R^{2} \to R$  una funcion acotada, entonces: $$\LARGE \iint_{H}f(x, y )\space dx \space dy \space = \space \int_a^b (\int_{c}^{d} f(x,y)\ dy)dx$$
