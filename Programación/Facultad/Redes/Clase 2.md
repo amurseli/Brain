@@ -5,6 +5,8 @@ tags:
 ---
 Clase 2 | 22-03-2024
 
+# Transport Layer
+
 ### Multiplexing y Demultiplexing
 
 La capa de *Transporte* permite a las Aplicaciones comunicarse. Multiplexar es enviar hilos diferente de información por un solo medio, como un cable ethernet o wi-fi. Demultiplexar es lo inverso, distribuir lo recibido por un único medio a sus respectivos procesos.
